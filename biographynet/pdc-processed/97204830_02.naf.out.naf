@@ -1,0 +1,2373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NAF version="v3" xml:lang="nl">
+  <nafHeader>
+    <fileDesc creationtime="T00:00:00Z" filename="97204830_02.xml"/>
+    <public publicId="97204830_02" uri="biographynet/data/97204830_02.xml"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2015-07-14T13:19:31+0200" endTimestamp="2015-07-14T13:19:31+0200" hostname="kyoto.vu.nl" name="ixa-pipe-tok-nl" version="1.8.0-56f83ce4b61680346f15e5d4e6de6293764f7383"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp beginTimestamp="2015-07-14T13:20:37CEST" endTimestamp="2015-07-14T13:20:37CEST" hostname="kyoto" name="SoNaR-News-trained-SRL" timestamp="2015-07-14T13:20:37CEST" version="1.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2015-07-14T13:20:13CEST" endTimestamp="2015-07-14T13:20:13CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T13:20:13CEST" version="0.1_05sept2014"/>
+      <lp beginTimestamp="2015-07-14T13:20:31CEST" endTimestamp="2015-07-14T13:20:31CEST" hostname="kyoto" name="VUA-DSC-WSD" timestamp="2015-07-14T13:20:31CEST" version="1.2#20jan2015"/>
+      <lp beginTimestamp="2015-07-14T13:20:36+0200" endTimestamp="2015-07-14T13:20:36+0200" hostname="kyoto.vu.nl" name="vua-predicate-matrix-tagger" timestamp="2015-07-14T13:20:36+0200" version="1.0"/>
+      <lp beginTimestamp="2015-07-14T13:20:45+0200" endTimestamp="2015-07-14T13:20:45+0200" hostname="kyoto.vu.nl" name="vua-framenet-srl-tagger" timestamp="2015-07-14T13:20:45+0200" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2015-07-14T13:20:44+0200" endTimestamp="2015-07-14T13:20:44+0200" hostname="kyoto.vu.nl" name="vua-event-coref-intradoc-wn-sim" timestamp="2015-07-14T13:20:44+0200" version="2.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2015-07-14T13:20:13CEST" endTimestamp="2015-07-14T13:20:13CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T13:20:13CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituents">
+      <lp beginTimestamp="2015-07-14T13:20:13CEST" endTimestamp="2015-07-14T13:20:13CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T13:20:13CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2015-07-14T13:20:19+0200" endTimestamp="2015-07-14T13:20:28+0200" hostname="kyoto.vu.nl" name="ixa-pipe-nerc-nl-clusters-conll02" version="1.3.6-9927fdb32d943f0aa9748a656958af99eeb1f5b7"/>
+      <lp beginTimestamp="2015-07-14T13:20:32+0200" endTimestamp="2015-07-14T13:20:33+0200" hostname="kyoto.vu.nl" name="ixa-pipe-ned-nl" version="1.1.1-d35d4df5cb71940bf642bb1a83e2b5b7584010df"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="timeExpressions">
+      <lp beginTimestamp="2015-07-14T13:20:13+0200" endTimestamp="2015-07-14T13:20:16+0200" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-2a2999bb6558401326bf88bda44e9a9c404492c6"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>Fanatieke nationaal-socialist die in 1939 oneervol werd ontslagen als burgemeester van een grensgemeente. In de zomer van 1941 teruggekomen als Commissaris der Provincie Overijssel, een ambt dat hij een jaar later dacht te kunnen combineren met het actief strijden aan het Oostfront als vrijwilliger van de Waffen SS. Sneuvelde in de Oekraïne. Een opgewonden avonturier.</raw>
+  <text>
+    <wf id="w1" length="9" offset="0" para="1" sent="1">Fanatieke</wf>
+    <wf id="w2" length="19" offset="10" para="1" sent="1">nationaal-socialist</wf>
+    <wf id="w3" length="3" offset="30" para="1" sent="1">die</wf>
+    <wf id="w4" length="2" offset="34" para="1" sent="1">in</wf>
+    <wf id="w5" length="4" offset="37" para="1" sent="1">1939</wf>
+    <wf id="w6" length="8" offset="42" para="1" sent="1">oneervol</wf>
+    <wf id="w7" length="4" offset="51" para="1" sent="1">werd</wf>
+    <wf id="w8" length="9" offset="56" para="1" sent="1">ontslagen</wf>
+    <wf id="w9" length="3" offset="66" para="1" sent="1">als</wf>
+    <wf id="w10" length="12" offset="70" para="1" sent="1">burgemeester</wf>
+    <wf id="w11" length="3" offset="83" para="1" sent="1">van</wf>
+    <wf id="w12" length="3" offset="87" para="1" sent="1">een</wf>
+    <wf id="w13" length="13" offset="91" para="1" sent="1">grensgemeente</wf>
+    <wf id="w14" length="1" offset="104" para="1" sent="1">.</wf>
+    <wf id="w15" length="2" offset="106" para="1" sent="2">In</wf>
+    <wf id="w16" length="2" offset="109" para="1" sent="2">de</wf>
+    <wf id="w17" length="5" offset="112" para="1" sent="2">zomer</wf>
+    <wf id="w18" length="3" offset="118" para="1" sent="2">van</wf>
+    <wf id="w19" length="4" offset="122" para="1" sent="2">1941</wf>
+    <wf id="w20" length="12" offset="127" para="1" sent="2">teruggekomen</wf>
+    <wf id="w21" length="3" offset="140" para="1" sent="2">als</wf>
+    <wf id="w22" length="11" offset="144" para="1" sent="2">Commissaris</wf>
+    <wf id="w23" length="3" offset="156" para="1" sent="2">der</wf>
+    <wf id="w24" length="9" offset="160" para="1" sent="2">Provincie</wf>
+    <wf id="w25" length="10" offset="170" para="1" sent="2">Overijssel</wf>
+    <wf id="w26" length="1" offset="180" para="1" sent="2">,</wf>
+    <wf id="w27" length="3" offset="182" para="1" sent="2">een</wf>
+    <wf id="w28" length="4" offset="186" para="1" sent="2">ambt</wf>
+    <wf id="w29" length="3" offset="191" para="1" sent="2">dat</wf>
+    <wf id="w30" length="3" offset="195" para="1" sent="2">hij</wf>
+    <wf id="w31" length="3" offset="199" para="1" sent="2">een</wf>
+    <wf id="w32" length="4" offset="203" para="1" sent="2">jaar</wf>
+    <wf id="w33" length="5" offset="208" para="1" sent="2">later</wf>
+    <wf id="w34" length="5" offset="214" para="1" sent="2">dacht</wf>
+    <wf id="w35" length="2" offset="220" para="1" sent="2">te</wf>
+    <wf id="w36" length="6" offset="223" para="1" sent="2">kunnen</wf>
+    <wf id="w37" length="10" offset="230" para="1" sent="2">combineren</wf>
+    <wf id="w38" length="3" offset="241" para="1" sent="2">met</wf>
+    <wf id="w39" length="3" offset="245" para="1" sent="2">het</wf>
+    <wf id="w40" length="6" offset="249" para="1" sent="2">actief</wf>
+    <wf id="w41" length="8" offset="256" para="1" sent="2">strijden</wf>
+    <wf id="w42" length="3" offset="265" para="1" sent="2">aan</wf>
+    <wf id="w43" length="3" offset="269" para="1" sent="2">het</wf>
+    <wf id="w44" length="9" offset="273" para="1" sent="2">Oostfront</wf>
+    <wf id="w45" length="3" offset="283" para="1" sent="2">als</wf>
+    <wf id="w46" length="12" offset="287" para="1" sent="2">vrijwilliger</wf>
+    <wf id="w47" length="3" offset="300" para="1" sent="2">van</wf>
+    <wf id="w48" length="2" offset="304" para="1" sent="2">de</wf>
+    <wf id="w49" length="6" offset="307" para="1" sent="2">Waffen</wf>
+    <wf id="w50" length="2" offset="314" para="1" sent="2">SS</wf>
+    <wf id="w51" length="1" offset="316" para="1" sent="2">.</wf>
+    <wf id="w52" length="9" offset="318" para="1" sent="3">Sneuvelde</wf>
+    <wf id="w53" length="2" offset="328" para="1" sent="3">in</wf>
+    <wf id="w54" length="2" offset="331" para="1" sent="3">de</wf>
+    <wf id="w55" length="8" offset="334" para="1" sent="3">Oekraïne</wf>
+    <wf id="w56" length="1" offset="342" para="1" sent="3">.</wf>
+    <wf id="w57" length="3" offset="344" para="1" sent="4">Een</wf>
+    <wf id="w58" length="10" offset="348" para="1" sent="4">opgewonden</wf>
+    <wf id="w59" length="10" offset="359" para="1" sent="4">avonturier</wf>
+    <wf id="w60" length="1" offset="369" para="1" sent="4">.</wf>
+  </text>
+  <terms>
+    <term id="t_0" lemma="fanatiek" morphofeat="ADJ(prenom,basis,met-e,stan)" pos="adj" type="open">
+      <span>
+        <!--Fanatieke-->
+        <target id="w1"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_a-10634" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_1" lemma="nationaal-socialist" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--nationaal-socialist-->
+        <target id="w2"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-24649" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_2" lemma="die" morphofeat="VNW(betr,pron,stan,vol,persoon,getal)" pos="pron" type="close">
+      <span>
+        <!--die-->
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t_3" lemma="in" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--in-->
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t_4" lemma="1939" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--1939-->
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t_5" lemma="on_eervol" morphofeat="ADJ(vrij,basis,zonder)" pos="adj" type="open">
+      <span>
+        <!--oneervol-->
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t_6" lemma="worden" morphofeat="WW(pv,verl,ev)" pos="verb" type="open">
+      <span>
+        <!--werd-->
+        <target id="w7"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_v-10185" resource="Cornetto"/>
+        <externalRef reference="r_v-10184" resource="Cornetto"/>
+        <externalRef reference="grammatical" resource=""/>
+      </externalReferences>
+    </term>
+    <term id="t_7" lemma="ontslaan" morphofeat="WW(vd,vrij,zonder)" pos="verb" type="open">
+      <span>
+        <!--ontslagen-->
+        <target id="w8"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.04520455" reference="r_v-5339" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="ili-30-00069295-v" resource="WordNet"/>
+            <externalRef reference="fn:Emitting" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:biology" resource="mcr"/>
+            <externalRef reference="mcr:Removing" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;Physical;" resource="mcr"/>
+            <externalRef reference="mcr:body" resource="mcr"/>
+            <externalRef reference="mcr:release%2:29:01" resource="mcr"/>
+            <externalRef reference="eso:Removing" resource="eso"/>
+            <externalRef reference="FN_PARTIAL;SYNONYMS;ESO4" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="fn:secrete" resource="fn"/>
+            <externalRef reference="mcr:ili-30-00069295-v" resource="mcr"/>
+            <externalRef reference="fn:Emitting" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:biology" resource="mcr"/>
+            <externalRef reference="mcr:Removing" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;Physical;" resource="mcr"/>
+            <externalRef reference="mcr:body" resource="mcr"/>
+            <externalRef reference="mcr:release%2:29:01" resource="mcr"/>
+            <externalRef reference="eso:Removing" resource="eso"/>
+            <externalRef reference="FN_PARTIAL;ESO4" resource=""/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.2495145" reference="r_v-5338" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02402825-v" resource="mcr"/>
+            <externalRef reference="fn:Firing" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:economy" resource="mcr"/>
+            <externalRef reference="mcr:TerminatingEmployment" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;social;" resource="mcr"/>
+            <externalRef reference="mcr:social" resource="mcr"/>
+            <externalRef reference="mcr:remove%2:41:00" resource="mcr"/>
+            <externalRef reference="eso:LeavingAnOrganization" resource="eso"/>
+            <externalRef reference="fn-pb-role:Employer#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Employee#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Means#2" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Reason" resource="fn-role"/>
+            <externalRef reference="fn-role:Means" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02402825-v" resource="mcr"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:economy" resource="mcr"/>
+            <externalRef reference="mcr:TerminatingEmployment" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;social;" resource="mcr"/>
+            <externalRef reference="mcr:social" resource="mcr"/>
+            <externalRef reference="mcr:remove%2:41:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.7131208" reference="r_v-5340" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02422026-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Removing" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;social;" resource="mcr"/>
+            <externalRef reference="mcr:social" resource="mcr"/>
+            <externalRef reference="mcr:free%2:41:02" resource="mcr"/>
+            <externalRef reference="eso:Removing" resource="eso"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_8" lemma="als" morphofeat="VZ(init)" pos="comp" type="open">
+      <span>
+        <!--als-->
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t_9" lemma="burgemeester" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--burgemeester-->
+        <target id="w10"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-8847" resource="Cornetto"/>
+        <externalRef reference="r_n-8848" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_10" lemma="van" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--van-->
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t_11" lemma="een" morphofeat="LID(onbep,stan,agr)" pos="det" type="close">
+      <span>
+        <!--een-->
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t_12" lemma="grens_gemeente" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--grensgemeente-->
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t_13" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t_14" lemma="in" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--In-->
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t_15" lemma="de" morphofeat="LID(bep,stan,rest)" pos="det" type="close">
+      <span>
+        <!--de-->
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t_16" lemma="zomer" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--zomer-->
+        <target id="w17"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.9862269" reference="r_n-44271" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.3901122" reference="r_n-44272" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00339934-v" resource="mcr"/>
+            <externalRef reference="fn:Take_place_of" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Process" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:happen%2:30:00" resource="mcr"/>
+            <externalRef reference="eso:Replacing" resource="eso"/>
+            <externalRef reference="fn-role:Time" resource="fn-role"/>
+            <externalRef reference="fn-role:Old" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="fn:go_on" resource="fn"/>
+            <externalRef reference="mcr:ili-30-00339934-v" resource="mcr"/>
+            <externalRef reference="fn:Process_continue" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Process" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:happen%2:30:00" resource="mcr"/>
+            <externalRef reference="FN_PARTIAL" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00339934-v" resource="mcr"/>
+            <externalRef reference="fn:Event" resource="fn"/>
+            <externalRef reference="fn:happen.v" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Process" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:happen%2:30:00" resource="mcr"/>
+            <externalRef reference="fn-pb-role:Event#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Place" resource="fn-role"/>
+            <externalRef reference="fn-role:Time" resource="fn-role"/>
+            <externalRef reference="fn:occur.v" resource="fn"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00339934-v" resource="mcr"/>
+            <externalRef reference="fn:Process_continue" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Process" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:happen%2:30:00" resource="mcr"/>
+            <externalRef reference="FN_PARTIAL;SYNONYMS" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00339934-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Process" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:happen%2:30:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.20214318" reference="r_n-44274" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef reference="r_n-44273" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_17" lemma="van" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--van-->
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t_18" lemma="1941" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--1941-->
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t_19" lemma="terug_komen" morphofeat="WW(vd,vrij,zonder)" pos="verb" type="open">
+      <span>
+        <!--teruggekomen-->
+        <target id="w20"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.04982871" reference="c_546195" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="ili-30-00528339-v" resource="WordNet"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Increasing" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:change%2:30:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.4875974" reference="r_v-7826" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00387310-v" resource="mcr"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Process" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:change%2:30:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.094983466" reference="r_v-7825" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-01009097-v" resource="mcr"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Communication;Dynamic;Mental;Social;UnboundedEvent;" resource="mcr"/>
+            <externalRef reference="mcr:communication" resource="mcr"/>
+            <externalRef reference="mcr:inform%2:32:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.22695225" reference="r_v-7824" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02004874-v" resource="mcr"/>
+            <externalRef reference="fn:Resurrection" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Motion" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;Location;" resource="mcr"/>
+            <externalRef reference="mcr:motion" resource="mcr"/>
+            <externalRef reference="mcr:go%2:38:00" resource="mcr"/>
+            <externalRef reference="eso:Motion" resource="eso"/>
+            <externalRef reference="fn-pb-role:Protagonist#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Time" resource="fn-role"/>
+            <externalRef reference="fn-role:Place" resource="fn-role"/>
+            <externalRef reference="fn-pb-role:Protagonist#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Place#2" resource="fn-pb-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02004874-v" resource="mcr"/>
+            <externalRef reference="fn:Arriving" resource="fn"/>
+            <externalRef reference="fn:return.v" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Motion" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;Location;" resource="mcr"/>
+            <externalRef reference="mcr:motion" resource="mcr"/>
+            <externalRef reference="mcr:go%2:38:00" resource="mcr"/>
+            <externalRef reference="eso:Arriving" resource="eso"/>
+            <externalRef reference="fn-pb-role:Theme#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Goal" resource="fn-role"/>
+            <externalRef reference="fn-role:Source" resource="fn-role"/>
+            <externalRef reference="fn-role:Path" resource="fn-role"/>
+            <externalRef reference="fn-pb-role:Theme#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Goal#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Path#2" resource="fn-pb-role"/>
+          </externalRef>
+        </externalRef>
+        <externalRef reference="r_v-7827" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="fn:come_back" resource="fn"/>
+            <externalRef reference="mcr:ili-30-00548153-v" resource="mcr"/>
+            <externalRef reference="fn:Resurrection" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Process" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:appear%2:30:00" resource="mcr"/>
+            <externalRef reference="FN_PARTIAL" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="fn:return" resource="fn"/>
+            <externalRef reference="mcr:ili-30-00548153-v" resource="mcr"/>
+            <externalRef reference="fn:Resurrection" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Process" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:appear%2:30:00" resource="mcr"/>
+            <externalRef reference="FN_PARTIAL" resource=""/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_20" lemma="als" morphofeat="VZ(init)" pos="comp" type="open">
+      <span>
+        <!--als-->
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t_21" lemma="commissaris" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--Commissaris-->
+        <target id="w22"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.589571" reference="r_n-9621" resource="Cornetto"/>
+        <externalRef confidence="0.4415603" reference="r_n-9620" resource="Cornetto"/>
+        <externalRef confidence="0.43941578" reference="r_n-9619" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_22" lemma="de" morphofeat="LID(bep,gen,rest3)" pos="det" type="close">
+      <span>
+        <!--der-->
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t_23" lemma="Provincie" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Provincie-->
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t_24" lemma="Overijssel" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Overijssel-->
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t_25" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t_26" lemma="een" morphofeat="LID(onbep,stan,agr)" pos="det" type="close">
+      <span>
+        <!--een-->
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t_27" lemma="ambt" morphofeat="N(soort,ev,basis,onz,stan)" pos="noun" type="open">
+      <span>
+        <!--ambt-->
+        <target id="w28"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-3399" resource="Cornetto"/>
+        <externalRef reference="r_n-3398" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="fn:work" resource="fn"/>
+            <externalRef reference="mcr:ili-30-02410855-v" resource="mcr"/>
+            <externalRef reference="fn:Being_employed" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:employs" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;social;" resource="mcr"/>
+            <externalRef reference="mcr:social" resource="mcr"/>
+            <externalRef reference="mcr:work%2:41:00" resource="mcr"/>
+            <externalRef reference="eso:InEmployment" resource="eso"/>
+            <externalRef reference="FN_PARTIAL;ESO3" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02410855-v" resource="mcr"/>
+            <externalRef reference="fn:Being_employed" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:employs" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;social;" resource="mcr"/>
+            <externalRef reference="mcr:social" resource="mcr"/>
+            <externalRef reference="mcr:work%2:41:00" resource="mcr"/>
+            <externalRef reference="eso:InEmployment" resource="eso"/>
+            <externalRef reference="FN_PARTIAL;SYNONYMS;ESO3" resource=""/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_28" lemma="dat" morphofeat="VNW(betr,pron,stan,vol,3,ev)" pos="pron" type="close">
+      <span>
+        <!--dat-->
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t_29" lemma="hij" morphofeat="VNW(pers,pron,nomin,vol,3,ev,masc)" pos="pron" type="close">
+      <span>
+        <!--hij-->
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t_30" lemma="een" morphofeat="LID(onbep,stan,agr)" pos="det" type="close">
+      <span>
+        <!--een-->
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t_31" lemma="jaar" morphofeat="N(soort,ev,basis,onz,stan)" pos="noun" type="open">
+      <span>
+        <!--jaar-->
+        <target id="w32"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.107062235" reference="d_n-127173" resource="Cornetto"/>
+        <externalRef confidence="0.40580392" reference="r_n-18341" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.118789196" reference="d_n-127172" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_32" lemma="laat" morphofeat="ADJ(vrij,comp,zonder)" pos="adj" type="open">
+      <span>
+        <!--later-->
+        <target id="w33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="c_545369" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_33" lemma="denken" morphofeat="WW(pv,verl,ev)" pos="verb" type="open">
+      <span>
+        <!--dacht-->
+        <target id="w34"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.036550466" reference="c_545485" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="fn:think" resource="fn"/>
+            <externalRef reference="mcr:ili-30-00689344-v" resource="mcr"/>
+            <externalRef reference="fn:Regard" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Property;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="FN_PARTIAL" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00689344-v" resource="mcr"/>
+            <externalRef reference="fn:Categorization" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Property;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="fn-role:Cognizer" resource="fn-role"/>
+            <externalRef reference="fn-role:Category" resource="fn-role"/>
+            <externalRef reference="fn-role:Item" resource="fn-role"/>
+            <externalRef reference="fn-role:Means" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00689344-v" resource="mcr"/>
+            <externalRef reference="fn:Regard" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Property;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="FN_PARTIAL;SYNONYMS" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00689344-v" resource="mcr"/>
+            <externalRef reference="fn:Coming_up_with" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Property;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="fn-role:Cognizer" resource="fn-role"/>
+            <externalRef reference="fn-role:Manner" resource="fn-role"/>
+            <externalRef reference="fn-role:Means" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00689344-v" resource="mcr"/>
+            <externalRef reference="fn:Certainty" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Property;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="fn-pb-role:Cognizer#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Topic#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Topic#2" resource="fn-pb-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00689344-v" resource="mcr"/>
+            <externalRef reference="fn:Awareness" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Property;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="fn-pb-role:Cognizer#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Topic#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Manner#2" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Topic#2" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Evidence#2" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Cognizer" resource="fn-role"/>
+            <externalRef reference="fn-role:Manner" resource="fn-role"/>
+            <externalRef reference="fn-role:Topic" resource="fn-role"/>
+            <externalRef reference="fn-role:Content" resource="fn-role"/>
+            <externalRef reference="fn-role:Evidence" resource="fn-role"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.041767683" reference="c_545487" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00921072-v" resource="mcr"/>
+            <externalRef reference="fn:Awareness" resource="fn"/>
+            <externalRef reference="fn:suspect.v" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:philosophy" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Dynamic;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:communication" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="fn-pb-role:Cognizer#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Content#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Evidence#2" resource="fn-pb-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00921072-v" resource="mcr"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:philosophy" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Dynamic;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:communication" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.044326697" reference="c_545488" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00734348-v" resource="mcr"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.014739081" reference="r_v-2177" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="fn:think" resource="fn"/>
+            <externalRef reference="mcr:ili-30-00628491-v" resource="mcr"/>
+            <externalRef reference="fn:Cogitation" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Reasoning" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="FN_PARTIAL" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00628491-v" resource="mcr"/>
+            <externalRef reference="fn:Cogitation" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Reasoning" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="FN_PARTIAL;SYNONYMS" resource=""/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.032732897" reference="r_v-2178" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00921072-v" resource="mcr"/>
+            <externalRef reference="fn:Awareness" resource="fn"/>
+            <externalRef reference="fn:suspect.v" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:philosophy" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Dynamic;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:communication" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="fn-pb-role:Cognizer#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Content#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Evidence#2" resource="fn-pb-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00921072-v" resource="mcr"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:philosophy" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Dynamic;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:communication" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.15073454" reference="r_v-2179" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00609683-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:psychology" resource="mcr"/>
+            <externalRef reference="mcr:Remembering" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Mental;UnboundedEvent;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think_of%2:31:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_34" lemma="te" morphofeat="VZ(init)" pos="comp" type="open">
+      <span>
+        <!--te-->
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t_35" lemma="kunnen" morphofeat="WW(inf,vrij,zonder)" pos="verb" type="open">
+      <span>
+        <!--kunnen-->
+        <target id="w36"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.3142" reference="r_v-10418" resource="Cornetto"/>
+        <externalRef confidence="0.12735367" reference="r_v-4217" resource="Cornetto"/>
+        <externalRef confidence="0.032704677" reference="r_v-4219" resource="Cornetto"/>
+        <externalRef confidence="0.9008575" reference="r_v-4218" resource="Cornetto"/>
+        <externalRef reference="grammatical" resource=""/>
+      </externalReferences>
+    </term>
+    <term id="t_36" lemma="combineren" morphofeat="WW(inf,vrij,zonder)" pos="verb" type="open">
+      <span>
+        <!--combineren-->
+        <target id="w37"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.09193472" reference="r_v-1981" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="ili-30-02376958-v" resource="WordNet"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:SocialInteraction" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Dynamic;Social;" resource="mcr"/>
+            <externalRef reference="mcr:social" resource="mcr"/>
+            <externalRef reference="mcr:act%2:41:00" resource="mcr"/>
+            <externalRef reference="eso:SocialInteraction" resource="eso"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.23356988" reference="r_v-1979" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="fn:connect" resource="fn"/>
+            <externalRef reference="mcr:ili-30-00713167-v" resource="mcr"/>
+            <externalRef reference="fn:Make_cognitive_connection" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="FN_PARTIAL" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00713167-v" resource="mcr"/>
+            <externalRef reference="fn:Make_cognitive_connection" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="FN_PARTIAL;SYNONYMS" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="fn:link" resource="fn"/>
+            <externalRef reference="mcr:ili-30-00713167-v" resource="mcr"/>
+            <externalRef reference="fn:Make_cognitive_connection" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+            <externalRef reference="FN_PARTIAL" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00713167-v" resource="mcr"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalPsychologicalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think%2:31:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.2174424" reference="r_v-1980" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00193486-v" resource="mcr"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Combining" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Quantity;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:add%2:30:00" resource="mcr"/>
+            <externalRef reference="eso:Merging" resource="eso"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_37" lemma="met" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--met-->
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t_38" lemma="het" morphofeat="LID(bep,stan,evon)" pos="det" type="close">
+      <span>
+        <!--het-->
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t_39" lemma="actief" morphofeat="ADJ(vrij,basis,zonder)" pos="adj" type="open">
+      <span>
+        <!--actief-->
+        <target id="w40"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.18841036" reference="r_a-9047" resource="Cornetto"/>
+        <externalRef confidence="0.11783345" reference="r_a-9048" resource="Cornetto"/>
+        <externalRef confidence="0.08757119" reference="r_a-8706" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_40" lemma="strijden" morphofeat="WW(inf,nom,zonder,zonder-n)" pos="verb" type="open">
+      <span>
+        <!--strijden-->
+        <target id="w41"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="d_v-420840" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="ili-30-02589576-v" resource="WordNet"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Contest" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;Mental;Purpose;" resource="mcr"/>
+            <externalRef reference="mcr:social" resource="mcr"/>
+            <externalRef reference="mcr:evaluate%2:31:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef reference="r_v-7604" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-01090335-v" resource="mcr"/>
+            <externalRef reference="fn:Quarreling" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Agentive;Physical;Physical;Social;Social;UnboundedEvent;UnboundedEvent;" resource="mcr"/>
+            <externalRef reference="mcr:competition" resource="mcr"/>
+            <externalRef reference="mcr:fight%2:33:00" resource="mcr"/>
+            <externalRef reference="eso:IntentionalEvent" resource="eso"/>
+            <externalRef reference="fn-role:Arguer1" resource="fn-role"/>
+            <externalRef reference="fn-role:Issue" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-01090335-v" resource="mcr"/>
+            <externalRef reference="fn:Hostile_encounter" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Agentive;Physical;Physical;Social;Social;UnboundedEvent;UnboundedEvent;" resource="mcr"/>
+            <externalRef reference="mcr:competition" resource="mcr"/>
+            <externalRef reference="mcr:fight%2:33:00" resource="mcr"/>
+            <externalRef reference="eso:IntentionalEvent" resource="eso"/>
+            <externalRef reference="fn-role:Side_1" resource="fn-role"/>
+            <externalRef reference="fn-role:Side_2" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-01090335-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:IntentionalProcess" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Agentive;Physical;Physical;Social;Social;UnboundedEvent;UnboundedEvent;" resource="mcr"/>
+            <externalRef reference="mcr:competition" resource="mcr"/>
+            <externalRef reference="mcr:fight%2:33:00" resource="mcr"/>
+            <externalRef reference="eso:IntentionalEvent" resource="eso"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_41" lemma="aan" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--aan-->
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t_42" lemma="het" morphofeat="LID(bep,stan,evon)" pos="det" type="close">
+      <span>
+        <!--het-->
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t_43" lemma="Oostfront" morphofeat="N(eigen,ev,basis,onz,stan)" pos="name" type="open">
+      <span>
+        <!--Oostfront-->
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t_44" lemma="als" morphofeat="VZ(init)" pos="comp" type="open">
+      <span>
+        <!--als-->
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t_45" lemma="vrijwilliger" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--vrijwilliger-->
+        <target id="w46"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.12758175" reference="r_n-41912" resource="Cornetto"/>
+        <externalRef confidence="0.86991227" reference="d_n-323665" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_46" lemma="van" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--van-->
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t_47" lemma="de" morphofeat="LID(bep,stan,rest)" pos="det" type="close">
+      <span>
+        <!--de-->
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t_48" lemma="Waffen" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Waffen-->
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t_49" lemma="SS" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--SS-->
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t_50" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t_51" lemma="sneuvelen" morphofeat="WW(pv,verl,ev)" pos="verb" type="open">
+      <span>
+        <!--Sneuvelde-->
+        <target id="w52"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_v-7283" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="ili-30-02620213-v" resource="WordNet"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:military" resource="mcr"/>
+            <externalRef reference="mcr:Death" resource="mcr"/>
+            <externalRef reference="mcr:BoundedEvent;Dynamic;Existence;Physical;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:change%2:30:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef reference="r_v-7284" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00334186-v" resource="mcr"/>
+            <externalRef reference="fn:Cause_to_fragment" resource="fn"/>
+            <externalRef reference="fn:break.v" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Separating" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;BoundedEvent;Condition;Condition;Dynamic;Physical;Physical;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:change%2:30:00" resource="mcr"/>
+            <externalRef reference="eso:Destroying" resource="eso"/>
+            <externalRef reference="fn-pb-role:Agent#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Whole_patient#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Instrument#2" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Pieces" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00334186-v" resource="mcr"/>
+            <externalRef reference="fn:Render_nonfunctional" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Separating" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;BoundedEvent;Condition;Condition;Dynamic;Physical;Physical;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:change%2:30:00" resource="mcr"/>
+            <externalRef reference="eso:Damaging" resource="eso"/>
+            <externalRef reference="fn-pb-role:Agent#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Agent#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Agent#2" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Means" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00334186-v" resource="mcr"/>
+            <externalRef reference="fn:Experience_bodily_harm" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Separating" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;BoundedEvent;Condition;Condition;Dynamic;Physical;Physical;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:change%2:30:00" resource="mcr"/>
+            <externalRef reference="eso:Injuring" resource="eso"/>
+            <externalRef reference="fn-pb-role:Experiencer#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Body_part#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Time#2" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Containing_event" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00334186-v" resource="mcr"/>
+            <externalRef reference="fn:Cause_harm" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Separating" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;BoundedEvent;BoundedEvent;Condition;Condition;Dynamic;Physical;Physical;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:change%2:30:00" resource="mcr"/>
+            <externalRef reference="eso:Injuring" resource="eso"/>
+            <externalRef reference="fn-pb-role:Agent#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Body_part#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Instrument#2" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Body_part" resource="fn-role"/>
+          </externalRef>
+        </externalRef>
+        <externalRef reference="d_v-263409" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_52" lemma="in" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--in-->
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t_53" lemma="de" morphofeat="LID(bep,stan,rest)" pos="det" type="close">
+      <span>
+        <!--de-->
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t_54" lemma="Oekraïne" morphofeat="N(eigen,ev,basis,zijd,stan)" pos="name" type="open">
+      <span>
+        <!--Oekraïne-->
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t_55" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t_56" lemma="een" morphofeat="LID(onbep,stan,agr)" pos="det" type="close">
+      <span>
+        <!--Een-->
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t_57" lemma="opgewonden" morphofeat="WW(vd,prenom,zonder)" pos="adj" type="open">
+      <span>
+        <!--opgewonden-->
+        <target id="w58"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="c_546329" resource="Cornetto"/>
+        <externalRef reference="r_a-13884" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_58" lemma="avonturier" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--avonturier-->
+        <target id="w59"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-4290" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_59" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w60"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <!--hd/mod(nationaal-socialist,Fanatieke)-->
+    <dep from="t_1" rfunc="hd/mod" to="t_0"/>
+    <!--hd/mod(nationaal-socialist,die)-->
+    <dep from="t_1" rfunc="hd/mod" to="t_2"/>
+    <!--rhd/body(die,werd)-->
+    <dep from="t_2" rfunc="rhd/body" to="t_6"/>
+    <!--hd/su(werd,die)-->
+    <dep from="t_6" rfunc="hd/su" to="t_2"/>
+    <!--hd/vc(werd,ontslagen)-->
+    <dep from="t_6" rfunc="hd/vc" to="t_7"/>
+    <!--hd/obj1(ontslagen,die)-->
+    <dep from="t_7" rfunc="hd/obj1" to="t_2"/>
+    <!--hd/mod(ontslagen,in)-->
+    <dep from="t_7" rfunc="hd/mod" to="t_3"/>
+    <!--hd/obj1(in,1939)-->
+    <dep from="t_3" rfunc="hd/obj1" to="t_4"/>
+    <!--hd/mod(ontslagen,oneervol)-->
+    <dep from="t_7" rfunc="hd/mod" to="t_5"/>
+    <!--hd/predm(werd,als)-->
+    <dep from="t_6" rfunc="hd/predm" to="t_8"/>
+    <!--cmp/body(als,burgemeester)-->
+    <dep from="t_8" rfunc="cmp/body" to="t_9"/>
+    <!--hd/mod(burgemeester,van)-->
+    <dep from="t_9" rfunc="hd/mod" to="t_10"/>
+    <!--hd/obj1(van,grensgemeente)-->
+    <dep from="t_10" rfunc="hd/obj1" to="t_12"/>
+    <!--hd/det(grensgemeente,een)-->
+    <dep from="t_12" rfunc="hd/det" to="t_11"/>
+    <!--- - / - -(nationaal-socialist,.)-->
+    <dep from="t_1" rfunc="-- / --" to="t_13"/>
+    <!--- - / - -(,,teruggekomen)-->
+    <dep from="t_25" rfunc="-- / --" to="t_19"/>
+    <!--hd/mod(teruggekomen,In)-->
+    <dep from="t_19" rfunc="hd/mod" to="t_14"/>
+    <!--hd/obj1(In,zomer)-->
+    <dep from="t_14" rfunc="hd/obj1" to="t_16"/>
+    <!--hd/det(zomer,de)-->
+    <dep from="t_16" rfunc="hd/det" to="t_15"/>
+    <!--hd/mod(zomer,van)-->
+    <dep from="t_16" rfunc="hd/mod" to="t_17"/>
+    <!--hd/obj1(van,1941)-->
+    <dep from="t_17" rfunc="hd/obj1" to="t_18"/>
+    <!--hd/mod(teruggekomen,als)-->
+    <dep from="t_19" rfunc="hd/mod" to="t_20"/>
+    <!--cmp/body(als,Commissaris)-->
+    <dep from="t_20" rfunc="cmp/body" to="t_21"/>
+    <!--hd/mod(Commissaris,Provincie)-->
+    <dep from="t_21" rfunc="hd/mod" to="t_23"/>
+    <!--mwp/mwp(Provincie,Overijssel)-->
+    <dep from="t_23" rfunc="mwp/mwp" to="t_24"/>
+    <!--hd/det(Provincie,der)-->
+    <dep from="t_23" rfunc="hd/det" to="t_22"/>
+    <!--hd/app(Provincie,ambt)-->
+    <dep from="t_23" rfunc="hd/app" to="t_27"/>
+    <!--hd/det(ambt,een)-->
+    <dep from="t_27" rfunc="hd/det" to="t_26"/>
+    <!--hd/mod(ambt,dat)-->
+    <dep from="t_27" rfunc="hd/mod" to="t_28"/>
+    <!--rhd/body(dat,dacht)-->
+    <dep from="t_28" rfunc="rhd/body" to="t_33"/>
+    <!--hd/su(dacht,hij)-->
+    <dep from="t_33" rfunc="hd/su" to="t_29"/>
+    <!--hd/vc(dacht,te)-->
+    <dep from="t_33" rfunc="hd/vc" to="t_34"/>
+    <!--cmp/body(te,kunnen)-->
+    <dep from="t_34" rfunc="cmp/body" to="t_35"/>
+    <!--hd/su(kunnen,hij)-->
+    <dep from="t_35" rfunc="hd/su" to="t_29"/>
+    <!--hd/vc(kunnen,combineren)-->
+    <dep from="t_35" rfunc="hd/vc" to="t_36"/>
+    <!--hd/obj1(combineren,dat)-->
+    <dep from="t_36" rfunc="hd/obj1" to="t_28"/>
+    <!--hd/su(combineren,hij)-->
+    <dep from="t_36" rfunc="hd/su" to="t_29"/>
+    <!--hd/mod(combineren,later)-->
+    <dep from="t_36" rfunc="hd/mod" to="t_32"/>
+    <!--hd/me(later,jaar)-->
+    <dep from="t_32" rfunc="hd/me" to="t_31"/>
+    <!--hd/det(jaar,een)-->
+    <dep from="t_31" rfunc="hd/det" to="t_30"/>
+    <!--hd/pc(combineren,met)-->
+    <dep from="t_36" rfunc="hd/pc" to="t_37"/>
+    <!--hd/obj1(met,strijden)-->
+    <dep from="t_37" rfunc="hd/obj1" to="t_40"/>
+    <!--hd/det(strijden,het)-->
+    <dep from="t_40" rfunc="hd/det" to="t_38"/>
+    <!--hd/mod(strijden,actief)-->
+    <dep from="t_40" rfunc="hd/mod" to="t_39"/>
+    <!--hd/mod(strijden,aan)-->
+    <dep from="t_40" rfunc="hd/mod" to="t_41"/>
+    <!--hd/obj1(aan,Oostfront)-->
+    <dep from="t_41" rfunc="hd/obj1" to="t_43"/>
+    <!--hd/det(Oostfront,het)-->
+    <dep from="t_43" rfunc="hd/det" to="t_42"/>
+    <!--hd/mod(Oostfront,als)-->
+    <dep from="t_43" rfunc="hd/mod" to="t_44"/>
+    <!--cmp/body(als,vrijwilliger)-->
+    <dep from="t_44" rfunc="cmp/body" to="t_45"/>
+    <!--hd/mod(vrijwilliger,van)-->
+    <dep from="t_45" rfunc="hd/mod" to="t_46"/>
+    <!--hd/obj1(van,Waffen)-->
+    <dep from="t_46" rfunc="hd/obj1" to="t_48"/>
+    <!--mwp/mwp(Waffen,SS)-->
+    <dep from="t_48" rfunc="mwp/mwp" to="t_49"/>
+    <!--hd/det(Waffen,de)-->
+    <dep from="t_48" rfunc="hd/det" to="t_47"/>
+    <!--- - / - -(,,.)-->
+    <dep from="t_25" rfunc="-- / --" to="t_50"/>
+    <!--hd/mod(Sneuvelde,in)-->
+    <dep from="t_51" rfunc="hd/mod" to="t_52"/>
+    <!--hd/obj1(in,Oekraïne)-->
+    <dep from="t_52" rfunc="hd/obj1" to="t_54"/>
+    <!--hd/det(Oekraïne,de)-->
+    <dep from="t_54" rfunc="hd/det" to="t_53"/>
+    <!--- - / - -(Sneuvelde,.)-->
+    <dep from="t_51" rfunc="-- / --" to="t_55"/>
+    <!--hd/det(avonturier,Een)-->
+    <dep from="t_58" rfunc="hd/det" to="t_56"/>
+    <!--hd/mod(avonturier,opgewonden)-->
+    <dep from="t_58" rfunc="hd/mod" to="t_57"/>
+    <!--- - / - -(avonturier,.)-->
+    <dep from="t_58" rfunc="-- / --" to="t_59"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="ORG">
+      <references>
+        <span>
+          <!--Commissaris-->
+          <target id="t_21"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.99993455" reference="http://nl.dbpedia.org/resource/Commissaris_van_de_Koning(in)" reftype="nl" resource="spotlight_v1"/>
+        <externalRef confidence="6.415011E-5" reference="http://nl.dbpedia.org/resource/Raad_van_commissarissen" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="6.415011E-5" reference="http://dbpedia.org/resource/Supervisory_board" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.3158832E-6" reference="http://nl.dbpedia.org/resource/Commissaris_(Nederlandse_politie)" reftype="nl" resource="spotlight_v1"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="ORG">
+      <references>
+        <span>
+          <!--Provincie Overijssel-->
+          <target id="t_23"/>
+          <target id="t_24"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="1.0" reference="http://nl.dbpedia.org/resource/Overijssel" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.0" reference="http://dbpedia.org/resource/Overijssel" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="LOC">
+      <references>
+        <span>
+          <!--Oostfront-->
+          <target id="t_43"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="1.0" reference="http://nl.dbpedia.org/resource/Oostfront_(Tweede_Wereldoorlog)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.0" reference="http://dbpedia.org/resource/Eastern_Front_(World_War_II)" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.5459987E-10" reference="http://nl.dbpedia.org/resource/Oostfront_(Eerste_Wereldoorlog)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="2.5459987E-10" reference="http://dbpedia.org/resource/Eastern_Front_(World_War_I)" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="MISC">
+      <references>
+        <span>
+          <!--Waffen-->
+          <target id="t_48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="e5" type="LOC">
+      <references>
+        <span>
+          <!--SS-->
+          <target id="t_49"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.9999495" reference="http://nl.dbpedia.org/resource/Schutzstaffel" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.9999495" reference="http://dbpedia.org/resource/Schutzstaffel" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="5.0481623E-5" reference="http://nl.dbpedia.org/resource/Nederlandsche_SS" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="5.0481623E-5" reference="http://dbpedia.org/resource/Nederlandsche_SS" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="6.222729E-9" reference="http://nl.dbpedia.org/resource/Sicherheitsdienst" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="6.222729E-9" reference="http://dbpedia.org/resource/Sicherheitsdienst" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.350393E-9" reference="http://nl.dbpedia.org/resource/Lijst_van_militaire_rangen_van_de_Schutzstaffel" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="4.350393E-9" reference="http://dbpedia.org/resource/Table_of_ranks_and_insignia_of_the_Waffen-SS" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.3675428E-11" reference="http://nl.dbpedia.org/resource/Maatschappij_tot_Exploitatie_van_Staatsspoorwegen" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.3675428E-11" reference="http://dbpedia.org/resource/Maatschappij_tot_Exploitatie_van_Staatsspoorwegen" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="3.7308053E-13" reference="http://nl.dbpedia.org/resource/Stoomboot" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="3.7308053E-13" reference="http://dbpedia.org/resource/Steamboat" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.3832546E-15" reference="http://nl.dbpedia.org/resource/Schuztstaffel" reftype="nl" resource="spotlight_v1"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="LOC">
+      <references>
+        <span>
+          <!--Oekraïne-->
+          <target id="t_54"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.9999537" reference="http://nl.dbpedia.org/resource/Oekraïne" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.9999537" reference="http://dbpedia.org/resource/Ukraine" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="3.8665203E-5" reference="http://nl.dbpedia.org/resource/Oekraïens_voetbalelftal" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="3.8665203E-5" reference="http://dbpedia.org/resource/Ukraine_national_football_team" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="5.574514E-6" reference="http://nl.dbpedia.org/resource/Oekraïense_Socialistische_Sovjetrepubliek" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="5.574514E-6" reference="http://dbpedia.org/resource/Ukrainian_Soviet_Socialist_Republic" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.0115106E-6" reference="http://nl.dbpedia.org/resource/Rechteroever-Oekraïne" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="2.0115106E-6" reference="http://dbpedia.org/resource/Right-bank_Ukraine" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.5456356E-8" reference="http://nl.dbpedia.org/resource/Oekraïne_op_het_Junior_Eurovisiesongfestival" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.5456356E-8" reference="http://dbpedia.org/resource/Ukraine_in_the_Junior_Eurovision_Song_Contest" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.4388366E-8" reference="http://nl.dbpedia.org/resource/Volksrepubliek_Oekraïne" reftype="nl" resource="spotlight_v1"/>
+        <externalRef confidence="1.1051019E-8" reference="http://nl.dbpedia.org/resource/Oekraïens_voetbalelftal_onder_21" reftype="nl" resource="spotlight_v1"/>
+        <externalRef confidence="1.0327799E-8" reference="http://nl.dbpedia.org/resource/Oekraïne_op_de_Olympische_Spelen" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.0327799E-8" reference="http://dbpedia.org/resource/Ukraine_at_the_Olympics" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="8.622947E-9" reference="http://nl.dbpedia.org/resource/Oekraïens_vrouwenvoetbalelftal" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="8.622947E-9" reference="http://dbpedia.org/resource/Ukraine_women's_national_football_team" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="6.035828E-9" reference="http://nl.dbpedia.org/resource/Hongaarse_minderheid_in_Oekraïne" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="6.035828E-9" reference="http://dbpedia.org/resource/Hungarians_in_Ukraine" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <!--ontslagen-->
+        <target id="t_7"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <!--teruggekomen-->
+        <target id="t_19"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <!--combineren-->
+        <target id="t_36"/>
+      </span>
+    </coref>
+    <coref id="coevent4" type="event">
+      <span>
+        <!--strijden-->
+        <target id="t_40"/>
+      </span>
+    </coref>
+    <coref id="coevent5" type="event">
+      <span>
+        <!--dacht-->
+        <target id="t_33"/>
+      </span>
+    </coref>
+    <coref id="coevent6" type="event">
+      <span>
+        <!--Sneuvelde-->
+        <target id="t_51"/>
+      </span>
+    </coref>
+  </coreferences>
+  <constituency>
+    <tree>
+      <t id="ter0">
+        <!--Fanatieke-->
+        <span>
+          <target id="t_0"/>
+        </span>
+      </t>
+      <t id="ter1">
+        <!--nationaal-socialist-->
+        <span>
+          <target id="t_1"/>
+        </span>
+      </t>
+      <t id="ter2">
+        <!--die-->
+        <span>
+          <target id="t_2"/>
+        </span>
+      </t>
+      <t id="ter3">
+        <!--werd-->
+        <span>
+          <target id="t_6"/>
+        </span>
+      </t>
+      <t id="ter4">
+        <!--in-->
+        <span>
+          <target id="t_3"/>
+        </span>
+      </t>
+      <t id="ter5">
+        <!--1939-->
+        <span>
+          <target id="t_4"/>
+        </span>
+      </t>
+      <t id="ter6">
+        <!--oneervol-->
+        <span>
+          <target id="t_5"/>
+        </span>
+      </t>
+      <t id="ter7">
+        <!--ontslagen-->
+        <span>
+          <target id="t_7"/>
+        </span>
+      </t>
+      <t id="ter8">
+        <!--als-->
+        <span>
+          <target id="t_8"/>
+        </span>
+      </t>
+      <t id="ter9">
+        <!--burgemeester-->
+        <span>
+          <target id="t_9"/>
+        </span>
+      </t>
+      <t id="ter10">
+        <!--van-->
+        <span>
+          <target id="t_10"/>
+        </span>
+      </t>
+      <t id="ter11">
+        <!--een-->
+        <span>
+          <target id="t_11"/>
+        </span>
+      </t>
+      <t id="ter12">
+        <!--grensgemeente-->
+        <span>
+          <target id="t_12"/>
+        </span>
+      </t>
+      <t id="ter13">
+        <!--.-->
+        <span>
+          <target id="t_13"/>
+        </span>
+      </t>
+      <nt id="nter0" label="top"/>
+      <nt id="nter1" label="np"/>
+      <nt id="nter2" label="adj"/>
+      <nt id="nter3" label="noun"/>
+      <nt id="nter4" label="rel"/>
+      <nt id="nter5" label="pron"/>
+      <nt id="nter6" label="ssub"/>
+      <nt id="nter7" label="verb"/>
+      <nt id="nter8" label="ppart"/>
+      <nt id="nter9" label="pp"/>
+      <nt id="nter10" label="prep"/>
+      <nt id="nter11" label="noun"/>
+      <nt id="nter12" label="adj"/>
+      <nt id="nter13" label="verb"/>
+      <nt id="nter14" label="cp"/>
+      <nt id="nter15" label="comp"/>
+      <nt id="nter16" label="np"/>
+      <nt id="nter17" label="noun"/>
+      <nt id="nter18" label="pp"/>
+      <nt id="nter19" label="prep"/>
+      <nt id="nter20" label="np"/>
+      <nt id="nter21" label="det"/>
+      <nt id="nter22" label="noun"/>
+      <nt id="nter23" label="punct"/>
+      <edge from="nter1" id="tre0" to="nter0"/>
+      <edge from="nter2" id="tre1" to="nter1"/>
+      <edge from="ter0" id="tre2" to="nter2"/>
+      <edge from="nter3" head="yes" id="tre3" to="nter1"/>
+      <edge from="ter1" id="tre4" to="nter3"/>
+      <edge from="nter4" id="tre5" to="nter1"/>
+      <edge from="nter5" id="tre6" to="nter4"/>
+      <edge from="ter2" id="tre7" to="nter5"/>
+      <edge from="nter6" id="tre8" to="nter4"/>
+      <edge from="nter7" head="yes" id="tre9" to="nter6"/>
+      <edge from="ter3" id="tre10" to="nter7"/>
+      <edge from="nter8" id="tre11" to="nter6"/>
+      <edge from="nter9" id="tre12" to="nter8"/>
+      <edge from="nter10" head="yes" id="tre13" to="nter9"/>
+      <edge from="ter4" id="tre14" to="nter10"/>
+      <edge from="nter11" id="tre15" to="nter9"/>
+      <edge from="ter5" id="tre16" to="nter11"/>
+      <edge from="nter12" id="tre17" to="nter8"/>
+      <edge from="ter6" id="tre18" to="nter12"/>
+      <edge from="nter13" head="yes" id="tre19" to="nter8"/>
+      <edge from="ter7" id="tre20" to="nter13"/>
+      <edge from="nter14" id="tre21" to="nter6"/>
+      <edge from="nter15" id="tre22" to="nter14"/>
+      <edge from="ter8" id="tre23" to="nter15"/>
+      <edge from="nter16" id="tre24" to="nter14"/>
+      <edge from="nter17" head="yes" id="tre25" to="nter16"/>
+      <edge from="ter9" id="tre26" to="nter17"/>
+      <edge from="nter18" id="tre27" to="nter16"/>
+      <edge from="nter19" head="yes" id="tre28" to="nter18"/>
+      <edge from="ter10" id="tre29" to="nter19"/>
+      <edge from="nter20" id="tre30" to="nter18"/>
+      <edge from="nter21" id="tre31" to="nter20"/>
+      <edge from="ter11" id="tre32" to="nter21"/>
+      <edge from="nter22" head="yes" id="tre33" to="nter20"/>
+      <edge from="ter12" id="tre34" to="nter22"/>
+      <edge from="nter23" id="tre35" to="nter0"/>
+      <edge from="ter13" id="tre36" to="nter23"/>
+    </tree>
+    <tree>
+      <t id="ter14">
+        <!--,-->
+        <span>
+          <target id="t_25"/>
+        </span>
+      </t>
+      <t id="ter15">
+        <!--In-->
+        <span>
+          <target id="t_14"/>
+        </span>
+      </t>
+      <t id="ter16">
+        <!--de-->
+        <span>
+          <target id="t_15"/>
+        </span>
+      </t>
+      <t id="ter17">
+        <!--zomer-->
+        <span>
+          <target id="t_16"/>
+        </span>
+      </t>
+      <t id="ter18">
+        <!--van-->
+        <span>
+          <target id="t_17"/>
+        </span>
+      </t>
+      <t id="ter19">
+        <!--1941-->
+        <span>
+          <target id="t_18"/>
+        </span>
+      </t>
+      <t id="ter20">
+        <!--teruggekomen-->
+        <span>
+          <target id="t_19"/>
+        </span>
+      </t>
+      <t id="ter21">
+        <!--als-->
+        <span>
+          <target id="t_20"/>
+        </span>
+      </t>
+      <t id="ter22">
+        <!--Commissaris-->
+        <span>
+          <target id="t_21"/>
+        </span>
+      </t>
+      <t id="ter23">
+        <!--der-->
+        <span>
+          <target id="t_22"/>
+        </span>
+      </t>
+      <t id="ter24">
+        <!--Provincie-->
+        <span>
+          <target id="t_23"/>
+        </span>
+      </t>
+      <t id="ter25">
+        <!--Overijssel-->
+        <span>
+          <target id="t_24"/>
+        </span>
+      </t>
+      <t id="ter26">
+        <!--een-->
+        <span>
+          <target id="t_26"/>
+        </span>
+      </t>
+      <t id="ter27">
+        <!--ambt-->
+        <span>
+          <target id="t_27"/>
+        </span>
+      </t>
+      <t id="ter28">
+        <!--dat-->
+        <span>
+          <target id="t_28"/>
+        </span>
+      </t>
+      <t id="ter29">
+        <!--hij-->
+        <span>
+          <target id="t_29"/>
+        </span>
+      </t>
+      <t id="ter30">
+        <!--dacht-->
+        <span>
+          <target id="t_33"/>
+        </span>
+      </t>
+      <t id="ter31">
+        <!--te-->
+        <span>
+          <target id="t_34"/>
+        </span>
+      </t>
+      <t id="ter32">
+        <!--kunnen-->
+        <span>
+          <target id="t_35"/>
+        </span>
+      </t>
+      <t id="ter33">
+        <!--een-->
+        <span>
+          <target id="t_30"/>
+        </span>
+      </t>
+      <t id="ter34">
+        <!--jaar-->
+        <span>
+          <target id="t_31"/>
+        </span>
+      </t>
+      <t id="ter35">
+        <!--later-->
+        <span>
+          <target id="t_32"/>
+        </span>
+      </t>
+      <t id="ter36">
+        <!--combineren-->
+        <span>
+          <target id="t_36"/>
+        </span>
+      </t>
+      <t id="ter37">
+        <!--met-->
+        <span>
+          <target id="t_37"/>
+        </span>
+      </t>
+      <t id="ter38">
+        <!--het-->
+        <span>
+          <target id="t_38"/>
+        </span>
+      </t>
+      <t id="ter39">
+        <!--actief-->
+        <span>
+          <target id="t_39"/>
+        </span>
+      </t>
+      <t id="ter40">
+        <!--strijden-->
+        <span>
+          <target id="t_40"/>
+        </span>
+      </t>
+      <t id="ter41">
+        <!--aan-->
+        <span>
+          <target id="t_41"/>
+        </span>
+      </t>
+      <t id="ter42">
+        <!--het-->
+        <span>
+          <target id="t_42"/>
+        </span>
+      </t>
+      <t id="ter43">
+        <!--Oostfront-->
+        <span>
+          <target id="t_43"/>
+        </span>
+      </t>
+      <t id="ter44">
+        <!--als-->
+        <span>
+          <target id="t_44"/>
+        </span>
+      </t>
+      <t id="ter45">
+        <!--vrijwilliger-->
+        <span>
+          <target id="t_45"/>
+        </span>
+      </t>
+      <t id="ter46">
+        <!--van-->
+        <span>
+          <target id="t_46"/>
+        </span>
+      </t>
+      <t id="ter47">
+        <!--de-->
+        <span>
+          <target id="t_47"/>
+        </span>
+      </t>
+      <t id="ter48">
+        <!--Waffen-->
+        <span>
+          <target id="t_48"/>
+        </span>
+      </t>
+      <t id="ter49">
+        <!--SS-->
+        <span>
+          <target id="t_49"/>
+        </span>
+      </t>
+      <t id="ter50">
+        <!--.-->
+        <span>
+          <target id="t_50"/>
+        </span>
+      </t>
+      <nt id="nter24" label="top"/>
+      <nt id="nter25" label="punct"/>
+      <nt id="nter26" label="ppart"/>
+      <nt id="nter27" label="pp"/>
+      <nt id="nter28" label="prep"/>
+      <nt id="nter29" label="np"/>
+      <nt id="nter30" label="det"/>
+      <nt id="nter31" label="noun"/>
+      <nt id="nter32" label="pp"/>
+      <nt id="nter33" label="prep"/>
+      <nt id="nter34" label="noun"/>
+      <nt id="nter35" label="verb"/>
+      <nt id="nter36" label="cp"/>
+      <nt id="nter37" label="comp"/>
+      <nt id="nter38" label="np"/>
+      <nt id="nter39" label="noun"/>
+      <nt id="nter40" label="np"/>
+      <nt id="nter41" label="det"/>
+      <nt id="nter42" label="mwu"/>
+      <nt id="nter43" label="name"/>
+      <nt id="nter44" label="name"/>
+      <nt id="nter45" label="np"/>
+      <nt id="nter46" label="det"/>
+      <nt id="nter47" label="noun"/>
+      <nt id="nter48" label="rel"/>
+      <nt id="nter49" label="pron"/>
+      <nt id="nter50" label="ssub"/>
+      <nt id="nter51" label="pron"/>
+      <nt id="nter52" label="verb"/>
+      <nt id="nter53" label="ti"/>
+      <nt id="nter54" label="comp"/>
+      <nt id="nter55" label="inf"/>
+      <nt id="nter56" label="verb"/>
+      <nt id="nter57" label="inf"/>
+      <nt id="nter58" label="ap"/>
+      <nt id="nter59" label="np"/>
+      <nt id="nter60" label="det"/>
+      <nt id="nter61" label="noun"/>
+      <nt id="nter62" label="adj"/>
+      <nt id="nter63" label="verb"/>
+      <nt id="nter64" label="pp"/>
+      <nt id="nter65" label="prep"/>
+      <nt id="nter66" label="np"/>
+      <nt id="nter67" label="det"/>
+      <nt id="nter68" label="adj"/>
+      <nt id="nter69" label="verb"/>
+      <nt id="nter70" label="pp"/>
+      <nt id="nter71" label="prep"/>
+      <nt id="nter72" label="np"/>
+      <nt id="nter73" label="det"/>
+      <nt id="nter74" label="name"/>
+      <nt id="nter75" label="cp"/>
+      <nt id="nter76" label="comp"/>
+      <nt id="nter77" label="np"/>
+      <nt id="nter78" label="noun"/>
+      <nt id="nter79" label="pp"/>
+      <nt id="nter80" label="prep"/>
+      <nt id="nter81" label="np"/>
+      <nt id="nter82" label="det"/>
+      <nt id="nter83" label="mwu"/>
+      <nt id="nter84" label="name"/>
+      <nt id="nter85" label="name"/>
+      <nt id="nter86" label="punct"/>
+      <edge from="nter25" id="tre37" to="nter24"/>
+      <edge from="ter14" id="tre38" to="nter25"/>
+      <edge from="nter26" id="tre39" to="nter24"/>
+      <edge from="nter27" id="tre40" to="nter26"/>
+      <edge from="nter28" head="yes" id="tre41" to="nter27"/>
+      <edge from="ter15" id="tre42" to="nter28"/>
+      <edge from="nter29" id="tre43" to="nter27"/>
+      <edge from="nter30" id="tre44" to="nter29"/>
+      <edge from="ter16" id="tre45" to="nter30"/>
+      <edge from="nter31" head="yes" id="tre46" to="nter29"/>
+      <edge from="ter17" id="tre47" to="nter31"/>
+      <edge from="nter32" id="tre48" to="nter29"/>
+      <edge from="nter33" head="yes" id="tre49" to="nter32"/>
+      <edge from="ter18" id="tre50" to="nter33"/>
+      <edge from="nter34" id="tre51" to="nter32"/>
+      <edge from="ter19" id="tre52" to="nter34"/>
+      <edge from="nter35" head="yes" id="tre53" to="nter26"/>
+      <edge from="ter20" id="tre54" to="nter35"/>
+      <edge from="nter36" id="tre55" to="nter26"/>
+      <edge from="nter37" id="tre56" to="nter36"/>
+      <edge from="ter21" id="tre57" to="nter37"/>
+      <edge from="nter38" id="tre58" to="nter36"/>
+      <edge from="nter39" head="yes" id="tre59" to="nter38"/>
+      <edge from="ter22" id="tre60" to="nter39"/>
+      <edge from="nter40" id="tre61" to="nter38"/>
+      <edge from="nter41" id="tre62" to="nter40"/>
+      <edge from="ter23" id="tre63" to="nter41"/>
+      <edge from="nter42" id="tre64" to="nter40"/>
+      <edge from="nter43" id="tre65" to="nter42"/>
+      <edge from="ter24" id="tre66" to="nter43"/>
+      <edge from="nter44" id="tre67" to="nter42"/>
+      <edge from="ter25" id="tre68" to="nter44"/>
+      <edge from="nter45" id="tre69" to="nter40"/>
+      <edge from="nter46" id="tre70" to="nter45"/>
+      <edge from="ter26" id="tre71" to="nter46"/>
+      <edge from="nter47" head="yes" id="tre72" to="nter45"/>
+      <edge from="ter27" id="tre73" to="nter47"/>
+      <edge from="nter48" id="tre74" to="nter45"/>
+      <edge from="nter49" id="tre75" to="nter48"/>
+      <edge from="ter28" id="tre76" to="nter49"/>
+      <edge from="nter50" id="tre77" to="nter48"/>
+      <edge from="nter51" id="tre78" to="nter50"/>
+      <edge from="ter29" id="tre79" to="nter51"/>
+      <edge from="nter52" head="yes" id="tre80" to="nter50"/>
+      <edge from="ter30" id="tre81" to="nter52"/>
+      <edge from="nter53" id="tre82" to="nter50"/>
+      <edge from="nter54" id="tre83" to="nter53"/>
+      <edge from="ter31" id="tre84" to="nter54"/>
+      <edge from="nter55" id="tre85" to="nter53"/>
+      <edge from="nter56" head="yes" id="tre86" to="nter55"/>
+      <edge from="ter32" id="tre87" to="nter56"/>
+      <edge from="nter57" id="tre88" to="nter55"/>
+      <edge from="nter58" id="tre89" to="nter57"/>
+      <edge from="nter59" id="tre90" to="nter58"/>
+      <edge from="nter60" id="tre91" to="nter59"/>
+      <edge from="ter33" id="tre92" to="nter60"/>
+      <edge from="nter61" head="yes" id="tre93" to="nter59"/>
+      <edge from="ter34" id="tre94" to="nter61"/>
+      <edge from="nter62" head="yes" id="tre95" to="nter58"/>
+      <edge from="ter35" id="tre96" to="nter62"/>
+      <edge from="nter63" head="yes" id="tre97" to="nter57"/>
+      <edge from="ter36" id="tre98" to="nter63"/>
+      <edge from="nter64" id="tre99" to="nter57"/>
+      <edge from="nter65" head="yes" id="tre100" to="nter64"/>
+      <edge from="ter37" id="tre101" to="nter65"/>
+      <edge from="nter66" id="tre102" to="nter64"/>
+      <edge from="nter67" id="tre103" to="nter66"/>
+      <edge from="ter38" id="tre104" to="nter67"/>
+      <edge from="nter68" id="tre105" to="nter66"/>
+      <edge from="ter39" id="tre106" to="nter68"/>
+      <edge from="nter69" head="yes" id="tre107" to="nter66"/>
+      <edge from="ter40" id="tre108" to="nter69"/>
+      <edge from="nter70" id="tre109" to="nter66"/>
+      <edge from="nter71" head="yes" id="tre110" to="nter70"/>
+      <edge from="ter41" id="tre111" to="nter71"/>
+      <edge from="nter72" id="tre112" to="nter70"/>
+      <edge from="nter73" id="tre113" to="nter72"/>
+      <edge from="ter42" id="tre114" to="nter73"/>
+      <edge from="nter74" head="yes" id="tre115" to="nter72"/>
+      <edge from="ter43" id="tre116" to="nter74"/>
+      <edge from="nter75" id="tre117" to="nter72"/>
+      <edge from="nter76" id="tre118" to="nter75"/>
+      <edge from="ter44" id="tre119" to="nter76"/>
+      <edge from="nter77" id="tre120" to="nter75"/>
+      <edge from="nter78" head="yes" id="tre121" to="nter77"/>
+      <edge from="ter45" id="tre122" to="nter78"/>
+      <edge from="nter79" id="tre123" to="nter77"/>
+      <edge from="nter80" head="yes" id="tre124" to="nter79"/>
+      <edge from="ter46" id="tre125" to="nter80"/>
+      <edge from="nter81" id="tre126" to="nter79"/>
+      <edge from="nter82" id="tre127" to="nter81"/>
+      <edge from="ter47" id="tre128" to="nter82"/>
+      <edge from="nter83" id="tre129" to="nter81"/>
+      <edge from="nter84" id="tre130" to="nter83"/>
+      <edge from="ter48" id="tre131" to="nter84"/>
+      <edge from="nter85" id="tre132" to="nter83"/>
+      <edge from="ter49" id="tre133" to="nter85"/>
+      <edge from="nter86" id="tre134" to="nter24"/>
+      <edge from="ter50" id="tre135" to="nter86"/>
+    </tree>
+    <tree>
+      <t id="ter51">
+        <!--Sneuvelde-->
+        <span>
+          <target id="t_51"/>
+        </span>
+      </t>
+      <t id="ter52">
+        <!--in-->
+        <span>
+          <target id="t_52"/>
+        </span>
+      </t>
+      <t id="ter53">
+        <!--de-->
+        <span>
+          <target id="t_53"/>
+        </span>
+      </t>
+      <t id="ter54">
+        <!--Oekraïne-->
+        <span>
+          <target id="t_54"/>
+        </span>
+      </t>
+      <t id="ter55">
+        <!--.-->
+        <span>
+          <target id="t_55"/>
+        </span>
+      </t>
+      <nt id="nter87" label="top"/>
+      <nt id="nter88" label="sv1"/>
+      <nt id="nter89" label="verb"/>
+      <nt id="nter90" label="pp"/>
+      <nt id="nter91" label="prep"/>
+      <nt id="nter92" label="np"/>
+      <nt id="nter93" label="det"/>
+      <nt id="nter94" label="name"/>
+      <nt id="nter95" label="punct"/>
+      <edge from="nter88" id="tre136" to="nter87"/>
+      <edge from="nter89" head="yes" id="tre137" to="nter88"/>
+      <edge from="ter51" id="tre138" to="nter89"/>
+      <edge from="nter90" id="tre139" to="nter88"/>
+      <edge from="nter91" head="yes" id="tre140" to="nter90"/>
+      <edge from="ter52" id="tre141" to="nter91"/>
+      <edge from="nter92" id="tre142" to="nter90"/>
+      <edge from="nter93" id="tre143" to="nter92"/>
+      <edge from="ter53" id="tre144" to="nter93"/>
+      <edge from="nter94" head="yes" id="tre145" to="nter92"/>
+      <edge from="ter54" id="tre146" to="nter94"/>
+      <edge from="nter95" id="tre147" to="nter87"/>
+      <edge from="ter55" id="tre148" to="nter95"/>
+    </tree>
+    <tree>
+      <t id="ter56">
+        <!--Een-->
+        <span>
+          <target id="t_56"/>
+        </span>
+      </t>
+      <t id="ter57">
+        <!--opgewonden-->
+        <span>
+          <target id="t_57"/>
+        </span>
+      </t>
+      <t id="ter58">
+        <!--avonturier-->
+        <span>
+          <target id="t_58"/>
+        </span>
+      </t>
+      <t id="ter59">
+        <!--.-->
+        <span>
+          <target id="t_59"/>
+        </span>
+      </t>
+      <nt id="nter96" label="top"/>
+      <nt id="nter97" label="np"/>
+      <nt id="nter98" label="det"/>
+      <nt id="nter99" label="adj"/>
+      <nt id="nter100" label="noun"/>
+      <nt id="nter101" label="punct"/>
+      <edge from="nter97" id="tre149" to="nter96"/>
+      <edge from="nter98" id="tre150" to="nter97"/>
+      <edge from="ter56" id="tre151" to="nter98"/>
+      <edge from="nter99" id="tre152" to="nter97"/>
+      <edge from="ter57" id="tre153" to="nter99"/>
+      <edge from="nter100" head="yes" id="tre154" to="nter97"/>
+      <edge from="ter58" id="tre155" to="nter100"/>
+      <edge from="nter101" id="tre156" to="nter96"/>
+      <edge from="ter59" id="tre157" to="nter101"/>
+    </tree>
+  </constituency>
+  <srl>
+    <predicate id="pr1">
+      <!--ontslagen-->
+      <externalReferences>
+        <externalRef confidence="0.04520455" reference="r_v-5339" resource="Cornetto"/>
+        <externalRef reference="ili-30-00069295-v" resource="WordNet"/>
+      </externalReferences>
+      <span>
+        <target id="t_7"/>
+      </span>
+      <role id="r1" semRole="Arg1">
+        <!--die-->
+        <span>
+          <target head="yes" id="t_2"/>
+        </span>
+      </role>
+      <role id="r3" semRole="ArgM-MNR">
+        <!--oneervol-->
+        <span>
+          <target head="yes" id="t_5"/>
+        </span>
+      </role>
+      <role id="r8" semRole="ArgM-TMP">
+        <!--in 1939-->
+        <span>
+          <target head="yes" id="t_3"/>
+          <target id="t_4"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr2">
+      <!--teruggekomen-->
+      <externalReferences>
+        <externalRef confidence="0.04982871" reference="c_546195" resource="Cornetto"/>
+        <externalRef reference="ili-30-00528339-v" resource="WordNet"/>
+      </externalReferences>
+      <span>
+        <target id="t_19"/>
+      </span>
+      <role id="r2" semRole="#">
+        <!--als Commissaris der Provincie Overijssel , een ambt dat hij een jaar later dacht te kunnen combineren met het actief strijden aan het Oostfront als vrijwilliger van de Waffen SS-->
+        <span>
+          <target head="yes" id="t_20"/>
+          <target id="t_21"/>
+          <target id="t_22"/>
+          <target id="t_23"/>
+          <target id="t_24"/>
+          <target id="t_25"/>
+          <target id="t_26"/>
+          <target id="t_27"/>
+          <target id="t_28"/>
+          <target id="t_29"/>
+          <target id="t_30"/>
+          <target id="t_31"/>
+          <target id="t_32"/>
+          <target id="t_33"/>
+          <target id="t_34"/>
+          <target id="t_35"/>
+          <target id="t_36"/>
+          <target id="t_37"/>
+          <target id="t_38"/>
+          <target id="t_39"/>
+          <target id="t_40"/>
+          <target id="t_41"/>
+          <target id="t_42"/>
+          <target id="t_43"/>
+          <target id="t_44"/>
+          <target id="t_45"/>
+          <target id="t_46"/>
+          <target id="t_47"/>
+          <target id="t_48"/>
+          <target id="t_49"/>
+        </span>
+      </role>
+      <role id="r5" semRole="ArgM-TMP">
+        <!--In de zomer van 1941-->
+        <span>
+          <target head="yes" id="t_14"/>
+          <target id="t_15"/>
+          <target id="t_16"/>
+          <target id="t_17"/>
+          <target id="t_18"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr3">
+      <!--combineren-->
+      <externalReferences>
+        <externalRef confidence="0.09193472" reference="r_v-1981" resource="Cornetto"/>
+        <externalRef reference="ili-30-02376958-v" resource="WordNet"/>
+      </externalReferences>
+      <span>
+        <target id="t_36"/>
+      </span>
+      <role id="r4" semRole="Arg2">
+        <!--met het actief strijden aan het Oostfront als vrijwilliger van de Waffen SS-->
+        <span>
+          <target head="yes" id="t_37"/>
+          <target id="t_38"/>
+          <target id="t_39"/>
+          <target id="t_40"/>
+          <target id="t_41"/>
+          <target id="t_42"/>
+          <target id="t_43"/>
+          <target id="t_44"/>
+          <target id="t_45"/>
+          <target id="t_46"/>
+          <target id="t_47"/>
+          <target id="t_48"/>
+          <target id="t_49"/>
+        </span>
+      </role>
+      <role id="r12" semRole="ArgM-TMP">
+        <!--een jaar later-->
+        <span>
+          <target id="t_30"/>
+          <target id="t_31"/>
+          <target head="yes" id="t_32"/>
+        </span>
+      </role>
+      <role id="r13" semRole="Arg1">
+        <!--dat-->
+        <span>
+          <target head="yes" id="t_28"/>
+        </span>
+      </role>
+      <role id="r15" semRole="Arg0">
+        <!--hij-->
+        <span>
+          <target head="yes" id="t_29"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr4">
+      <!--strijden-->
+      <externalReferences>
+        <externalRef reference="d_v-420840" resource="Cornetto"/>
+        <externalRef reference="ili-30-02589576-v" resource="WordNet"/>
+      </externalReferences>
+      <span>
+        <target id="t_40"/>
+      </span>
+      <role id="r6" semRole="ArgM-LOC">
+        <!--aan het Oostfront als vrijwilliger van de Waffen SS-->
+        <span>
+          <target head="yes" id="t_41"/>
+          <target id="t_42"/>
+          <target id="t_43"/>
+          <target id="t_44"/>
+          <target id="t_45"/>
+          <target id="t_46"/>
+          <target id="t_47"/>
+          <target id="t_48"/>
+          <target id="t_49"/>
+        </span>
+      </role>
+      <role id="r7" semRole="#">
+        <!--actief-->
+        <span>
+          <target head="yes" id="t_39"/>
+        </span>
+      </role>
+      <role id="r10" semRole="#">
+        <!--het-->
+        <span>
+          <target head="yes" id="t_38"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr5">
+      <!--dacht-->
+      <externalReferences>
+        <externalRef confidence="0.036550466" reference="c_545485" resource="Cornetto"/>
+      </externalReferences>
+      <span>
+        <target id="t_33"/>
+      </span>
+      <role id="r9" semRole="Arg1">
+        <!--een jaar later dacht te kunnen combineren met het actief strijden aan het Oostfront als vrijwilliger van de Waffen SS-->
+        <span>
+          <target id="t_30"/>
+          <target id="t_31"/>
+          <target id="t_32"/>
+          <target id="t_33"/>
+          <target head="yes" id="t_34"/>
+          <target id="t_35"/>
+          <target id="t_36"/>
+          <target id="t_37"/>
+          <target id="t_38"/>
+          <target id="t_39"/>
+          <target id="t_40"/>
+          <target id="t_41"/>
+          <target id="t_42"/>
+          <target id="t_43"/>
+          <target id="t_44"/>
+          <target id="t_45"/>
+          <target id="t_46"/>
+          <target id="t_47"/>
+          <target id="t_48"/>
+          <target id="t_49"/>
+        </span>
+      </role>
+      <role id="r11" semRole="Arg0">
+        <!--hij-->
+        <span>
+          <target head="yes" id="t_29"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr6">
+      <!--Sneuvelde-->
+      <externalReferences>
+        <externalRef reference="r_v-7283" resource="Cornetto"/>
+        <externalRef reference="ili-30-02620213-v" resource="WordNet"/>
+      </externalReferences>
+      <span>
+        <target id="t_51"/>
+      </span>
+      <role id="r14" semRole="ArgM-LOC">
+        <!--in de Oekraïne-->
+        <span>
+          <target head="yes" id="t_52"/>
+          <target id="t_53"/>
+          <target id="t_54"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+  <timeExpressions>
+    <timex3 id="tx1" type="DATE" value="1939">
+      <!--1939-->
+      <span>
+        <target id="w5"/>
+      </span>
+    </timex3>
+    <timex3 id="tx2" type="DATE" value="1941-SU">
+      <!--de zomer van 1941-->
+      <span>
+        <target id="w16"/>
+        <target id="w17"/>
+        <target id="w18"/>
+        <target id="w19"/>
+      </span>
+    </timex3>
+    <timex3 id="tx3" type="DATE" value="PAST_REF">
+      <!--een jaar later-->
+      <span>
+        <target id="w31"/>
+        <target id="w32"/>
+        <target id="w33"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+</NAF>

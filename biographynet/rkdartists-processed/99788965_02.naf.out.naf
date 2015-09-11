@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NAF version="v3" xml:lang="nl">
+  <nafHeader>
+    <fileDesc creationtime="T00:00:00Z" filename="99788965_02.xml"/>
+    <public publicId="99788965_02" uri="biographynet/data/99788965_02.xml"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2015-07-14T17:10:55+0200" endTimestamp="2015-07-14T17:10:55+0200" hostname="kyoto.vu.nl" name="ixa-pipe-tok-nl" version="1.8.0-56f83ce4b61680346f15e5d4e6de6293764f7383"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp beginTimestamp="2015-07-14T17:11:22CEST" endTimestamp="2015-07-14T17:11:22CEST" hostname="kyoto" name="SoNaR-News-trained-SRL" timestamp="2015-07-14T17:11:22CEST" version="1.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2015-07-14T17:10:59CEST" endTimestamp="2015-07-14T17:10:59CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T17:10:59CEST" version="0.1_05sept2014"/>
+      <lp beginTimestamp="2015-07-14T17:11:15CEST" endTimestamp="2015-07-14T17:11:15CEST" hostname="kyoto" name="VUA-DSC-WSD" timestamp="2015-07-14T17:11:15CEST" version="1.2#20jan2015"/>
+      <lp beginTimestamp="2015-07-14T17:11:21+0200" endTimestamp="2015-07-14T17:11:21+0200" hostname="kyoto.vu.nl" name="vua-predicate-matrix-tagger" timestamp="2015-07-14T17:11:21+0200" version="1.0"/>
+      <lp beginTimestamp="2015-07-14T17:11:29+0200" endTimestamp="2015-07-14T17:11:30+0200" hostname="kyoto.vu.nl" name="vua-framenet-srl-tagger" timestamp="2015-07-14T17:11:29+0200" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2015-07-14T17:11:28+0200" endTimestamp="2015-07-14T17:11:28+0200" hostname="kyoto.vu.nl" name="vua-event-coref-intradoc-wn-sim" timestamp="2015-07-14T17:11:28+0200" version="2.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2015-07-14T17:10:59CEST" endTimestamp="2015-07-14T17:10:59CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T17:10:59CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituents">
+      <lp beginTimestamp="2015-07-14T17:10:59CEST" endTimestamp="2015-07-14T17:10:59CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T17:10:59CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2015-07-14T17:11:05+0200" endTimestamp="2015-07-14T17:11:14+0200" hostname="kyoto.vu.nl" name="ixa-pipe-nerc-nl-clusters-conll02" version="1.3.6-9927fdb32d943f0aa9748a656958af99eeb1f5b7"/>
+      <lp beginTimestamp="2015-07-14T17:11:16+0200" endTimestamp="2015-07-14T17:11:17+0200" hostname="kyoto.vu.nl" name="ixa-pipe-ned-nl" version="1.1.1-d35d4df5cb71940bf642bb1a83e2b5b7584010df"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="timeExpressions">
+      <lp beginTimestamp="2015-07-14T17:10:59+0200" endTimestamp="2015-07-14T17:11:01+0200" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-2a2999bb6558401326bf88bda44e9a9c404492c6"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>Schilder. Geboren: 13 maart 1879, Buitenzorg (Nederlands Indië). Gestorven: 2 juli 1942, Amsterdam.</raw>
+  <text>
+    <wf id="w1" length="8" offset="0" para="1" sent="1">Schilder</wf>
+    <wf id="w2" length="1" offset="8" para="1" sent="1">.</wf>
+    <wf id="w3" length="7" offset="10" para="1" sent="2">Geboren</wf>
+    <wf id="w4" length="1" offset="17" para="1" sent="2">:</wf>
+    <wf id="w5" length="2" offset="19" para="1" sent="2">13</wf>
+    <wf id="w6" length="5" offset="22" para="1" sent="2">maart</wf>
+    <wf id="w7" length="4" offset="28" para="1" sent="2">1879</wf>
+    <wf id="w8" length="1" offset="32" para="1" sent="2">,</wf>
+    <wf id="w9" length="10" offset="34" para="1" sent="2">Buitenzorg</wf>
+    <wf id="w10" length="1" offset="45" para="1" sent="2">(</wf>
+    <wf id="w11" length="10" offset="46" para="1" sent="2">Nederlands</wf>
+    <wf id="w12" length="5" offset="57" para="1" sent="2">Indië</wf>
+    <wf id="w13" length="1" offset="62" para="1" sent="2">)</wf>
+    <wf id="w14" length="1" offset="63" para="1" sent="2">.</wf>
+    <wf id="w15" length="9" offset="65" para="1" sent="3">Gestorven</wf>
+    <wf id="w16" length="1" offset="74" para="1" sent="3">:</wf>
+    <wf id="w17" length="1" offset="76" para="1" sent="3">2</wf>
+    <wf id="w18" length="4" offset="78" para="1" sent="3">juli</wf>
+    <wf id="w19" length="4" offset="83" para="1" sent="3">1942</wf>
+    <wf id="w20" length="1" offset="87" para="1" sent="3">,</wf>
+    <wf id="w21" length="9" offset="89" para="1" sent="3">Amsterdam</wf>
+    <wf id="w22" length="1" offset="98" para="1" sent="3">.</wf>
+  </text>
+  <terms>
+    <term id="t_0" lemma="Schilder" morphofeat="N(eigen,ev,basis,zijd,stan)" pos="name" type="open">
+      <span>
+        <!--Schilder-->
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t_1" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t_2" lemma="geboren" morphofeat="WW(vd,vrij,zonder)" pos="adj" type="open">
+      <span>
+        <!--Geboren-->
+        <target id="w3"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.18906762" reference="c_546682" resource="Cornetto"/>
+        <externalRef confidence="0.09437314" reference="r_a-10817" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_3" lemma=":" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--:-->
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t_4" lemma="13" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--13-->
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t_5" lemma="maart" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--maart-->
+        <target id="w6"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-22880" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_6" lemma="1879" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--1879-->
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t_7" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t_8" lemma="Buitenzorg" morphofeat="N(eigen,ev,basis,onz,stan)" pos="name" type="open">
+      <span>
+        <!--Buitenzorg-->
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t_9" lemma="(" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--(-->
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t_10" lemma="Nederlands" morphofeat="ADJ(prenom,basis,zonder)" pos="adj" type="open">
+      <span>
+        <!--Nederlands-->
+        <target id="w11"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_a-16628" resource="Cornetto"/>
+        <externalRef reference="r_a-17281" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_11" lemma="Indië" morphofeat="N(eigen,ev,basis,onz,stan)" pos="name" type="open">
+      <span>
+        <!--Indië-->
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t_12" lemma=")" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--)-->
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t_13" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t_14" lemma="gestorven" morphofeat="WW(vd,vrij,zonder)" pos="adj" type="open">
+      <span>
+        <!--Gestorven-->
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t_15" lemma=":" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--:-->
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t_16" lemma="2" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--2-->
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t_17" lemma="juli" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--juli-->
+        <target id="w18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-18633" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_18" lemma="1942" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--1942-->
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t_19" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t_20" lemma="Amsterdam" morphofeat="N(eigen,ev,basis,onz,stan)" pos="name" type="open">
+      <span>
+        <!--Amsterdam-->
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t_21" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w22"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <!--- - / - -(Schilder,.)-->
+    <dep from="t_0" rfunc="-- / --" to="t_1"/>
+    <!--- - / - -(:,,)-->
+    <dep from="t_3" rfunc="-- / --" to="t_7"/>
+    <!--- - / - -(:,()-->
+    <dep from="t_3" rfunc="-- / --" to="t_9"/>
+    <!--- - / - -(:,Geboren)-->
+    <dep from="t_3" rfunc="-- / --" to="t_2"/>
+    <!--tag/nucl(Geboren,13)-->
+    <dep from="t_2" rfunc="tag/nucl" to="t_4"/>
+    <!--mwp/mwp(13,maart)-->
+    <dep from="t_4" rfunc="mwp/mwp" to="t_5"/>
+    <!--mwp/mwp(13,1879)-->
+    <dep from="t_4" rfunc="mwp/mwp" to="t_6"/>
+    <!--dp/dp(13,Buitenzorg)-->
+    <dep from="t_4" rfunc="dp/dp" to="t_8"/>
+    <!--hd/mod(Buitenzorg,Indië)-->
+    <dep from="t_8" rfunc="hd/mod" to="t_11"/>
+    <!--hd/mod(Indië,Nederlands)-->
+    <dep from="t_11" rfunc="hd/mod" to="t_10"/>
+    <!--- - / - -(:,))-->
+    <dep from="t_3" rfunc="-- / --" to="t_12"/>
+    <!--- - / - -(:,.)-->
+    <dep from="t_3" rfunc="-- / --" to="t_13"/>
+    <!--- - / - -(:,,)-->
+    <dep from="t_15" rfunc="-- / --" to="t_19"/>
+    <!--- - / - -(:,Gestorven)-->
+    <dep from="t_15" rfunc="-- / --" to="t_14"/>
+    <!--dp/dp(Gestorven,2)-->
+    <dep from="t_14" rfunc="dp/dp" to="t_16"/>
+    <!--mwp/mwp(2,juli)-->
+    <dep from="t_16" rfunc="mwp/mwp" to="t_17"/>
+    <!--mwp/mwp(2,1942)-->
+    <dep from="t_16" rfunc="mwp/mwp" to="t_18"/>
+    <!--dp/dp(2,Amsterdam)-->
+    <dep from="t_16" rfunc="dp/dp" to="t_20"/>
+    <!--- - / - -(:,.)-->
+    <dep from="t_15" rfunc="-- / --" to="t_21"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="LOC">
+      <references>
+        <span>
+          <!--Buitenzorg-->
+          <target id="t_8"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.9999589" reference="http://nl.dbpedia.org/resource/Bogor_(stadsgemeente)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.9999589" reference="http://dbpedia.org/resource/Bogor" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="3.6280573E-5" reference="http://nl.dbpedia.org/resource/Kebun_Raya_Bogor" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="3.6280573E-5" reference="http://dbpedia.org/resource/Bogor_Botanical_Gardens" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.873857E-6" reference="http://nl.dbpedia.org/resource/Buitenzorg_(Baarn)" reftype="nl" resource="spotlight_v1"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="MISC">
+      <references>
+        <span>
+          <!--Nederlands-->
+          <target id="t_10"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.99718964" reference="http://nl.dbpedia.org/resource/Nederland" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.99718964" reference="http://dbpedia.org/resource/Netherlands" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="0.0027893782" reference="http://nl.dbpedia.org/resource/Nederlands" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.0027893782" reference="http://dbpedia.org/resource/Dutch_language" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.173064E-5" reference="http://nl.dbpedia.org/resource/Nederlanders" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.173064E-5" reference="http://dbpedia.org/resource/Dutch_people" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="3.5939142E-6" reference="http://nl.dbpedia.org/resource/Zuidelijke_Nederlanden" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="3.5939142E-6" reference="http://dbpedia.org/resource/Southern_Netherlands" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.6246844E-6" reference="http://nl.dbpedia.org/resource/Neerlandistiek" reftype="nl" resource="spotlight_v1"/>
+        <externalRef confidence="1.87611E-6" reference="http://nl.dbpedia.org/resource/Republiek_der_Zeven_Verenigde_Nederlanden" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.87611E-6" reference="http://dbpedia.org/resource/Dutch_Republic" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="6.4867106E-7" reference="http://nl.dbpedia.org/resource/Limburg_(Nederland)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="6.4867106E-7" reference="http://dbpedia.org/resource/Limburg_(Netherlands)" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.872852E-7" reference="http://nl.dbpedia.org/resource/Nederlandse_hockeyploeg_(vrouwen)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="2.872852E-7" reference="http://dbpedia.org/resource/Netherlands_women's_national_field_hockey_team" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.3442511E-7" reference="http://nl.dbpedia.org/resource/Verenigd_Koninkrijk_der_Nederlanden" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.3442511E-7" reference="http://dbpedia.org/resource/United_Kingdom_of_the_Netherlands" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="5.562516E-8" reference="http://nl.dbpedia.org/resource/Standaardnederlands" reftype="nl" resource="spotlight_v1"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="LOC">
+      <references>
+        <span>
+          <!--Indië-->
+          <target id="t_11"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.95364827" reference="http://nl.dbpedia.org/resource/Nederlands-Indië" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.95364827" reference="http://dbpedia.org/resource/Dutch_East_Indies" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="0.046290737" reference="http://nl.dbpedia.org/resource/Indië_(regio)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.046290737" reference="http://dbpedia.org/resource/Indies" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="3.521516E-5" reference="http://nl.dbpedia.org/resource/Brits-Indië" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="3.521516E-5" reference="http://dbpedia.org/resource/British_Raj" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.2916553E-5" reference="http://nl.dbpedia.org/resource/India" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="2.2916553E-5" reference="http://dbpedia.org/resource/India" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.4881467E-6" reference="http://nl.dbpedia.org/resource/Indonesië" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="2.4881467E-6" reference="http://dbpedia.org/resource/Indonesia" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="3.6431229E-7" reference="http://nl.dbpedia.org/resource/Indische_Archipel" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="3.6431229E-7" reference="http://dbpedia.org/resource/Malay_Archipelago" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.618008E-8" reference="http://nl.dbpedia.org/resource/Indisch_subcontinent" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.618008E-8" reference="http://dbpedia.org/resource/Indian_subcontinent" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="LOC">
+      <references>
+        <span>
+          <!--Amsterdam-->
+          <target id="t_20"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.99981105" reference="http://nl.dbpedia.org/resource/Amsterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.99981105" reference="http://dbpedia.org/resource/Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="8.5430285E-5" reference="http://nl.dbpedia.org/resource/Amsterdam_(gemeente)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="8.5430285E-5" reference="http://dbpedia.org/resource/Government_of_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.7441048E-5" reference="http://nl.dbpedia.org/resource/Station_Amsterdam_Centraal" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="4.7441048E-5" reference="http://dbpedia.org/resource/Amsterdam_Centraal_railway_station" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.6079676E-5" reference="http://nl.dbpedia.org/resource/Universiteit_van_Amsterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="4.6079676E-5" reference="http://dbpedia.org/resource/University_of_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="5.5287373E-6" reference="http://nl.dbpedia.org/resource/Amsterdamse_tram" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="5.5287373E-6" reference="http://dbpedia.org/resource/Trams_in_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.2229967E-6" reference="http://nl.dbpedia.org/resource/Amsterdamsche_Hockey_&amp;_Bandy_Club" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="4.2229967E-6" reference="http://dbpedia.org/resource/Amsterdamsche_Hockey_&amp;_Bandy_Club" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.4427583E-7" reference="http://nl.dbpedia.org/resource/ABC_Amsterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.4427583E-7" reference="http://dbpedia.org/resource/ABC_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="6.692598E-8" reference="http://nl.dbpedia.org/resource/Amsterdam_(schip)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="6.692598E-8" reference="http://dbpedia.org/resource/Amsterdam_(VOC_ship)" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.8453738E-8" reference="http://nl.dbpedia.org/resource/Straatprostitutie_in_Amsterdam" reftype="nl" resource="spotlight_v1"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <!--Geboren-->
+        <target id="t_2"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <!--Gestorven-->
+        <target id="t_14"/>
+      </span>
+    </coref>
+  </coreferences>
+  <constituency>
+    <tree>
+      <t id="ter0">
+        <!--Schilder-->
+        <span>
+          <target id="t_0"/>
+        </span>
+      </t>
+      <t id="ter1">
+        <!--.-->
+        <span>
+          <target id="t_1"/>
+        </span>
+      </t>
+      <nt id="nter0" label="top"/>
+      <nt id="nter1" label="name"/>
+      <nt id="nter2" label="punct"/>
+      <edge from="nter1" id="tre0" to="nter0"/>
+      <edge from="ter0" id="tre1" to="nter1"/>
+      <edge from="nter2" id="tre2" to="nter0"/>
+      <edge from="ter1" id="tre3" to="nter2"/>
+    </tree>
+    <tree>
+      <t id="ter2">
+        <!--:-->
+        <span>
+          <target id="t_3"/>
+        </span>
+      </t>
+      <t id="ter3">
+        <!--,-->
+        <span>
+          <target id="t_7"/>
+        </span>
+      </t>
+      <t id="ter4">
+        <!--(-->
+        <span>
+          <target id="t_9"/>
+        </span>
+      </t>
+      <t id="ter5">
+        <!--Geboren-->
+        <span>
+          <target id="t_2"/>
+        </span>
+      </t>
+      <t id="ter6">
+        <!--13-->
+        <span>
+          <target id="t_4"/>
+        </span>
+      </t>
+      <t id="ter7">
+        <!--maart-->
+        <span>
+          <target id="t_5"/>
+        </span>
+      </t>
+      <t id="ter8">
+        <!--1879-->
+        <span>
+          <target id="t_6"/>
+        </span>
+      </t>
+      <t id="ter9">
+        <!--Buitenzorg-->
+        <span>
+          <target id="t_8"/>
+        </span>
+      </t>
+      <t id="ter10">
+        <!--Nederlands-->
+        <span>
+          <target id="t_10"/>
+        </span>
+      </t>
+      <t id="ter11">
+        <!--Indië-->
+        <span>
+          <target id="t_11"/>
+        </span>
+      </t>
+      <t id="ter12">
+        <!--)-->
+        <span>
+          <target id="t_12"/>
+        </span>
+      </t>
+      <t id="ter13">
+        <!--.-->
+        <span>
+          <target id="t_13"/>
+        </span>
+      </t>
+      <nt id="nter3" label="top"/>
+      <nt id="nter4" label="punct"/>
+      <nt id="nter5" label="punct"/>
+      <nt id="nter6" label="punct"/>
+      <nt id="nter7" label="du"/>
+      <nt id="nter8" label="adj"/>
+      <nt id="nter9" label="du"/>
+      <nt id="nter10" label="mwu"/>
+      <nt id="nter11" label="noun"/>
+      <nt id="nter12" label="noun"/>
+      <nt id="nter13" label="noun"/>
+      <nt id="nter14" label="np"/>
+      <nt id="nter15" label="name"/>
+      <nt id="nter16" label="np"/>
+      <nt id="nter17" label="adj"/>
+      <nt id="nter18" label="name"/>
+      <nt id="nter19" label="punct"/>
+      <nt id="nter20" label="punct"/>
+      <edge from="nter4" id="tre4" to="nter3"/>
+      <edge from="ter2" id="tre5" to="nter4"/>
+      <edge from="nter5" id="tre6" to="nter3"/>
+      <edge from="ter3" id="tre7" to="nter5"/>
+      <edge from="nter6" id="tre8" to="nter3"/>
+      <edge from="ter4" id="tre9" to="nter6"/>
+      <edge from="nter7" id="tre10" to="nter3"/>
+      <edge from="nter8" id="tre11" to="nter7"/>
+      <edge from="ter5" id="tre12" to="nter8"/>
+      <edge from="nter9" id="tre13" to="nter7"/>
+      <edge from="nter10" id="tre14" to="nter9"/>
+      <edge from="nter11" id="tre15" to="nter10"/>
+      <edge from="ter6" id="tre16" to="nter11"/>
+      <edge from="nter12" id="tre17" to="nter10"/>
+      <edge from="ter7" id="tre18" to="nter12"/>
+      <edge from="nter13" id="tre19" to="nter10"/>
+      <edge from="ter8" id="tre20" to="nter13"/>
+      <edge from="nter14" id="tre21" to="nter9"/>
+      <edge from="nter15" head="yes" id="tre22" to="nter14"/>
+      <edge from="ter9" id="tre23" to="nter15"/>
+      <edge from="nter16" id="tre24" to="nter14"/>
+      <edge from="nter17" id="tre25" to="nter16"/>
+      <edge from="ter10" id="tre26" to="nter17"/>
+      <edge from="nter18" head="yes" id="tre27" to="nter16"/>
+      <edge from="ter11" id="tre28" to="nter18"/>
+      <edge from="nter19" id="tre29" to="nter3"/>
+      <edge from="ter12" id="tre30" to="nter19"/>
+      <edge from="nter20" id="tre31" to="nter3"/>
+      <edge from="ter13" id="tre32" to="nter20"/>
+    </tree>
+    <tree>
+      <t id="ter14">
+        <!--:-->
+        <span>
+          <target id="t_15"/>
+        </span>
+      </t>
+      <t id="ter15">
+        <!--,-->
+        <span>
+          <target id="t_19"/>
+        </span>
+      </t>
+      <t id="ter16">
+        <!--Gestorven-->
+        <span>
+          <target id="t_14"/>
+        </span>
+      </t>
+      <t id="ter17">
+        <!--2-->
+        <span>
+          <target id="t_16"/>
+        </span>
+      </t>
+      <t id="ter18">
+        <!--juli-->
+        <span>
+          <target id="t_17"/>
+        </span>
+      </t>
+      <t id="ter19">
+        <!--1942-->
+        <span>
+          <target id="t_18"/>
+        </span>
+      </t>
+      <t id="ter20">
+        <!--Amsterdam-->
+        <span>
+          <target id="t_20"/>
+        </span>
+      </t>
+      <t id="ter21">
+        <!--.-->
+        <span>
+          <target id="t_21"/>
+        </span>
+      </t>
+      <nt id="nter21" label="top"/>
+      <nt id="nter22" label="punct"/>
+      <nt id="nter23" label="punct"/>
+      <nt id="nter24" label="du"/>
+      <nt id="nter25" label="adj"/>
+      <nt id="nter26" label="du"/>
+      <nt id="nter27" label="mwu"/>
+      <nt id="nter28" label="noun"/>
+      <nt id="nter29" label="noun"/>
+      <nt id="nter30" label="noun"/>
+      <nt id="nter31" label="name"/>
+      <nt id="nter32" label="punct"/>
+      <edge from="nter22" id="tre33" to="nter21"/>
+      <edge from="ter14" id="tre34" to="nter22"/>
+      <edge from="nter23" id="tre35" to="nter21"/>
+      <edge from="ter15" id="tre36" to="nter23"/>
+      <edge from="nter24" id="tre37" to="nter21"/>
+      <edge from="nter25" id="tre38" to="nter24"/>
+      <edge from="ter16" id="tre39" to="nter25"/>
+      <edge from="nter26" id="tre40" to="nter24"/>
+      <edge from="nter27" id="tre41" to="nter26"/>
+      <edge from="nter28" id="tre42" to="nter27"/>
+      <edge from="ter17" id="tre43" to="nter28"/>
+      <edge from="nter29" id="tre44" to="nter27"/>
+      <edge from="ter18" id="tre45" to="nter29"/>
+      <edge from="nter30" id="tre46" to="nter27"/>
+      <edge from="ter19" id="tre47" to="nter30"/>
+      <edge from="nter31" id="tre48" to="nter26"/>
+      <edge from="ter20" id="tre49" to="nter31"/>
+      <edge from="nter32" id="tre50" to="nter21"/>
+      <edge from="ter21" id="tre51" to="nter32"/>
+    </tree>
+  </constituency>
+  <srl>
+    <predicate id="pr1">
+      <!--Geboren-->
+      <externalReferences>
+        <externalRef confidence="0.18906762" reference="c_546682" resource="Cornetto"/>
+      </externalReferences>
+      <span>
+        <target id="t_2"/>
+      </span>
+      <role id="r1" semRole="Arg2">
+        <!--13 maart 1879 , Buitenzorg ( Nederlands Indië-->
+        <span>
+          <target head="yes" id="t_4"/>
+          <target id="t_5"/>
+          <target id="t_6"/>
+          <target id="t_7"/>
+          <target id="t_8"/>
+          <target id="t_9"/>
+          <target id="t_10"/>
+          <target id="t_11"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr2">
+      <!--Gestorven-->
+      <span>
+        <target id="t_14"/>
+      </span>
+      <role id="r2" semRole="Arg2">
+        <!--2 juli 1942 , Amsterdam-->
+        <span>
+          <target head="yes" id="t_16"/>
+          <target id="t_17"/>
+          <target id="t_18"/>
+          <target id="t_19"/>
+          <target id="t_20"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+  <timeExpressions>
+    <timex3 id="tx1" type="DATE" value="1879-03-13">
+      <!--13 maart 1879-->
+      <span>
+        <target id="w5"/>
+        <target id="w6"/>
+        <target id="w7"/>
+      </span>
+    </timex3>
+    <timex3 id="tx2" type="DATE" value="1942-07-02">
+      <!--2 juli 1942-->
+      <span>
+        <target id="w17"/>
+        <target id="w18"/>
+        <target id="w19"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+</NAF>

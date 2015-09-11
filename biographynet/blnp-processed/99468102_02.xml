@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NAF xml:lang="nl" version="v3">
+  <nafHeader>
+    <fileDesc creationtime="T00:00:00Z" filename="99468102_02.xml" />
+    <public publicId="99468102_02" uri="biographynet/data/99468102_02.xml" />
+    <linguisticProcessors layer="srl">
+      <lp name="SoNaR-News-trained-SRL" timestamp="2015-08-10T19:03:03CEST" beginTimestamp="2015-08-10T19:03:03CEST" endTimestamp="2015-08-10T19:03:03CEST" version="1.1" hostname="kyoto" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp name="ixa-pipe-tok-nl" beginTimestamp="2015-08-10T19:02:37+0200" endTimestamp="2015-08-10T19:02:37+0200" version="1.8.0-56f83ce4b61680346f15e5d4e6de6293764f7383" hostname="kyoto.vu.nl" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp name="vua-event-coref-intradoc-wn-sim" timestamp="2015-08-10T19:03:10+0200" beginTimestamp="2015-08-10T19:03:10+0200" endTimestamp="2015-08-10T19:03:10+0200" version="2.1" hostname="kyoto.vu.nl" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="Morphosyntactic parser based on Alpino" timestamp="2015-08-10T19:02:42CEST" beginTimestamp="2015-08-10T19:02:42CEST" endTimestamp="2015-08-10T19:02:42CEST" version="0.1_05sept2014" hostname="kyoto" />
+      <lp name="VUA-DSC-WSD" timestamp="2015-08-10T19:02:57CEST" beginTimestamp="2015-08-10T19:02:57CEST" endTimestamp="2015-08-10T19:02:57CEST" version="1.2#20jan2015" hostname="kyoto" />
+      <lp name="vua-predicate-matrix-tagger" timestamp="2015-08-10T19:03:02+0200" beginTimestamp="2015-08-10T19:03:02+0200" endTimestamp="2015-08-10T19:03:02+0200" version="1.0" hostname="kyoto.vu.nl" />
+      <lp name="vua-framenet-srl-tagger" timestamp="2015-08-10T19:03:12+0200" beginTimestamp="2015-08-10T19:03:12+0200" endTimestamp="2015-08-10T19:03:12+0200" version="1.0" hostname="kyoto.vu.nl" />
+      <lp name="vua-compound-frametagger" timestamp="2015-08-10T19:03:13+0200" beginTimestamp="2015-08-10T19:03:13+0200" endTimestamp="2015-08-10T19:03:13+0200" version="1.0" hostname="kyoto.vu.nl" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituents">
+      <lp name="Morphosyntactic parser based on Alpino" timestamp="2015-08-10T19:02:42CEST" beginTimestamp="2015-08-10T19:02:42CEST" endTimestamp="2015-08-10T19:02:42CEST" version="0.1_05sept2014" hostname="kyoto" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp name="Morphosyntactic parser based on Alpino" timestamp="2015-08-10T19:02:42CEST" beginTimestamp="2015-08-10T19:02:42CEST" endTimestamp="2015-08-10T19:02:42CEST" version="0.1_05sept2014" hostname="kyoto" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp name="ixa-pipe-nerc-nl-clusters-conll02" beginTimestamp="2015-08-10T19:02:43+0200" endTimestamp="2015-08-10T19:02:55+0200" version="1.5.2-5cacac28fcaa6e91d5f2a4cc9b486b24ac163641" hostname="kyoto.vu.nl" />
+      <lp name="ixa-pipe-ned-nl" beginTimestamp="2015-08-10T19:02:58+0200" endTimestamp="2015-08-10T19:02:58+0200" version="1.1.1-d35d4df5cb71940bf642bb1a83e2b5b7584010df" hostname="kyoto.vu.nl" />
+      <lp name="dbpedia_spotlight_cltl" timestamp="2015-08-10T19:03:12CEST" beginTimestamp="2015-08-10T19:03:12CEST" endTimestamp="2015-08-10T19:03:12CEST" version="0.4" hostname="kyoto" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl-extra">
+      <lp name="vua-srl-dutch-additional-roles-for-nominal-predicates" timestamp="2015-08-10T19:03:13CEST" beginTimestamp="2015-08-10T19:03:13CEST" endTimestamp="2015-08-10T19:03:13CEST" version="1.0" hostname="kyoto" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="timeExpressions">
+      <lp name="ixa-pipe-heideltime-nl" beginTimestamp="2015-08-10T19:33:01+0200" endTimestamp="2015-08-10T19:33:03+0200" version="1.0.1-da4604a7b33975e977017440cbc10f7d59917ddf" hostname="kyoto.vu.nl" />
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[WILTENS, CASPARUS CONRADUS, * 
+Antwerpen 1584, t Amboina (Ambon) jan. 
+1619. Stud. Leiden 1602. Geref. pred. op Batian]]></raw>
+  <text>
+    <wf id="w1" sent="1" para="1" offset="0" length="7">WILTENS</wf>
+    <wf id="w2" sent="1" para="1" offset="7" length="1">,</wf>
+    <wf id="w3" sent="1" para="1" offset="9" length="8">CASPARUS</wf>
+    <wf id="w4" sent="1" para="1" offset="18" length="8">CONRADUS</wf>
+    <wf id="w5" sent="1" para="1" offset="26" length="1">,</wf>
+    <wf id="w6" sent="1" para="1" offset="28" length="1">*</wf>
+    <wf id="w7" sent="1" para="1" offset="31" length="9">Antwerpen</wf>
+    <wf id="w8" sent="1" para="1" offset="41" length="4">1584</wf>
+    <wf id="w9" sent="1" para="1" offset="45" length="1">,</wf>
+    <wf id="w10" sent="1" para="1" offset="47" length="1">t</wf>
+    <wf id="w11" sent="1" para="1" offset="49" length="7">Amboina</wf>
+    <wf id="w12" sent="1" para="1" offset="57" length="1">(</wf>
+    <wf id="w13" sent="1" para="1" offset="58" length="5">Ambon</wf>
+    <wf id="w14" sent="1" para="1" offset="63" length="1">)</wf>
+    <wf id="w15" sent="1" para="1" offset="65" length="3">jan</wf>
+    <wf id="w16" sent="1" para="1" offset="68" length="1">.</wf>
+    <wf id="w17" sent="1" para="1" offset="71" length="4">1619</wf>
+    <wf id="w18" sent="1" para="1" offset="75" length="1">.</wf>
+    <wf id="w19" sent="2" para="1" offset="77" length="4">Stud</wf>
+    <wf id="w20" sent="2" para="1" offset="81" length="1">.</wf>
+    <wf id="w21" sent="3" para="1" offset="83" length="6">Leiden</wf>
+    <wf id="w22" sent="3" para="1" offset="90" length="4">1602</wf>
+    <wf id="w23" sent="3" para="1" offset="94" length="1">.</wf>
+    <wf id="w24" sent="4" para="1" offset="96" length="6">Geref.</wf>
+    <wf id="w25" sent="4" para="1" offset="103" length="5">pred.</wf>
+    <wf id="w26" sent="4" para="1" offset="109" length="2">op</wf>
+    <wf id="w27" sent="4" para="1" offset="112" length="6">Batian</wf>
+  </text>
+  <terms>
+    <!--WILTENS-->
+    <term id="t_0" type="open" lemma="WILTENS" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w1" />
+      </span>
+    </term>
+    <!--,-->
+    <term id="t_1" type="open" lemma="," pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w2" />
+      </span>
+    </term>
+    <!--CASPARUS-->
+    <term id="t_2" type="open" lemma="CASPARUS" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w3" />
+      </span>
+    </term>
+    <!--CONRADUS-->
+    <term id="t_3" type="open" lemma="CONRADUS" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w4" />
+      </span>
+    </term>
+    <!--,-->
+    <term id="t_4" type="open" lemma="," pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w5" />
+      </span>
+    </term>
+    <!--*-->
+    <term id="t_5" type="open" lemma="*" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w6" />
+      </span>
+    </term>
+    <!--Antwerpen-->
+    <term id="t_6" type="open" lemma="Antwerpen" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w7" />
+      </span>
+    </term>
+    <!--1584-->
+    <term id="t_7" type="open" lemma="1584" pos="num" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w8" />
+      </span>
+    </term>
+    <!--,-->
+    <term id="t_8" type="open" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w9" />
+      </span>
+    </term>
+    <!--t-->
+    <term id="t_9" type="open" lemma="t" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w10" />
+      </span>
+      <externalReferences>
+        <externalRef resource="Cornetto" reference="r_n-36712" />
+      </externalReferences>
+    </term>
+    <!--Amboina-->
+    <term id="t_10" type="open" lemma="Amboina" pos="name" morphofeat="N(eigen,ev,basis,zijd,stan)">
+      <span>
+        <target id="w11" />
+      </span>
+    </term>
+    <!--(-->
+    <term id="t_11" type="open" lemma="(" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w12" />
+      </span>
+    </term>
+    <!--Ambon-->
+    <term id="t_12" type="open" lemma="Ambon" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w13" />
+      </span>
+    </term>
+    <!--)-->
+    <term id="t_13" type="open" lemma=")" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w14" />
+      </span>
+    </term>
+    <!--jan-->
+    <term id="t_14" type="open" lemma="Jan" pos="name" morphofeat="N(eigen,ev,basis,zijd,stan)">
+      <span>
+        <target id="w15" />
+      </span>
+    </term>
+    <!--.-->
+    <term id="t_15" type="open" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w16" />
+      </span>
+    </term>
+    <!--1619-->
+    <term id="t_16" type="open" lemma="1619" pos="num" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w17" />
+      </span>
+    </term>
+    <!--.-->
+    <term id="t_17" type="open" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w18" />
+      </span>
+    </term>
+    <!--Stud-->
+    <term id="t_18" type="open" lemma="Stud" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w19" />
+      </span>
+    </term>
+    <!--.-->
+    <term id="t_19" type="open" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w20" />
+      </span>
+    </term>
+    <!--Leiden-->
+    <term id="t_20" type="open" lemma="Leiden" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w21" />
+      </span>
+    </term>
+    <!--1602-->
+    <term id="t_21" type="open" lemma="1602" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w22" />
+      </span>
+    </term>
+    <!--.-->
+    <term id="t_22" type="open" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w23" />
+      </span>
+    </term>
+    <!--Geref.-->
+    <term id="t_23" type="open" lemma="gereformeerd" pos="adj" morphofeat="WW(vd,prenom,met-e)">
+      <span>
+        <target id="w24" />
+      </span>
+      <externalReferences>
+        <externalRef resource="Cornetto" reference="r_a-11002" />
+        <externalRef resource="Cornetto" reference="r_a-11540" />
+        <externalRef resource="Cornetto" reference="d_a-90847" />
+      </externalReferences>
+    </term>
+    <!--pred.-->
+    <term id="t_24" type="open" lemma="predikant" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w25" />
+      </span>
+      <externalReferences>
+        <externalRef resource="Cornetto" reference="r_n-29486" />
+      </externalReferences>
+    </term>
+    <!--op-->
+    <term id="t_25" type="close" lemma="op" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w26" />
+      </span>
+    </term>
+    <!--Batian-->
+    <term id="t_26" type="open" lemma="Batian" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w27" />
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <!--- / -(,, ()-->
+    <dep from="t_8" to="t_11" rfunc="-- / --" />
+    <!--- / -(,, ))-->
+    <dep from="t_8" to="t_13" rfunc="-- / --" />
+    <!--- / -(,, .)-->
+    <dep from="t_8" to="t_15" rfunc="-- / --" />
+    <!--- / -(,, WILTENS)-->
+    <dep from="t_8" to="t_0" rfunc="-- / --" />
+    <!--mwp/mwp(WILTENS, ,)-->
+    <dep from="t_0" to="t_1" rfunc="mwp/mwp" />
+    <!--mwp/mwp(WILTENS, CASPARUS)-->
+    <dep from="t_0" to="t_2" rfunc="mwp/mwp" />
+    <!--mwp/mwp(WILTENS, CONRADUS)-->
+    <dep from="t_0" to="t_3" rfunc="mwp/mwp" />
+    <!--mwp/mwp(WILTENS, ,)-->
+    <dep from="t_0" to="t_4" rfunc="mwp/mwp" />
+    <!--mwp/mwp(WILTENS, *)-->
+    <dep from="t_0" to="t_5" rfunc="mwp/mwp" />
+    <!--mwp/mwp(WILTENS, Antwerpen)-->
+    <dep from="t_0" to="t_6" rfunc="mwp/mwp" />
+    <!--dp/dp(WILTENS, 1584)-->
+    <dep from="t_0" to="t_7" rfunc="dp/dp" />
+    <!--dp/dp(WILTENS, t)-->
+    <dep from="t_0" to="t_9" rfunc="dp/dp" />
+    <!--hd/app(t, Amboina)-->
+    <dep from="t_9" to="t_10" rfunc="hd/app" />
+    <!--hd/mod(t, Ambon)-->
+    <dep from="t_9" to="t_12" rfunc="hd/mod" />
+    <!--dp/dp(t, jan)-->
+    <dep from="t_9" to="t_14" rfunc="dp/dp" />
+    <!--dp/dp(WILTENS, 1619)-->
+    <dep from="t_0" to="t_16" rfunc="dp/dp" />
+    <!--- / -(,, .)-->
+    <dep from="t_8" to="t_17" rfunc="-- / --" />
+    <!--- / -(Stud, .)-->
+    <dep from="t_18" to="t_19" rfunc="-- / --" />
+    <!--mwp/mwp(Leiden, 1602)-->
+    <dep from="t_20" to="t_21" rfunc="mwp/mwp" />
+    <!--- / -(Leiden, .)-->
+    <dep from="t_20" to="t_22" rfunc="-- / --" />
+    <!--hd/mod(pred., Geref.)-->
+    <dep from="t_24" to="t_23" rfunc="hd/mod" />
+    <!--hd/mod(pred., op)-->
+    <dep from="t_24" to="t_25" rfunc="hd/mod" />
+    <!--hd/obj1(op, Batian)-->
+    <dep from="t_25" to="t_26" rfunc="hd/obj1" />
+  </deps>
+  <entities>
+    <entity id="e1" type="PER">
+      <references>
+        <!--WILTENS-->
+        <span>
+          <target id="t_0" />
+        </span>
+      </references>
+    </entity>
+    <entity id="e2" type="PER">
+      <references>
+        <!--CASPARUS-->
+        <span>
+          <target id="t_2" />
+        </span>
+      </references>
+    </entity>
+    <entity id="e3" type="LOC">
+      <references>
+        <!--Antwerpen-->
+        <span>
+          <target id="t_6" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Antwerpen_(stad)" confidence="0.9999067" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Antwerp" confidence="0.9999067" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Antwerpen_(provincie)" confidence="8.902132E-5" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Antwerp_(province)" confidence="8.902132E-5" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Haven_van_Antwerpen" confidence="1.8474859E-6" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Port_of_Antwerp" confidence="1.8474859E-6" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Arrondissement_Antwerpen" confidence="5.4538714E-7" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Arrondissement_of_Antwerp" confidence="5.4538714E-7" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Bisdom_Antwerpen" confidence="5.141496E-7" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Antwerp" confidence="5.141496E-7" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Antwerpen_(district)" confidence="4.7181928E-7" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Antwerp_(district)" confidence="4.7181928E-7" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Dekenaat_Antwerpen" confidence="4.329459E-7" reftype="nl" />
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Markgraafschap_Antwerpen" confidence="1.9573577E-7" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Margraviate_of_Antwerp" confidence="1.9573577E-7" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Kanton_Antwerpen" confidence="1.4494034E-7" reftype="nl" />
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Gerechtelijk_arrondissement_Antwerpen" confidence="9.517738E-8" reftype="nl" />
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="LOC">
+      <references>
+        <!--Amboina-->
+        <span>
+          <target id="t_10" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Ambon_(eiland)" confidence="0.95757914" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Ambon_Island" confidence="0.95757914" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Amboina_(VOC-gebied)" confidence="0.029841041" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Governorate_of_Ambon" confidence="0.029841041" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Ambon_(stad)" confidence="0.012363648" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Ambon,_Maluku" confidence="0.012363648" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Amboina_(residentie)" confidence="2.1620076E-4" reftype="nl" />
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="LOC">
+      <references>
+        <!--Ambon-->
+        <span>
+          <target id="t_12" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Ambon_(eiland)" confidence="0.9828051" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Ambon_Island" confidence="0.9828051" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Ambon_(stad)" confidence="0.015835937" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Ambon,_Maluku" confidence="0.015835937" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Amboina_(VOC-gebied)" confidence="0.0013589973" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Governorate_of_Ambon" confidence="0.0013589973" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Lijst_van_gouverneurs_van_Ambon" confidence="1.5239909E-8" reftype="nl" />
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="MISC">
+      <references>
+        <!--Batian-->
+        <span>
+          <target id="t_26" />
+        </span>
+      </references>
+    </entity>
+    <entity id="e7" type="Schema:Place, DBpedia:Place, DBpedia:PopulatedPlace, DBpedia:Region, Schema:AdministrativeArea, DBpedia:AdministrativeRegion, DBpedia:GovernmentalAdministrativeRegion, DBpedia:Municipality">
+      <references>
+        <!--Leiden-->
+        <span>
+          <target id="t_20" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_cltl" reference="http://nl.dbpedia.org/resource/Leiden" confidence="0.8647484" />
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="Schema:Place, DBpedia:Place, DBpedia:PopulatedPlace, DBpedia:Island">
+      <references>
+        <!--Ambon-->
+        <span>
+          <target id="t_12" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_cltl" reference="http://nl.dbpedia.org/resource/Ambon_(eiland)" confidence="0.2754156" />
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="Schema:Place, DBpedia:Place, DBpedia:PopulatedPlace, DBpedia:Island">
+      <references>
+        <!--Amboina-->
+        <span>
+          <target id="t_10" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_cltl" reference="http://nl.dbpedia.org/resource/Ambon_(eiland)" confidence="0.20916437" />
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="Schema:Place, DBpedia:Place, DBpedia:PopulatedPlace, DBpedia:Region, Schema:AdministrativeArea, DBpedia:AdministrativeRegion, DBpedia:GovernmentalAdministrativeRegion, DBpedia:Municipality">
+      <references>
+        <!--Antwerpen-->
+        <span>
+          <target id="t_6" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_cltl" reference="http://nl.dbpedia.org/resource/Antwerpen_(stad)" confidence="0.956717" />
+      </externalReferences>
+    </entity>
+  </entities>
+  <timeExpressions>
+    <timex3 id="tx1" type="DATE" value="1584">
+      <!--1584-->
+      <span>
+        <target id="w8" />
+      </span>
+    </timex3>
+    <timex3 id="tx2" type="DATE" value="1619-01">
+      <!--jan . 1619-->
+      <span>
+        <target id="w15" />
+        <target id="w16" />
+        <target id="w17" />
+      </span>
+    </timex3>
+    <timex3 id="tx3" type="DATE" value="1602">
+      <!--1602-->
+      <span>
+        <target id="w22" />
+      </span>
+    </timex3>
+  </timeExpressions>
+  <constituency>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter0" label="top" />
+      <nt id="nter1" label="punct" />
+      <nt id="nter2" label="punct" />
+      <nt id="nter3" label="punct" />
+      <nt id="nter4" label="punct" />
+      <nt id="nter5" label="du" />
+      <nt id="nter6" label="du" />
+      <nt id="nter7" label="du" />
+      <nt id="nter8" label="mwu" />
+      <nt id="nter9" label="name" />
+      <nt id="nter10" label="name" />
+      <nt id="nter11" label="name" />
+      <nt id="nter12" label="name" />
+      <nt id="nter13" label="name" />
+      <nt id="nter14" label="name" />
+      <nt id="nter15" label="name" />
+      <nt id="nter16" label="num" />
+      <nt id="nter17" label="du" />
+      <nt id="nter18" label="np" />
+      <nt id="nter19" label="noun" />
+      <nt id="nter20" label="name" />
+      <nt id="nter21" label="name" />
+      <nt id="nter22" label="name" />
+      <nt id="nter23" label="num" />
+      <nt id="nter24" label="punct" />
+      <!--Terminals-->
+      <!--,-->
+      <t id="ter0">
+        <span>
+          <target id="t_8" />
+        </span>
+      </t>
+      <!--(-->
+      <t id="ter1">
+        <span>
+          <target id="t_11" />
+        </span>
+      </t>
+      <!--)-->
+      <t id="ter2">
+        <span>
+          <target id="t_13" />
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter3">
+        <span>
+          <target id="t_15" />
+        </span>
+      </t>
+      <!--WILTENS-->
+      <t id="ter4">
+        <span>
+          <target id="t_0" />
+        </span>
+      </t>
+      <!--,-->
+      <t id="ter5">
+        <span>
+          <target id="t_1" />
+        </span>
+      </t>
+      <!--CASPARUS-->
+      <t id="ter6">
+        <span>
+          <target id="t_2" />
+        </span>
+      </t>
+      <!--CONRADUS-->
+      <t id="ter7">
+        <span>
+          <target id="t_3" />
+        </span>
+      </t>
+      <!--,-->
+      <t id="ter8">
+        <span>
+          <target id="t_4" />
+        </span>
+      </t>
+      <!--*-->
+      <t id="ter9">
+        <span>
+          <target id="t_5" />
+        </span>
+      </t>
+      <!--Antwerpen-->
+      <t id="ter10">
+        <span>
+          <target id="t_6" />
+        </span>
+      </t>
+      <!--1584-->
+      <t id="ter11">
+        <span>
+          <target id="t_7" />
+        </span>
+      </t>
+      <!--t-->
+      <t id="ter12">
+        <span>
+          <target id="t_9" />
+        </span>
+      </t>
+      <!--Amboina-->
+      <t id="ter13">
+        <span>
+          <target id="t_10" />
+        </span>
+      </t>
+      <!--Ambon-->
+      <t id="ter14">
+        <span>
+          <target id="t_12" />
+        </span>
+      </t>
+      <!--jan-->
+      <t id="ter15">
+        <span>
+          <target id="t_14" />
+        </span>
+      </t>
+      <!--1619-->
+      <t id="ter16">
+        <span>
+          <target id="t_16" />
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter17">
+        <span>
+          <target id="t_17" />
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre0" from="nter1" to="nter0" />
+      <edge id="tre1" from="ter0" to="nter1" />
+      <edge id="tre2" from="nter2" to="nter0" />
+      <edge id="tre3" from="ter1" to="nter2" />
+      <edge id="tre4" from="nter3" to="nter0" />
+      <edge id="tre5" from="ter2" to="nter3" />
+      <edge id="tre6" from="nter4" to="nter0" />
+      <edge id="tre7" from="ter3" to="nter4" />
+      <edge id="tre8" from="nter5" to="nter0" />
+      <edge id="tre9" from="nter6" to="nter5" />
+      <edge id="tre10" from="nter7" to="nter6" />
+      <edge id="tre11" from="nter8" to="nter7" />
+      <edge id="tre12" from="nter9" to="nter8" />
+      <edge id="tre13" from="ter4" to="nter9" />
+      <edge id="tre14" from="nter10" to="nter8" />
+      <edge id="tre15" from="ter5" to="nter10" />
+      <edge id="tre16" from="nter11" to="nter8" />
+      <edge id="tre17" from="ter6" to="nter11" />
+      <edge id="tre18" from="nter12" to="nter8" />
+      <edge id="tre19" from="ter7" to="nter12" />
+      <edge id="tre20" from="nter13" to="nter8" />
+      <edge id="tre21" from="ter8" to="nter13" />
+      <edge id="tre22" from="nter14" to="nter8" />
+      <edge id="tre23" from="ter9" to="nter14" />
+      <edge id="tre24" from="nter15" to="nter8" />
+      <edge id="tre25" from="ter10" to="nter15" />
+      <edge id="tre26" from="nter16" to="nter7" />
+      <edge id="tre27" from="ter11" to="nter16" />
+      <edge id="tre28" from="nter17" to="nter6" />
+      <edge id="tre29" from="nter18" to="nter17" />
+      <edge id="tre30" from="nter19" to="nter18" head="yes" />
+      <edge id="tre31" from="ter12" to="nter19" />
+      <edge id="tre32" from="nter20" to="nter18" />
+      <edge id="tre33" from="ter13" to="nter20" />
+      <edge id="tre34" from="nter21" to="nter18" />
+      <edge id="tre35" from="ter14" to="nter21" />
+      <edge id="tre36" from="nter22" to="nter17" />
+      <edge id="tre37" from="ter15" to="nter22" />
+      <edge id="tre38" from="nter23" to="nter5" />
+      <edge id="tre39" from="ter16" to="nter23" />
+      <edge id="tre40" from="nter24" to="nter0" />
+      <edge id="tre41" from="ter17" to="nter24" />
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter25" label="top" />
+      <nt id="nter26" label="name" />
+      <nt id="nter27" label="punct" />
+      <!--Terminals-->
+      <!--Stud-->
+      <t id="ter18">
+        <span>
+          <target id="t_18" />
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter19">
+        <span>
+          <target id="t_19" />
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre42" from="nter26" to="nter25" />
+      <edge id="tre43" from="ter18" to="nter26" />
+      <edge id="tre44" from="nter27" to="nter25" />
+      <edge id="tre45" from="ter19" to="nter27" />
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter28" label="top" />
+      <nt id="nter29" label="mwu" />
+      <nt id="nter30" label="name" />
+      <nt id="nter31" label="name" />
+      <nt id="nter32" label="punct" />
+      <!--Terminals-->
+      <!--Leiden-->
+      <t id="ter20">
+        <span>
+          <target id="t_20" />
+        </span>
+      </t>
+      <!--1602-->
+      <t id="ter21">
+        <span>
+          <target id="t_21" />
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter22">
+        <span>
+          <target id="t_22" />
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre46" from="nter29" to="nter28" />
+      <edge id="tre47" from="nter30" to="nter29" />
+      <edge id="tre48" from="ter20" to="nter30" />
+      <edge id="tre49" from="nter31" to="nter29" />
+      <edge id="tre50" from="ter21" to="nter31" />
+      <edge id="tre51" from="nter32" to="nter28" />
+      <edge id="tre52" from="ter22" to="nter32" />
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter33" label="top" />
+      <nt id="nter34" label="np" />
+      <nt id="nter35" label="adj" />
+      <nt id="nter36" label="noun" />
+      <nt id="nter37" label="pp" />
+      <nt id="nter38" label="prep" />
+      <nt id="nter39" label="name" />
+      <!--Terminals-->
+      <!--Geref.-->
+      <t id="ter23">
+        <span>
+          <target id="t_23" />
+        </span>
+      </t>
+      <!--pred.-->
+      <t id="ter24">
+        <span>
+          <target id="t_24" />
+        </span>
+      </t>
+      <!--op-->
+      <t id="ter25">
+        <span>
+          <target id="t_25" />
+        </span>
+      </t>
+      <!--Batian-->
+      <t id="ter26">
+        <span>
+          <target id="t_26" />
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre53" from="nter34" to="nter33" />
+      <edge id="tre54" from="nter35" to="nter34" />
+      <edge id="tre55" from="ter23" to="nter35" />
+      <edge id="tre56" from="nter36" to="nter34" head="yes" />
+      <edge id="tre57" from="ter24" to="nter36" />
+      <edge id="tre58" from="nter37" to="nter34" />
+      <edge id="tre59" from="nter38" to="nter37" head="yes" />
+      <edge id="tre60" from="ter25" to="nter38" />
+      <edge id="tre61" from="nter39" to="nter37" />
+      <edge id="tre62" from="ter26" to="nter39" />
+    </tree>
+  </constituency>
+</NAF>

@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NAF version="v3" xml:lang="nl">
+  <nafHeader>
+    <fileDesc creationtime="T00:00:00Z" filename="97972744_05.xml"/>
+    <public publicId="97972744_05" uri="biographynet/data/97972744_05.xml"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2015-07-14T14:53:17+0200" endTimestamp="2015-07-14T14:53:17+0200" hostname="kyoto.vu.nl" name="ixa-pipe-tok-nl" version="1.8.0-56f83ce4b61680346f15e5d4e6de6293764f7383"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp beginTimestamp="2015-07-14T14:53:46CEST" endTimestamp="2015-07-14T14:53:46CEST" hostname="kyoto" name="SoNaR-News-trained-SRL" timestamp="2015-07-14T14:53:46CEST" version="1.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2015-07-14T14:53:22CEST" endTimestamp="2015-07-14T14:53:22CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T14:53:22CEST" version="0.1_05sept2014"/>
+      <lp beginTimestamp="2015-07-14T14:53:40CEST" endTimestamp="2015-07-14T14:53:40CEST" hostname="kyoto" name="VUA-DSC-WSD" timestamp="2015-07-14T14:53:40CEST" version="1.2#20jan2015"/>
+      <lp beginTimestamp="2015-07-14T14:53:45+0200" endTimestamp="2015-07-14T14:53:45+0200" hostname="kyoto.vu.nl" name="vua-predicate-matrix-tagger" timestamp="2015-07-14T14:53:45+0200" version="1.0"/>
+      <lp beginTimestamp="2015-07-14T14:53:54+0200" endTimestamp="2015-07-14T14:53:54+0200" hostname="kyoto.vu.nl" name="vua-framenet-srl-tagger" timestamp="2015-07-14T14:53:54+0200" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2015-07-14T14:53:53+0200" endTimestamp="2015-07-14T14:53:53+0200" hostname="kyoto.vu.nl" name="vua-event-coref-intradoc-wn-sim" timestamp="2015-07-14T14:53:53+0200" version="2.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2015-07-14T14:53:22CEST" endTimestamp="2015-07-14T14:53:22CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T14:53:22CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituents">
+      <lp beginTimestamp="2015-07-14T14:53:22CEST" endTimestamp="2015-07-14T14:53:22CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T14:53:22CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2015-07-14T14:53:29+0200" endTimestamp="2015-07-14T14:53:39+0200" hostname="kyoto.vu.nl" name="ixa-pipe-nerc-nl-clusters-conll02" version="1.3.6-9927fdb32d943f0aa9748a656958af99eeb1f5b7"/>
+      <lp beginTimestamp="2015-07-14T14:53:41+0200" endTimestamp="2015-07-14T14:53:42+0200" hostname="kyoto.vu.nl" name="ixa-pipe-ned-nl" version="1.1.1-d35d4df5cb71940bf642bb1a83e2b5b7584010df"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="timeExpressions">
+      <lp beginTimestamp="2015-07-14T14:53:23+0200" endTimestamp="2015-07-14T14:53:25+0200" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-2a2999bb6558401326bf88bda44e9a9c404492c6"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>Portret van Daniel de Superville le fils (1700-1762), predikant te Rotterdam. SPKK-g01051 (kopergravure), Protestantse portretten van Museum Catharijneconvent en Vrije Universiteit, Amsterdam</raw>
+  <text>
+    <wf id="w1" length="7" offset="0" para="1" sent="1">Portret</wf>
+    <wf id="w2" length="3" offset="8" para="1" sent="1">van</wf>
+    <wf id="w3" length="6" offset="12" para="1" sent="1">Daniel</wf>
+    <wf id="w4" length="2" offset="19" para="1" sent="1">de</wf>
+    <wf id="w5" length="10" offset="22" para="1" sent="1">Superville</wf>
+    <wf id="w6" length="2" offset="33" para="1" sent="1">le</wf>
+    <wf id="w7" length="4" offset="36" para="1" sent="1">fils</wf>
+    <wf id="w8" length="1" offset="41" para="1" sent="1">(</wf>
+    <wf id="w9" length="9" offset="42" para="1" sent="1">1700-1762</wf>
+    <wf id="w10" length="1" offset="51" para="1" sent="1">)</wf>
+    <wf id="w11" length="1" offset="52" para="1" sent="1">,</wf>
+    <wf id="w12" length="9" offset="54" para="1" sent="1">predikant</wf>
+    <wf id="w13" length="2" offset="64" para="1" sent="1">te</wf>
+    <wf id="w14" length="9" offset="67" para="1" sent="1">Rotterdam</wf>
+    <wf id="w15" length="1" offset="76" para="1" sent="1">.</wf>
+    <wf id="w16" length="11" offset="78" para="1" sent="2">SPKK-g01051</wf>
+    <wf id="w17" length="1" offset="90" para="1" sent="2">(</wf>
+    <wf id="w18" length="12" offset="91" para="1" sent="2">kopergravure</wf>
+    <wf id="w19" length="1" offset="103" para="1" sent="2">)</wf>
+    <wf id="w20" length="1" offset="104" para="1" sent="2">,</wf>
+    <wf id="w21" length="12" offset="106" para="1" sent="2">Protestantse</wf>
+    <wf id="w22" length="10" offset="119" para="1" sent="2">portretten</wf>
+    <wf id="w23" length="3" offset="130" para="1" sent="2">van</wf>
+    <wf id="w24" length="6" offset="134" para="1" sent="2">Museum</wf>
+    <wf id="w25" length="17" offset="141" para="1" sent="2">Catharijneconvent</wf>
+    <wf id="w26" length="2" offset="159" para="1" sent="2">en</wf>
+    <wf id="w27" length="5" offset="162" para="1" sent="2">Vrije</wf>
+    <wf id="w28" length="12" offset="168" para="1" sent="2">Universiteit</wf>
+    <wf id="w29" length="1" offset="180" para="1" sent="2">,</wf>
+    <wf id="w30" length="9" offset="182" para="1" sent="2">Amsterdam</wf>
+  </text>
+  <terms>
+    <term id="t_0" lemma="portret" morphofeat="N(soort,ev,basis,onz,stan)" pos="noun" type="open">
+      <span>
+        <!--Portret-->
+        <target id="w1"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.1974796" reference="d_n-222354" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00940384-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Communication" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Communication;Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:communication" resource="mcr"/>
+            <externalRef reference="mcr:express%2:32:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.89049" reference="r_n-29288" resource="Cornetto"/>
+        <externalRef reference="r_n-29289" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_1" lemma="van" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--van-->
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t_2" lemma="Daniel" morphofeat="N(eigen,ev,basis,zijd,stan)" pos="name" type="open">
+      <span>
+        <!--Daniel-->
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t_3" lemma="de" morphofeat="LID(bep,stan,rest)" pos="det" type="close">
+      <span>
+        <!--de-->
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t_4" lemma="Superville" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Superville-->
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t_5" lemma="le" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--le-->
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t_6" lemma="fils" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--fils-->
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t_7" lemma="(" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--(-->
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t_8" lemma="1700-1762" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--1700-1762-->
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t_9" lemma=")" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--)-->
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t_10" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t_11" lemma="predikant" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--predikant-->
+        <target id="w12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-29486" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_12" lemma="te" morphofeat="VZ(versm)" pos="prep" type="close">
+      <span>
+        <!--te-->
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t_13" lemma="Rotterdam" morphofeat="N(eigen,ev,basis,onz,stan)" pos="name" type="open">
+      <span>
+        <!--Rotterdam-->
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t_14" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t_15" lemma="SPKK-g01051" morphofeat="N(eigen,ev,basis,genus,stan)" pos="name" type="open">
+      <span>
+        <!--SPKK-g01051-->
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t_16" lemma="(" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--(-->
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t_17" lemma="koper_gravure" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--kopergravure-->
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t_18" lemma=")" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--)-->
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t_19" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t_20" lemma="Protestantse" morphofeat="ADJ(prenom,basis,met-e,stan)" pos="adj" type="open">
+      <span>
+        <!--Protestantse-->
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t_21" lemma="portret" morphofeat="N(soort,mv,basis)" pos="noun" type="open">
+      <span>
+        <!--portretten-->
+        <target id="w22"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.2925474" reference="d_n-222354" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00940384-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Communication" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Communication;Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:communication" resource="mcr"/>
+            <externalRef reference="mcr:express%2:32:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.831793" reference="r_n-29288" resource="Cornetto"/>
+        <externalRef reference="r_n-29289" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_22" lemma="van" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--van-->
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t_23" lemma="Museum" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Museum-->
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t_24" lemma="Catharijneconvent" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Catharijneconvent-->
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t_25" lemma="en" morphofeat="VG(neven)" pos="vg" type="close">
+      <span>
+        <!--en-->
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t_26" lemma="Vrije" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Vrije-->
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t_27" lemma="Universiteit" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Universiteit-->
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t_28" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t_29" lemma="Amsterdam" morphofeat="N(eigen,ev,basis,onz,stan)" pos="name" type="open">
+      <span>
+        <!--Amsterdam-->
+        <target id="w30"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <!--- - / - -((,))-->
+    <dep from="t_7" rfunc="-- / --" to="t_9"/>
+    <!--- - / - -((,,)-->
+    <dep from="t_7" rfunc="-- / --" to="t_10"/>
+    <!--- - / - -((,Portret)-->
+    <dep from="t_7" rfunc="-- / --" to="t_0"/>
+    <!--hd/mod(Portret,van)-->
+    <dep from="t_0" rfunc="hd/mod" to="t_1"/>
+    <!--hd/obj1(van,Daniel)-->
+    <dep from="t_1" rfunc="hd/obj1" to="t_2"/>
+    <!--dp/dp(Portret,Superville)-->
+    <dep from="t_0" rfunc="dp/dp" to="t_4"/>
+    <!--mwp/mwp(Superville,le)-->
+    <dep from="t_4" rfunc="mwp/mwp" to="t_5"/>
+    <!--mwp/mwp(Superville,fils)-->
+    <dep from="t_4" rfunc="mwp/mwp" to="t_6"/>
+    <!--hd/det(Superville,de)-->
+    <dep from="t_4" rfunc="hd/det" to="t_3"/>
+    <!--hd/mod(Superville,1700-1762)-->
+    <dep from="t_4" rfunc="hd/mod" to="t_8"/>
+    <!--dp/dp(Portret,predikant)-->
+    <dep from="t_0" rfunc="dp/dp" to="t_11"/>
+    <!--hd/mod(predikant,te)-->
+    <dep from="t_11" rfunc="hd/mod" to="t_12"/>
+    <!--hd/obj1(te,Rotterdam)-->
+    <dep from="t_12" rfunc="hd/obj1" to="t_13"/>
+    <!--- - / - -((,.)-->
+    <dep from="t_7" rfunc="-- / --" to="t_14"/>
+    <!--- - / - -((,))-->
+    <dep from="t_16" rfunc="-- / --" to="t_18"/>
+    <!--- - / - -((,,)-->
+    <dep from="t_16" rfunc="-- / --" to="t_19"/>
+    <!--- - / - -((,,)-->
+    <dep from="t_16" rfunc="-- / --" to="t_28"/>
+    <!--- - / - -((,SPKK-g01051)-->
+    <dep from="t_16" rfunc="-- / --" to="t_15"/>
+    <!--hd/mod(SPKK-g01051,kopergravure)-->
+    <dep from="t_15" rfunc="hd/mod" to="t_17"/>
+    <!--cnj/cnj(SPKK-g01051,portretten)-->
+    <dep from="t_15" rfunc="cnj/cnj" to="t_21"/>
+    <!--hd/mod(portretten,Protestantse)-->
+    <dep from="t_21" rfunc="hd/mod" to="t_20"/>
+    <!--hd/mod(portretten,van)-->
+    <dep from="t_21" rfunc="hd/mod" to="t_22"/>
+    <!--hd/obj1(van,en)-->
+    <dep from="t_22" rfunc="hd/obj1" to="t_25"/>
+    <!--crd/cnj(en,Museum)-->
+    <dep from="t_25" rfunc="crd/cnj" to="t_23"/>
+    <!--mwp/mwp(Museum,Catharijneconvent)-->
+    <dep from="t_23" rfunc="mwp/mwp" to="t_24"/>
+    <!--crd/cnj(en,Vrije)-->
+    <dep from="t_25" rfunc="crd/cnj" to="t_26"/>
+    <!--mwp/mwp(Vrije,Universiteit)-->
+    <dep from="t_26" rfunc="mwp/mwp" to="t_27"/>
+    <!--cnj/cnj(SPKK-g01051,Amsterdam)-->
+    <dep from="t_15" rfunc="cnj/cnj" to="t_29"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="PER">
+      <references>
+        <span>
+          <!--Daniel de Superville-->
+          <target id="t_2"/>
+          <target id="t_3"/>
+          <target id="t_4"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.999833" reference="http://nl.dbpedia.org/resource/Daniel_de_Superville_(1657-1728)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.999833" reference="http://dbpedia.org/resource/Daniel_de_Superville_(1657–1728)" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.6701237E-4" reference="http://nl.dbpedia.org/resource/Daniël_de_Superville_(1696-1773)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.6701237E-4" reference="http://dbpedia.org/resource/Daniel_de_Superville_(1696–1773)" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="LOC">
+      <references>
+        <span>
+          <!--Rotterdam-->
+          <target id="t_13"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.999992" reference="http://nl.dbpedia.org/resource/Rotterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.999992" reference="http://dbpedia.org/resource/Rotterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="6.573048E-6" reference="http://nl.dbpedia.org/resource/Rotterdam_(gemeente)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="6.573048E-6" reference="http://dbpedia.org/resource/Government_of_Rotterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="7.661931E-7" reference="http://nl.dbpedia.org/resource/Station_Rotterdam_Centraal" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="7.661931E-7" reference="http://dbpedia.org/resource/Rotterdam_Centraal_railway_station" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="3.5125836E-7" reference="http://nl.dbpedia.org/resource/Rotterdam_(V)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="3.5125836E-7" reference="http://dbpedia.org/resource/SS_Rotterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.1388285E-7" reference="http://nl.dbpedia.org/resource/Haven_van_Rotterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.1388285E-7" reference="http://dbpedia.org/resource/Port_of_Rotterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.0522649E-7" reference="http://nl.dbpedia.org/resource/Stadsregio_Rotterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.0522649E-7" reference="http://dbpedia.org/resource/Rijnmond" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="5.2325632E-8" reference="http://nl.dbpedia.org/resource/Rotterdam_(New_York)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="5.2325632E-8" reference="http://dbpedia.org/resource/Rotterdam_(town),_New_York" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.002624E-8" reference="http://nl.dbpedia.org/resource/HC_Rotterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="4.002624E-8" reference="http://dbpedia.org/resource/HC_Rotterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="MISC">
+      <references>
+        <span>
+          <!--Protestantse-->
+          <target id="t_20"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.99937296" reference="http://nl.dbpedia.org/resource/Protestantisme" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.99937296" reference="http://dbpedia.org/resource/Protestantism" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="6.270546E-4" reference="http://nl.dbpedia.org/resource/Protestantse_Kerk_in_Nederland" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="6.270546E-4" reference="http://dbpedia.org/resource/Protestant_Church_in_the_Netherlands" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="LOC">
+      <references>
+        <span>
+          <!--Museum Catharijneconvent-->
+          <target id="t_23"/>
+          <target id="t_24"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="1.0" reference="http://nl.dbpedia.org/resource/Museum_Catharijneconvent" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.0" reference="http://dbpedia.org/resource/Museum_Catharijneconvent" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="ORG">
+      <references>
+        <span>
+          <!--Vrije Universiteit-->
+          <target id="t_26"/>
+          <target id="t_27"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.9999781" reference="http://nl.dbpedia.org/resource/Vrije_Universiteit_Amsterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.9999781" reference="http://dbpedia.org/resource/VU_University_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.8441277E-5" reference="http://nl.dbpedia.org/resource/Vrije_Universiteit_Brussel" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.8441277E-5" reference="http://dbpedia.org/resource/Vrije_Universiteit_Brussel" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="3.4200896E-6" reference="http://nl.dbpedia.org/resource/Vrije_Universiteit_Berlijn" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="3.4200896E-6" reference="http://dbpedia.org/resource/Free_University_of_Berlin" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="LOC">
+      <references>
+        <span>
+          <!--Amsterdam-->
+          <target id="t_29"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.9999982" reference="http://nl.dbpedia.org/resource/Amsterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.9999982" reference="http://dbpedia.org/resource/Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="7.9609845E-7" reference="http://nl.dbpedia.org/resource/Universiteit_van_Amsterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="7.9609845E-7" reference="http://dbpedia.org/resource/University_of_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.88463E-7" reference="http://nl.dbpedia.org/resource/Amsterdam_(gemeente)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="4.88463E-7" reference="http://dbpedia.org/resource/Government_of_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.8335147E-7" reference="http://nl.dbpedia.org/resource/Station_Amsterdam_Centraal" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="4.8335147E-7" reference="http://dbpedia.org/resource/Amsterdam_Centraal_railway_station" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.2463735E-8" reference="http://nl.dbpedia.org/resource/Amsterdamse_tram" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.2463735E-8" reference="http://dbpedia.org/resource/Trams_in_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="7.290718E-9" reference="http://nl.dbpedia.org/resource/Amsterdam_(schip)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="7.290718E-9" reference="http://dbpedia.org/resource/Amsterdam_(VOC_ship)" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.023938E-9" reference="http://nl.dbpedia.org/resource/Amsterdamsche_Hockey_&amp;_Bandy_Club" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="4.023938E-9" reference="http://dbpedia.org/resource/Amsterdamsche_Hockey_&amp;_Bandy_Club" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="7.274274E-10" reference="http://nl.dbpedia.org/resource/Straatprostitutie_in_Amsterdam" reftype="nl" resource="spotlight_v1"/>
+        <externalRef confidence="9.940132E-11" reference="http://nl.dbpedia.org/resource/ABC_Amsterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="9.940132E-11" reference="http://dbpedia.org/resource/ABC_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="7.6785224E-11" reference="http://nl.dbpedia.org/resource/Geschiedenis_van_de_prostitutie_in_Amsterdam" reftype="nl" resource="spotlight_v1"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <constituency>
+    <tree>
+      <t id="ter0">
+        <!--(-->
+        <span>
+          <target id="t_7"/>
+        </span>
+      </t>
+      <t id="ter1">
+        <!--)-->
+        <span>
+          <target id="t_9"/>
+        </span>
+      </t>
+      <t id="ter2">
+        <!--,-->
+        <span>
+          <target id="t_10"/>
+        </span>
+      </t>
+      <t id="ter3">
+        <!--Portret-->
+        <span>
+          <target id="t_0"/>
+        </span>
+      </t>
+      <t id="ter4">
+        <!--van-->
+        <span>
+          <target id="t_1"/>
+        </span>
+      </t>
+      <t id="ter5">
+        <!--Daniel-->
+        <span>
+          <target id="t_2"/>
+        </span>
+      </t>
+      <t id="ter6">
+        <!--de-->
+        <span>
+          <target id="t_3"/>
+        </span>
+      </t>
+      <t id="ter7">
+        <!--Superville-->
+        <span>
+          <target id="t_4"/>
+        </span>
+      </t>
+      <t id="ter8">
+        <!--le-->
+        <span>
+          <target id="t_5"/>
+        </span>
+      </t>
+      <t id="ter9">
+        <!--fils-->
+        <span>
+          <target id="t_6"/>
+        </span>
+      </t>
+      <t id="ter10">
+        <!--1700-1762-->
+        <span>
+          <target id="t_8"/>
+        </span>
+      </t>
+      <t id="ter11">
+        <!--predikant-->
+        <span>
+          <target id="t_11"/>
+        </span>
+      </t>
+      <t id="ter12">
+        <!--te-->
+        <span>
+          <target id="t_12"/>
+        </span>
+      </t>
+      <t id="ter13">
+        <!--Rotterdam-->
+        <span>
+          <target id="t_13"/>
+        </span>
+      </t>
+      <t id="ter14">
+        <!--.-->
+        <span>
+          <target id="t_14"/>
+        </span>
+      </t>
+      <nt id="nter0" label="top"/>
+      <nt id="nter1" label="punct"/>
+      <nt id="nter2" label="punct"/>
+      <nt id="nter3" label="punct"/>
+      <nt id="nter4" label="du"/>
+      <nt id="nter5" label="du"/>
+      <nt id="nter6" label="np"/>
+      <nt id="nter7" label="noun"/>
+      <nt id="nter8" label="pp"/>
+      <nt id="nter9" label="prep"/>
+      <nt id="nter10" label="name"/>
+      <nt id="nter11" label="np"/>
+      <nt id="nter12" label="det"/>
+      <nt id="nter13" label="mwu"/>
+      <nt id="nter14" label="name"/>
+      <nt id="nter15" label="name"/>
+      <nt id="nter16" label="name"/>
+      <nt id="nter17" label="noun"/>
+      <nt id="nter18" label="np"/>
+      <nt id="nter19" label="noun"/>
+      <nt id="nter20" label="pp"/>
+      <nt id="nter21" label="prep"/>
+      <nt id="nter22" label="name"/>
+      <nt id="nter23" label="punct"/>
+      <edge from="nter1" id="tre0" to="nter0"/>
+      <edge from="ter0" id="tre1" to="nter1"/>
+      <edge from="nter2" id="tre2" to="nter0"/>
+      <edge from="ter1" id="tre3" to="nter2"/>
+      <edge from="nter3" id="tre4" to="nter0"/>
+      <edge from="ter2" id="tre5" to="nter3"/>
+      <edge from="nter4" id="tre6" to="nter0"/>
+      <edge from="nter5" id="tre7" to="nter4"/>
+      <edge from="nter6" id="tre8" to="nter5"/>
+      <edge from="nter7" head="yes" id="tre9" to="nter6"/>
+      <edge from="ter3" id="tre10" to="nter7"/>
+      <edge from="nter8" id="tre11" to="nter6"/>
+      <edge from="nter9" head="yes" id="tre12" to="nter8"/>
+      <edge from="ter4" id="tre13" to="nter9"/>
+      <edge from="nter10" id="tre14" to="nter8"/>
+      <edge from="ter5" id="tre15" to="nter10"/>
+      <edge from="nter11" id="tre16" to="nter5"/>
+      <edge from="nter12" id="tre17" to="nter11"/>
+      <edge from="ter6" id="tre18" to="nter12"/>
+      <edge from="nter13" id="tre19" to="nter11"/>
+      <edge from="nter14" id="tre20" to="nter13"/>
+      <edge from="ter7" id="tre21" to="nter14"/>
+      <edge from="nter15" id="tre22" to="nter13"/>
+      <edge from="ter8" id="tre23" to="nter15"/>
+      <edge from="nter16" id="tre24" to="nter13"/>
+      <edge from="ter9" id="tre25" to="nter16"/>
+      <edge from="nter17" id="tre26" to="nter11"/>
+      <edge from="ter10" id="tre27" to="nter17"/>
+      <edge from="nter18" id="tre28" to="nter4"/>
+      <edge from="nter19" head="yes" id="tre29" to="nter18"/>
+      <edge from="ter11" id="tre30" to="nter19"/>
+      <edge from="nter20" id="tre31" to="nter18"/>
+      <edge from="nter21" head="yes" id="tre32" to="nter20"/>
+      <edge from="ter12" id="tre33" to="nter21"/>
+      <edge from="nter22" id="tre34" to="nter20"/>
+      <edge from="ter13" id="tre35" to="nter22"/>
+      <edge from="nter23" id="tre36" to="nter0"/>
+      <edge from="ter14" id="tre37" to="nter23"/>
+    </tree>
+    <tree>
+      <t id="ter15">
+        <!--(-->
+        <span>
+          <target id="t_16"/>
+        </span>
+      </t>
+      <t id="ter16">
+        <!--)-->
+        <span>
+          <target id="t_18"/>
+        </span>
+      </t>
+      <t id="ter17">
+        <!--,-->
+        <span>
+          <target id="t_19"/>
+        </span>
+      </t>
+      <t id="ter18">
+        <!--,-->
+        <span>
+          <target id="t_28"/>
+        </span>
+      </t>
+      <t id="ter19">
+        <!--SPKK-g01051-->
+        <span>
+          <target id="t_15"/>
+        </span>
+      </t>
+      <t id="ter20">
+        <!--kopergravure-->
+        <span>
+          <target id="t_17"/>
+        </span>
+      </t>
+      <t id="ter21">
+        <!--Protestantse-->
+        <span>
+          <target id="t_20"/>
+        </span>
+      </t>
+      <t id="ter22">
+        <!--portretten-->
+        <span>
+          <target id="t_21"/>
+        </span>
+      </t>
+      <t id="ter23">
+        <!--van-->
+        <span>
+          <target id="t_22"/>
+        </span>
+      </t>
+      <t id="ter24">
+        <!--Museum-->
+        <span>
+          <target id="t_23"/>
+        </span>
+      </t>
+      <t id="ter25">
+        <!--Catharijneconvent-->
+        <span>
+          <target id="t_24"/>
+        </span>
+      </t>
+      <t id="ter26">
+        <!--en-->
+        <span>
+          <target id="t_25"/>
+        </span>
+      </t>
+      <t id="ter27">
+        <!--Vrije-->
+        <span>
+          <target id="t_26"/>
+        </span>
+      </t>
+      <t id="ter28">
+        <!--Universiteit-->
+        <span>
+          <target id="t_27"/>
+        </span>
+      </t>
+      <t id="ter29">
+        <!--Amsterdam-->
+        <span>
+          <target id="t_29"/>
+        </span>
+      </t>
+      <nt id="nter24" label="top"/>
+      <nt id="nter25" label="punct"/>
+      <nt id="nter26" label="punct"/>
+      <nt id="nter27" label="punct"/>
+      <nt id="nter28" label="punct"/>
+      <nt id="nter29" label="conj"/>
+      <nt id="nter30" label="np"/>
+      <nt id="nter31" label="name"/>
+      <nt id="nter32" label="noun"/>
+      <nt id="nter33" label="np"/>
+      <nt id="nter34" label="adj"/>
+      <nt id="nter35" label="noun"/>
+      <nt id="nter36" label="pp"/>
+      <nt id="nter37" label="prep"/>
+      <nt id="nter38" label="conj"/>
+      <nt id="nter39" label="mwu"/>
+      <nt id="nter40" label="name"/>
+      <nt id="nter41" label="name"/>
+      <nt id="nter42" label="vg"/>
+      <nt id="nter43" label="mwu"/>
+      <nt id="nter44" label="name"/>
+      <nt id="nter45" label="name"/>
+      <nt id="nter46" label="name"/>
+      <edge from="nter25" id="tre38" to="nter24"/>
+      <edge from="ter15" id="tre39" to="nter25"/>
+      <edge from="nter26" id="tre40" to="nter24"/>
+      <edge from="ter16" id="tre41" to="nter26"/>
+      <edge from="nter27" id="tre42" to="nter24"/>
+      <edge from="ter17" id="tre43" to="nter27"/>
+      <edge from="nter28" id="tre44" to="nter24"/>
+      <edge from="ter18" id="tre45" to="nter28"/>
+      <edge from="nter29" id="tre46" to="nter24"/>
+      <edge from="nter30" id="tre47" to="nter29"/>
+      <edge from="nter31" head="yes" id="tre48" to="nter30"/>
+      <edge from="ter19" id="tre49" to="nter31"/>
+      <edge from="nter32" id="tre50" to="nter30"/>
+      <edge from="ter20" id="tre51" to="nter32"/>
+      <edge from="nter33" id="tre52" to="nter29"/>
+      <edge from="nter34" id="tre53" to="nter33"/>
+      <edge from="ter21" id="tre54" to="nter34"/>
+      <edge from="nter35" head="yes" id="tre55" to="nter33"/>
+      <edge from="ter22" id="tre56" to="nter35"/>
+      <edge from="nter36" id="tre57" to="nter33"/>
+      <edge from="nter37" head="yes" id="tre58" to="nter36"/>
+      <edge from="ter23" id="tre59" to="nter37"/>
+      <edge from="nter38" id="tre60" to="nter36"/>
+      <edge from="nter39" id="tre61" to="nter38"/>
+      <edge from="nter40" id="tre62" to="nter39"/>
+      <edge from="ter24" id="tre63" to="nter40"/>
+      <edge from="nter41" id="tre64" to="nter39"/>
+      <edge from="ter25" id="tre65" to="nter41"/>
+      <edge from="nter42" id="tre66" to="nter38"/>
+      <edge from="ter26" id="tre67" to="nter42"/>
+      <edge from="nter43" id="tre68" to="nter38"/>
+      <edge from="nter44" id="tre69" to="nter43"/>
+      <edge from="ter27" id="tre70" to="nter44"/>
+      <edge from="nter45" id="tre71" to="nter43"/>
+      <edge from="ter28" id="tre72" to="nter45"/>
+      <edge from="nter46" id="tre73" to="nter29"/>
+      <edge from="ter29" id="tre74" to="nter46"/>
+    </tree>
+  </constituency>
+  <timeExpressions>
+    <timex3 id="tx1" type="DATE" value="1700">
+      <!--1700-1762-->
+      <span>
+        <target id="w9"/>
+      </span>
+    </timex3>
+    <timex3 id="tx2" type="DATE" value="1762">
+      <!--1700-1762-->
+      <span>
+        <target id="w9"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+</NAF>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NAF xml:lang="nl" version="v3">
+  <nafHeader>
+    <fileDesc creationtime="T00:00:00Z" filename="98966268_02.xml" />
+    <public publicId="98966268_02" uri="biographynet/data/98966268_02.xml" />
+    <linguisticProcessors layer="srl">
+      <lp name="SoNaR-News-trained-SRL" timestamp="2015-08-10T18:55:00CEST" beginTimestamp="2015-08-10T18:55:00CEST" endTimestamp="2015-08-10T18:55:00CEST" version="1.1" hostname="kyoto" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp name="ixa-pipe-tok-nl" beginTimestamp="2015-08-10T18:54:33+0200" endTimestamp="2015-08-10T18:54:33+0200" version="1.8.0-56f83ce4b61680346f15e5d4e6de6293764f7383" hostname="kyoto.vu.nl" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp name="vua-event-coref-intradoc-wn-sim" timestamp="2015-08-10T18:55:07+0200" beginTimestamp="2015-08-10T18:55:07+0200" endTimestamp="2015-08-10T18:55:08+0200" version="2.1" hostname="kyoto.vu.nl" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="Morphosyntactic parser based on Alpino" timestamp="2015-08-10T18:54:38CEST" beginTimestamp="2015-08-10T18:54:38CEST" endTimestamp="2015-08-10T18:54:38CEST" version="0.1_05sept2014" hostname="kyoto" />
+      <lp name="VUA-DSC-WSD" timestamp="2015-08-10T18:54:53CEST" beginTimestamp="2015-08-10T18:54:53CEST" endTimestamp="2015-08-10T18:54:53CEST" version="1.2#20jan2015" hostname="kyoto" />
+      <lp name="vua-predicate-matrix-tagger" timestamp="2015-08-10T18:54:59+0200" beginTimestamp="2015-08-10T18:54:59+0200" endTimestamp="2015-08-10T18:54:59+0200" version="1.0" hostname="kyoto.vu.nl" />
+      <lp name="vua-framenet-srl-tagger" timestamp="2015-08-10T18:55:09+0200" beginTimestamp="2015-08-10T18:55:09+0200" endTimestamp="2015-08-10T18:55:09+0200" version="1.0" hostname="kyoto.vu.nl" />
+      <lp name="vua-compound-frametagger" timestamp="2015-08-10T18:55:10+0200" beginTimestamp="2015-08-10T18:55:10+0200" endTimestamp="2015-08-10T18:55:10+0200" version="1.0" hostname="kyoto.vu.nl" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituents">
+      <lp name="Morphosyntactic parser based on Alpino" timestamp="2015-08-10T18:54:38CEST" beginTimestamp="2015-08-10T18:54:38CEST" endTimestamp="2015-08-10T18:54:38CEST" version="0.1_05sept2014" hostname="kyoto" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp name="Morphosyntactic parser based on Alpino" timestamp="2015-08-10T18:54:38CEST" beginTimestamp="2015-08-10T18:54:38CEST" endTimestamp="2015-08-10T18:54:38CEST" version="0.1_05sept2014" hostname="kyoto" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp name="ixa-pipe-nerc-nl-clusters-conll02" beginTimestamp="2015-08-10T18:54:39+0200" endTimestamp="2015-08-10T18:54:52+0200" version="1.5.2-5cacac28fcaa6e91d5f2a4cc9b486b24ac163641" hostname="kyoto.vu.nl" />
+      <lp name="ixa-pipe-ned-nl" beginTimestamp="2015-08-10T18:54:54+0200" endTimestamp="2015-08-10T18:54:55+0200" version="1.1.1-d35d4df5cb71940bf642bb1a83e2b5b7584010df" hostname="kyoto.vu.nl" />
+      <lp name="dbpedia_spotlight_cltl" timestamp="2015-08-10T18:55:09CEST" beginTimestamp="2015-08-10T18:55:09CEST" endTimestamp="2015-08-10T18:55:09CEST" version="0.4" hostname="kyoto" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl-extra">
+      <lp name="vua-srl-dutch-additional-roles-for-nominal-predicates" timestamp="2015-08-10T18:55:11CEST" beginTimestamp="2015-08-10T18:55:11CEST" endTimestamp="2015-08-10T18:55:11CEST" version="1.0" hostname="kyoto" />
+    </linguisticProcessors>
+    <linguisticProcessors layer="timeExpressions">
+      <lp name="ixa-pipe-heideltime-nl" beginTimestamp="2015-08-10T19:32:18+0200" endTimestamp="2015-08-10T19:32:21+0200" version="1.0.1-da4604a7b33975e977017440cbc10f7d59917ddf" hostname="kyoto.vu.nl" />
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[SWALUE (SCHWALBE), OTTO, * Rheine (Westf.) 1546, t Leeuwarden 9 apr. 1613. 
+S. was jurist en kwam ca. 1575 naar Fries-]]></raw>
+  <text>
+    <wf id="w1" sent="1" para="1" offset="0" length="6">SWALUE</wf>
+    <wf id="w2" sent="1" para="1" offset="7" length="1">(</wf>
+    <wf id="w3" sent="1" para="1" offset="8" length="8">SCHWALBE</wf>
+    <wf id="w4" sent="1" para="1" offset="16" length="1">)</wf>
+    <wf id="w5" sent="1" para="1" offset="17" length="1">,</wf>
+    <wf id="w6" sent="1" para="1" offset="19" length="4">OTTO</wf>
+    <wf id="w7" sent="1" para="1" offset="23" length="1">,</wf>
+    <wf id="w8" sent="1" para="1" offset="25" length="1">*</wf>
+    <wf id="w9" sent="1" para="1" offset="27" length="6">Rheine</wf>
+    <wf id="w10" sent="1" para="1" offset="34" length="1">(</wf>
+    <wf id="w11" sent="1" para="1" offset="35" length="6">Westf.</wf>
+    <wf id="w12" sent="1" para="1" offset="41" length="1">)</wf>
+    <wf id="w13" sent="1" para="1" offset="43" length="4">1546</wf>
+    <wf id="w14" sent="1" para="1" offset="47" length="1">,</wf>
+    <wf id="w15" sent="1" para="1" offset="49" length="1">t</wf>
+    <wf id="w16" sent="1" para="1" offset="51" length="10">Leeuwarden</wf>
+    <wf id="w17" sent="1" para="1" offset="62" length="1">9</wf>
+    <wf id="w18" sent="1" para="1" offset="64" length="3">apr</wf>
+    <wf id="w19" sent="1" para="1" offset="67" length="1">.</wf>
+    <wf id="w20" sent="1" para="1" offset="69" length="4">1613</wf>
+    <wf id="w21" sent="1" para="1" offset="73" length="1">.</wf>
+    <wf id="w22" sent="2" para="1" offset="76" length="2">S.</wf>
+    <wf id="w23" sent="2" para="1" offset="79" length="3">was</wf>
+    <wf id="w24" sent="2" para="1" offset="83" length="6">jurist</wf>
+    <wf id="w25" sent="2" para="1" offset="90" length="2">en</wf>
+    <wf id="w26" sent="2" para="1" offset="93" length="4">kwam</wf>
+    <wf id="w27" sent="2" para="1" offset="98" length="3">ca.</wf>
+    <wf id="w28" sent="2" para="1" offset="102" length="4">1575</wf>
+    <wf id="w29" sent="2" para="1" offset="107" length="4">naar</wf>
+    <wf id="w30" sent="2" para="1" offset="112" length="6">Fries-</wf>
+  </text>
+  <terms>
+    <!--SWALUE-->
+    <term id="t_0" type="open" lemma="swalue" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w1" />
+      </span>
+    </term>
+    <!--(-->
+    <term id="t_1" type="open" lemma="(" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w2" />
+      </span>
+    </term>
+    <!--SCHWALBE-->
+    <term id="t_2" type="open" lemma="schwalbe" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w3" />
+      </span>
+    </term>
+    <!--)-->
+    <term id="t_3" type="open" lemma=")" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w4" />
+      </span>
+    </term>
+    <!--,-->
+    <term id="t_4" type="open" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w5" />
+      </span>
+    </term>
+    <!--OTTO-->
+    <term id="t_5" type="open" lemma="Otto" pos="name" morphofeat="N(eigen,ev,basis,zijd,stan)">
+      <span>
+        <target id="w6" />
+      </span>
+    </term>
+    <!--,-->
+    <term id="t_6" type="open" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w7" />
+      </span>
+    </term>
+    <!--*-->
+    <term id="t_7" type="open" lemma="*" pos="tag" morphofeat="LET()">
+      <span>
+        <target id="w8" />
+      </span>
+    </term>
+    <!--Rheine-->
+    <term id="t_8" type="open" lemma="Rheine" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w9" />
+      </span>
+    </term>
+    <!--(-->
+    <term id="t_9" type="open" lemma="(" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w10" />
+      </span>
+    </term>
+    <!--Westf.-->
+    <term id="t_10" type="open" lemma="Westf." pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w11" />
+      </span>
+    </term>
+    <!--)-->
+    <term id="t_11" type="open" lemma=")" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w12" />
+      </span>
+    </term>
+    <!--1546-->
+    <term id="t_12" type="open" lemma="1546" pos="num" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w13" />
+      </span>
+    </term>
+    <!--,-->
+    <term id="t_13" type="open" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w14" />
+      </span>
+    </term>
+    <!--t-->
+    <term id="t_14" type="open" lemma="t" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w15" />
+      </span>
+      <externalReferences>
+        <externalRef resource="Cornetto" reference="r_n-36712" />
+      </externalReferences>
+    </term>
+    <!--Leeuwarden-->
+    <term id="t_15" type="open" lemma="Leeuwarden" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w16" />
+      </span>
+    </term>
+    <!--9-->
+    <term id="t_16" type="open" lemma="9" pos="noun" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w17" />
+      </span>
+    </term>
+    <!--apr-->
+    <term id="t_17" type="open" lemma="apr" pos="noun" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w18" />
+      </span>
+    </term>
+    <!--.-->
+    <term id="t_18" type="open" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w19" />
+      </span>
+    </term>
+    <!--1613-->
+    <term id="t_19" type="open" lemma="1613" pos="num" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w20" />
+      </span>
+    </term>
+    <!--.-->
+    <term id="t_20" type="open" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w21" />
+      </span>
+    </term>
+    <!--S.-->
+    <term id="t_21" type="open" lemma="S." pos="name" morphofeat="N(eigen,ev,basis,zijd,stan)">
+      <span>
+        <target id="w22" />
+      </span>
+    </term>
+    <!--was-->
+    <term id="t_22" type="open" lemma="zijn" pos="verb" morphofeat="WW(pv,verl,ev)">
+      <span>
+        <target id="w23" />
+      </span>
+      <externalReferences>
+        <externalRef resource="Cornetto" reference="r_v-10270" confidence="0.038725566" />
+        <externalRef resource="Cornetto" reference="r_v-10271" confidence="0.029489286" />
+        <externalRef resource="Cornetto" reference="r_v-10263" confidence="0.0114959385" />
+        <externalRef resource="Cornetto" reference="r_v-10267" confidence="0.014418758" />
+        <externalRef resource="Cornetto" reference="r_v-10264" confidence="0.005091141" />
+        <externalRef resource="Cornetto" reference="r_v-10265" confidence="0.0073470618" />
+        <externalRef resource="Cornetto" reference="r_v-10266" confidence="0.006036935" />
+        <externalRef resource="Cornetto" reference="r_v-10268" confidence="0.08539141" />
+        <externalRef resource="Cornetto" reference="r_v-10269" confidence="0.05086098" />
+        <externalRef resource="" reference="grammatical" />
+      </externalReferences>
+    </term>
+    <!--jurist-->
+    <term id="t_23" type="open" lemma="jurist" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w24" />
+      </span>
+      <externalReferences>
+        <externalRef resource="Cornetto" reference="r_n-18653" />
+      </externalReferences>
+    </term>
+    <!--en-->
+    <term id="t_24" type="close" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w25" />
+      </span>
+    </term>
+    <!--kwam-->
+    <term id="t_25" type="open" lemma="komen" pos="verb" morphofeat="WW(pv,verl,ev)">
+      <span>
+        <target id="w26" />
+      </span>
+      <externalReferences>
+        <externalRef resource="Cornetto" reference="r_v-4068" confidence="0.0075904545" />
+        <externalRef resource="Cornetto" reference="r_v-4069" confidence="0.0030775932" />
+        <externalRef resource="Cornetto" reference="r_v-4066" confidence="0.043004356" />
+        <externalRef resource="Cornetto" reference="r_v-4067" confidence="0.0070781796" />
+        <externalRef resource="Cornetto" reference="r_v-4070" confidence="0.012543922" />
+        <externalRef resource="Cornetto" reference="c_545796" confidence="4.0124005E-6" />
+        <externalRef resource="Cornetto" reference="c_545794" confidence="0.008914552" />
+        <externalRef resource="Cornetto" reference="c_545795" confidence="0.005761446" />
+        <externalRef resource="Cornetto" reference="c_545809" confidence="0.009096821" />
+        <externalRef resource="Cornetto" reference="c_545810" confidence="4.1950157E-6" />
+        <externalRef resource="Cornetto" reference="d_v-517950" />
+        <externalRef resource="Cornetto" reference="c_545797" />
+        <externalRef resource="" reference="grammatical" />
+      </externalReferences>
+    </term>
+    <!--ca.-->
+    <term id="t_26" type="open" lemma="circa" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w27" />
+      </span>
+    </term>
+    <!--1575-->
+    <term id="t_27" type="open" lemma="1575" pos="noun" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w28" />
+      </span>
+    </term>
+    <!--naar-->
+    <term id="t_28" type="close" lemma="naar" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w29" />
+      </span>
+    </term>
+    <!--Fries - .-->
+    <term id="t_29" type="open" lemma="Fries-" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w30" />
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <!--- / -((, ))-->
+    <dep from="t_1" to="t_3" rfunc="-- / --" />
+    <!--- / -((, ,)-->
+    <dep from="t_1" to="t_4" rfunc="-- / --" />
+    <!--- / -((, ,)-->
+    <dep from="t_1" to="t_6" rfunc="-- / --" />
+    <!--- / -((, *)-->
+    <dep from="t_1" to="t_7" rfunc="-- / --" />
+    <!--- / -((, ()-->
+    <dep from="t_1" to="t_9" rfunc="-- / --" />
+    <!--- / -((, ))-->
+    <dep from="t_1" to="t_11" rfunc="-- / --" />
+    <!--- / -((, ,)-->
+    <dep from="t_1" to="t_13" rfunc="-- / --" />
+    <!--- / -((, .)-->
+    <dep from="t_1" to="t_18" rfunc="-- / --" />
+    <!--- / -((, SWALUE)-->
+    <dep from="t_1" to="t_0" rfunc="-- / --" />
+    <!--hd/mod(SWALUE, SCHWALBE)-->
+    <dep from="t_0" to="t_2" rfunc="hd/mod" />
+    <!--cnj/cnj(SWALUE, OTTO)-->
+    <dep from="t_0" to="t_5" rfunc="cnj/cnj" />
+    <!--cnj/cnj(SWALUE, Rheine)-->
+    <dep from="t_0" to="t_8" rfunc="cnj/cnj" />
+    <!--hd/mod(Rheine, Westf.)-->
+    <dep from="t_8" to="t_10" rfunc="hd/mod" />
+    <!--hd/app(Rheine, 1546)-->
+    <dep from="t_8" to="t_12" rfunc="hd/app" />
+    <!--cnj/cnj(SWALUE, t)-->
+    <dep from="t_0" to="t_14" rfunc="cnj/cnj" />
+    <!--hd/app(t, Leeuwarden)-->
+    <dep from="t_14" to="t_15" rfunc="hd/app" />
+    <!--hd/mod(t, 9)-->
+    <dep from="t_14" to="t_16" rfunc="hd/mod" />
+    <!--mwp/mwp(9, apr)-->
+    <dep from="t_16" to="t_17" rfunc="mwp/mwp" />
+    <!--dp/dp(SWALUE, 1613)-->
+    <dep from="t_0" to="t_19" rfunc="dp/dp" />
+    <!--- / -((, .)-->
+    <dep from="t_1" to="t_20" rfunc="-- / --" />
+    <!--crd/cnj(en, was)-->
+    <dep from="t_24" to="t_22" rfunc="crd/cnj" />
+    <!--hd/su(was, S.)-->
+    <dep from="t_22" to="t_21" rfunc="hd/su" />
+    <!--hd/predc(was, jurist)-->
+    <dep from="t_22" to="t_23" rfunc="hd/predc" />
+    <!--crd/cnj(en, kwam)-->
+    <dep from="t_24" to="t_25" rfunc="crd/cnj" />
+    <!--hd/su(kwam, S.)-->
+    <dep from="t_25" to="t_21" rfunc="hd/su" />
+    <!--dp/dp(en, 1575)-->
+    <dep from="t_24" to="t_27" rfunc="dp/dp" />
+    <!--hd/mod(1575, ca.)-->
+    <dep from="t_27" to="t_26" rfunc="hd/mod" />
+    <!--hd/mod(1575, naar)-->
+    <dep from="t_27" to="t_28" rfunc="hd/mod" />
+    <!--hd/obj1(naar, Fries - )-->
+    <dep from="t_28" to="t_29" rfunc="hd/obj1" />
+  </deps>
+  <entities>
+    <entity id="e1" type="PER">
+      <references>
+        <!--SWALUE-->
+        <span>
+          <target id="t_0" />
+        </span>
+      </references>
+    </entity>
+    <entity id="e2" type="LOC">
+      <references>
+        <!--SCHWALBE-->
+        <span>
+          <target id="t_2" />
+        </span>
+      </references>
+    </entity>
+    <entity id="e3" type="PER">
+      <references>
+        <!--OTTO-->
+        <span>
+          <target id="t_5" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Keizer_Otto_II" confidence="0.68552387" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Otto_II,_Holy_Roman_Emperor" confidence="0.68552387" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Keizer_Otto_I_de_Grote" confidence="0.25766912" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Otto_I,_Holy_Roman_Emperor" confidence="0.25766912" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Otto_van_BourgondiÃÂ«" confidence="0.015621159" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Otto,_Duke_of_Burgundy" confidence="0.015621159" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Otto_I_van_Griekenland" confidence="0.010178078" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Otto,_King_of_Greece" confidence="0.010178078" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Otto_I_van_Nassau" confidence="0.009371751" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Otto_I,_Count_of_Nassau" confidence="0.009371751" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Otto_Frank" confidence="0.0075719496" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Otto_Frank" confidence="0.0075719496" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Keizer_Otto_IV" confidence="0.0068330523" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Otto_IV,_Holy_Roman_Emperor" confidence="0.0068330523" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Otto_I_van_Palts-Mosbach" confidence="0.0033682645" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Otto_I,_Count_Palatine_of_Mosbach" confidence="0.0033682645" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Otto_I_van_Brandenburg" confidence="0.0020315878" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Otto_I,_Margrave_of_Brandenburg" confidence="0.0020315878" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Otto_V_van_Beieren" confidence="0.0018011857" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Otto_V,_Duke_of_Bavaria" confidence="0.0018011857" reftype="en" />
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="LOC">
+      <references>
+        <!--Rheine-->
+        <span>
+          <target id="t_8" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Rheine" confidence="0.9999989" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Rheine" confidence="0.9999989" reftype="en" />
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="LOC">
+      <references>
+        <!--Westf.-->
+        <span>
+          <target id="t_10" />
+        </span>
+      </references>
+    </entity>
+    <entity id="e6" type="LOC">
+      <references>
+        <!--Leeuwarden-->
+        <span>
+          <target id="t_15" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Leeuwarden_(stad)" confidence="0.9993681" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Leeuwarden" confidence="0.9993681" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Leeuwarden_(gemeente)" confidence="6.183711E-4" reftype="nl" />
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Station_Leeuwarden" confidence="1.23728205E-5" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Leeuwarden_railway_station" confidence="1.23728205E-5" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Gerechtshof_Leeuwarden" confidence="4.178214E-7" reftype="nl" />
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Stadsfries" confidence="3.6178443E-7" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Stadsfries_dialects" confidence="3.6178443E-7" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Paleis_van_Justitie_(Leeuwarden)" confidence="2.924448E-7" reftype="nl" />
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Rechtbank_Leeuwarden" confidence="9.56829E-8" reftype="nl" />
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/VV_Leeuwarden" confidence="2.02797E-8" reftype="nl" />
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Aris_Leeuwarden" confidence="1.1815404E-8" reftype="nl">
+          <externalRef resource="wikipedia-db-nlEn" reference="http://dbpedia.org/resource/Aris_Leeuwarden" confidence="1.1815404E-8" reftype="en" />
+        </externalRef>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/Bisdom_Leeuwarden" confidence="7.5839885E-9" reftype="nl" />
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="PER">
+      <references>
+        <!--S.-->
+        <span>
+          <target id="t_21" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_v1" reference="http://nl.dbpedia.org/resource/S._(film)" confidence="0.99033266" reftype="nl" />
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="MISC">
+      <references>
+        <!--Fries - .-->
+        <span>
+          <target id="t_29" />
+        </span>
+      </references>
+    </entity>
+    <entity id="e9" type="Schema:Place, DBpedia:Place, DBpedia:PopulatedPlace, DBpedia:Settlement">
+      <references>
+        <!--Leeuwarden-->
+        <span>
+          <target id="t_15" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_cltl" reference="http://nl.dbpedia.org/resource/Leeuwarden_(stad)" confidence="0.8839127" />
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="DBpedia:Agent, Schema:Person, Http://xmlns.com/foaf/0.1/Person, DBpedia:Person, DBpedia:Monarch">
+      <references>
+        <!--OTTO-->
+        <span>
+          <target id="t_5" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_cltl" reference="http://nl.dbpedia.org/resource/Keizer_Otto_II" confidence="0.19540717" />
+      </externalReferences>
+    </entity>
+    <entity id="e11" type="Schema:Language, DBpedia:Language">
+      <references>
+        <!--Fries - .-->
+        <span>
+          <target id="t_29" />
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_cltl" reference="http://nl.dbpedia.org/resource/Westerlauwers_Fries" confidence="0.09592412" />
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <!--was-->
+      <span>
+        <target id="t_22" />
+      </span>
+      <!--kwam-->
+      <span>
+        <target id="t_25" />
+      </span>
+      <externalReferences>
+        <externalRef resource="Cornetto2.1" reference="nld-21-d_v-1020-v" confidence="2.4849067" />
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <timeExpressions>
+    <timex3 id="tx1" type="DATE" value="1546">
+      <!--1546-->
+      <span>
+        <target id="w13" />
+      </span>
+    </timex3>
+    <timex3 id="tx2" type="DATE" value="1613-04-09">
+      <!--9 apr . 1613-->
+      <span>
+        <target id="w17" />
+        <target id="w18" />
+        <target id="w19" />
+        <target id="w20" />
+      </span>
+    </timex3>
+    <timex3 id="tx3" type="DATE" value="1575">
+      <!--1575-->
+      <span>
+        <target id="w28" />
+      </span>
+    </timex3>
+  </timeExpressions>
+  <srl>
+    <!--t_22 was : #[t_21 S.] #[t_23 jurist]-->
+    <predicate id="pr1">
+      <!--was-->
+      <span>
+        <target id="t_22" />
+      </span>
+      <externalReferences>
+        <externalRef resource="Cornetto" reference="r_v-10270" confidence="0.038725566" />
+      </externalReferences>
+      <role id="r1" semRole="#">
+        <!--S.-->
+        <span>
+          <target id="t_21" head="yes" />
+        </span>
+      </role>
+      <role id="r3" semRole="#">
+        <!--jurist-->
+        <span>
+          <target id="t_23" head="yes" />
+        </span>
+      </role>
+    </predicate>
+    <!--t_25 kwam : Arg1[t_21 S.]-->
+    <predicate id="pr2">
+      <!--kwam-->
+      <span>
+        <target id="t_25" />
+      </span>
+      <externalReferences>
+        <externalRef resource="Cornetto" reference="r_v-4068" confidence="0.0075904545" />
+      </externalReferences>
+      <role id="r2" semRole="Arg1">
+        <!--S.-->
+        <span>
+          <target id="t_21" head="yes" />
+        </span>
+      </role>
+    </predicate>
+  </srl>
+  <constituency>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter0" label="top" />
+      <nt id="nter1" label="punct" />
+      <nt id="nter2" label="punct" />
+      <nt id="nter3" label="punct" />
+      <nt id="nter4" label="punct" />
+      <nt id="nter5" label="tag" />
+      <nt id="nter6" label="punct" />
+      <nt id="nter7" label="punct" />
+      <nt id="nter8" label="punct" />
+      <nt id="nter9" label="punct" />
+      <nt id="nter10" label="du" />
+      <nt id="nter11" label="conj" />
+      <nt id="nter12" label="np" />
+      <nt id="nter13" label="noun" />
+      <nt id="nter14" label="noun" />
+      <nt id="nter15" label="name" />
+      <nt id="nter16" label="np" />
+      <nt id="nter17" label="name" />
+      <nt id="nter18" label="name" />
+      <nt id="nter19" label="num" />
+      <nt id="nter20" label="np" />
+      <nt id="nter21" label="noun" />
+      <nt id="nter22" label="name" />
+      <nt id="nter23" label="mwu" />
+      <nt id="nter24" label="noun" />
+      <nt id="nter25" label="noun" />
+      <nt id="nter26" label="num" />
+      <nt id="nter27" label="punct" />
+      <!--Terminals-->
+      <!--(-->
+      <t id="ter0">
+        <span>
+          <target id="t_1" />
+        </span>
+      </t>
+      <!--)-->
+      <t id="ter1">
+        <span>
+          <target id="t_3" />
+        </span>
+      </t>
+      <!--,-->
+      <t id="ter2">
+        <span>
+          <target id="t_4" />
+        </span>
+      </t>
+      <!--,-->
+      <t id="ter3">
+        <span>
+          <target id="t_6" />
+        </span>
+      </t>
+      <!--*-->
+      <t id="ter4">
+        <span>
+          <target id="t_7" />
+        </span>
+      </t>
+      <!--(-->
+      <t id="ter5">
+        <span>
+          <target id="t_9" />
+        </span>
+      </t>
+      <!--)-->
+      <t id="ter6">
+        <span>
+          <target id="t_11" />
+        </span>
+      </t>
+      <!--,-->
+      <t id="ter7">
+        <span>
+          <target id="t_13" />
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter8">
+        <span>
+          <target id="t_18" />
+        </span>
+      </t>
+      <!--SWALUE-->
+      <t id="ter9">
+        <span>
+          <target id="t_0" />
+        </span>
+      </t>
+      <!--SCHWALBE-->
+      <t id="ter10">
+        <span>
+          <target id="t_2" />
+        </span>
+      </t>
+      <!--OTTO-->
+      <t id="ter11">
+        <span>
+          <target id="t_5" />
+        </span>
+      </t>
+      <!--Rheine-->
+      <t id="ter12">
+        <span>
+          <target id="t_8" />
+        </span>
+      </t>
+      <!--Westf.-->
+      <t id="ter13">
+        <span>
+          <target id="t_10" />
+        </span>
+      </t>
+      <!--1546-->
+      <t id="ter14">
+        <span>
+          <target id="t_12" />
+        </span>
+      </t>
+      <!--t-->
+      <t id="ter15">
+        <span>
+          <target id="t_14" />
+        </span>
+      </t>
+      <!--Leeuwarden-->
+      <t id="ter16">
+        <span>
+          <target id="t_15" />
+        </span>
+      </t>
+      <!--9-->
+      <t id="ter17">
+        <span>
+          <target id="t_16" />
+        </span>
+      </t>
+      <!--apr-->
+      <t id="ter18">
+        <span>
+          <target id="t_17" />
+        </span>
+      </t>
+      <!--1613-->
+      <t id="ter19">
+        <span>
+          <target id="t_19" />
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter20">
+        <span>
+          <target id="t_20" />
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre0" from="nter1" to="nter0" />
+      <edge id="tre1" from="ter0" to="nter1" />
+      <edge id="tre2" from="nter2" to="nter0" />
+      <edge id="tre3" from="ter1" to="nter2" />
+      <edge id="tre4" from="nter3" to="nter0" />
+      <edge id="tre5" from="ter2" to="nter3" />
+      <edge id="tre6" from="nter4" to="nter0" />
+      <edge id="tre7" from="ter3" to="nter4" />
+      <edge id="tre8" from="nter5" to="nter0" />
+      <edge id="tre9" from="ter4" to="nter5" />
+      <edge id="tre10" from="nter6" to="nter0" />
+      <edge id="tre11" from="ter5" to="nter6" />
+      <edge id="tre12" from="nter7" to="nter0" />
+      <edge id="tre13" from="ter6" to="nter7" />
+      <edge id="tre14" from="nter8" to="nter0" />
+      <edge id="tre15" from="ter7" to="nter8" />
+      <edge id="tre16" from="nter9" to="nter0" />
+      <edge id="tre17" from="ter8" to="nter9" />
+      <edge id="tre18" from="nter10" to="nter0" />
+      <edge id="tre19" from="nter11" to="nter10" />
+      <edge id="tre20" from="nter12" to="nter11" />
+      <edge id="tre21" from="nter13" to="nter12" head="yes" />
+      <edge id="tre22" from="ter9" to="nter13" />
+      <edge id="tre23" from="nter14" to="nter12" />
+      <edge id="tre24" from="ter10" to="nter14" />
+      <edge id="tre25" from="nter15" to="nter11" />
+      <edge id="tre26" from="ter11" to="nter15" />
+      <edge id="tre27" from="nter16" to="nter11" />
+      <edge id="tre28" from="nter17" to="nter16" head="yes" />
+      <edge id="tre29" from="ter12" to="nter17" />
+      <edge id="tre30" from="nter18" to="nter16" />
+      <edge id="tre31" from="ter13" to="nter18" />
+      <edge id="tre32" from="nter19" to="nter16" />
+      <edge id="tre33" from="ter14" to="nter19" />
+      <edge id="tre34" from="nter20" to="nter11" />
+      <edge id="tre35" from="nter21" to="nter20" head="yes" />
+      <edge id="tre36" from="ter15" to="nter21" />
+      <edge id="tre37" from="nter22" to="nter20" />
+      <edge id="tre38" from="ter16" to="nter22" />
+      <edge id="tre39" from="nter23" to="nter20" />
+      <edge id="tre40" from="nter24" to="nter23" />
+      <edge id="tre41" from="ter17" to="nter24" />
+      <edge id="tre42" from="nter25" to="nter23" />
+      <edge id="tre43" from="ter18" to="nter25" />
+      <edge id="tre44" from="nter26" to="nter10" />
+      <edge id="tre45" from="ter19" to="nter26" />
+      <edge id="tre46" from="nter27" to="nter0" />
+      <edge id="tre47" from="ter20" to="nter27" />
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter28" label="top" />
+      <nt id="nter29" label="du" />
+      <nt id="nter30" label="conj" />
+      <nt id="nter31" label="smain" />
+      <nt id="nter32" label="name" />
+      <nt id="nter33" label="verb" />
+      <nt id="nter34" label="noun" />
+      <nt id="nter35" label="vg" />
+      <nt id="nter36" label="smain" />
+      <nt id="nter37" label="verb" />
+      <nt id="nter38" label="np" />
+      <nt id="nter39" label="adv" />
+      <nt id="nter40" label="noun" />
+      <nt id="nter41" label="pp" />
+      <nt id="nter42" label="prep" />
+      <nt id="nter43" label="name" />
+      <!--Terminals-->
+      <!--S.-->
+      <t id="ter21">
+        <span>
+          <target id="t_21" />
+        </span>
+      </t>
+      <!--was-->
+      <t id="ter22">
+        <span>
+          <target id="t_22" />
+        </span>
+      </t>
+      <!--jurist-->
+      <t id="ter23">
+        <span>
+          <target id="t_23" />
+        </span>
+      </t>
+      <!--en-->
+      <t id="ter24">
+        <span>
+          <target id="t_24" />
+        </span>
+      </t>
+      <!--kwam-->
+      <t id="ter25">
+        <span>
+          <target id="t_25" />
+        </span>
+      </t>
+      <!--ca.-->
+      <t id="ter26">
+        <span>
+          <target id="t_26" />
+        </span>
+      </t>
+      <!--1575-->
+      <t id="ter27">
+        <span>
+          <target id="t_27" />
+        </span>
+      </t>
+      <!--naar-->
+      <t id="ter28">
+        <span>
+          <target id="t_28" />
+        </span>
+      </t>
+      <!--Fries - .-->
+      <t id="ter29">
+        <span>
+          <target id="t_29" />
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre48" from="nter29" to="nter28" />
+      <edge id="tre49" from="nter30" to="nter29" />
+      <edge id="tre50" from="nter31" to="nter30" />
+      <edge id="tre51" from="nter32" to="nter31" />
+      <edge id="tre52" from="ter21" to="nter32" />
+      <edge id="tre53" from="nter33" to="nter31" head="yes" />
+      <edge id="tre54" from="ter22" to="nter33" />
+      <edge id="tre55" from="nter34" to="nter31" />
+      <edge id="tre56" from="ter23" to="nter34" />
+      <edge id="tre57" from="nter35" to="nter30" />
+      <edge id="tre58" from="ter24" to="nter35" />
+      <edge id="tre59" from="nter36" to="nter30" />
+      <edge id="tre60" from="nter37" to="nter36" head="yes" />
+      <edge id="tre61" from="ter25" to="nter37" />
+      <edge id="tre62" from="nter38" to="nter29" />
+      <edge id="tre63" from="nter39" to="nter38" />
+      <edge id="tre64" from="ter26" to="nter39" />
+      <edge id="tre65" from="nter40" to="nter38" head="yes" />
+      <edge id="tre66" from="ter27" to="nter40" />
+      <edge id="tre67" from="nter41" to="nter38" />
+      <edge id="tre68" from="nter42" to="nter41" head="yes" />
+      <edge id="tre69" from="ter28" to="nter42" />
+      <edge id="tre70" from="nter43" to="nter41" />
+      <edge id="tre71" from="ter29" to="nter43" />
+    </tree>
+  </constituency>
+</NAF>

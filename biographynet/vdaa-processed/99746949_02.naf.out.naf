@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NAF version="v3" xml:lang="nl">
+  <nafHeader>
+    <fileDesc creationtime="T00:00:00Z" filename="99746949_02.xml"/>
+    <public publicId="99746949_02" uri="biographynet/data/99746949_02.xml"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2015-07-14T19:24:50+0200" endTimestamp="2015-07-14T19:24:50+0200" hostname="kyoto.vu.nl" name="ixa-pipe-tok-nl" version="1.8.0-56f83ce4b61680346f15e5d4e6de6293764f7383"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp beginTimestamp="2015-07-14T19:25:24CEST" endTimestamp="2015-07-14T19:25:24CEST" hostname="kyoto" name="SoNaR-News-trained-SRL" timestamp="2015-07-14T19:25:24CEST" version="1.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2015-07-14T19:24:55CEST" endTimestamp="2015-07-14T19:24:55CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T19:24:55CEST" version="0.1_05sept2014"/>
+      <lp beginTimestamp="2015-07-14T19:25:17CEST" endTimestamp="2015-07-14T19:25:17CEST" hostname="kyoto" name="VUA-DSC-WSD" timestamp="2015-07-14T19:25:17CEST" version="1.2#20jan2015"/>
+      <lp beginTimestamp="2015-07-14T19:25:23+0200" endTimestamp="2015-07-14T19:25:23+0200" hostname="kyoto.vu.nl" name="vua-predicate-matrix-tagger" timestamp="2015-07-14T19:25:23+0200" version="1.0"/>
+      <lp beginTimestamp="2015-07-14T19:25:32+0200" endTimestamp="2015-07-14T19:25:32+0200" hostname="kyoto.vu.nl" name="vua-framenet-srl-tagger" timestamp="2015-07-14T19:25:32+0200" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2015-07-14T19:25:31+0200" endTimestamp="2015-07-14T19:25:31+0200" hostname="kyoto.vu.nl" name="vua-event-coref-intradoc-wn-sim" timestamp="2015-07-14T19:25:31+0200" version="2.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2015-07-14T19:24:55CEST" endTimestamp="2015-07-14T19:24:55CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T19:24:55CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituents">
+      <lp beginTimestamp="2015-07-14T19:24:55CEST" endTimestamp="2015-07-14T19:24:55CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T19:24:55CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2015-07-14T19:25:05+0200" endTimestamp="2015-07-14T19:25:15+0200" hostname="kyoto.vu.nl" name="ixa-pipe-nerc-nl-clusters-conll02" version="1.3.6-9927fdb32d943f0aa9748a656958af99eeb1f5b7"/>
+      <lp beginTimestamp="2015-07-14T19:25:18+0200" endTimestamp="2015-07-14T19:25:19+0200" hostname="kyoto.vu.nl" name="ixa-pipe-ned-nl" version="1.1.1-d35d4df5cb71940bf642bb1a83e2b5b7584010df"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="timeExpressions">
+      <lp beginTimestamp="2015-07-14T19:24:56+0200" endTimestamp="2015-07-14T19:24:58+0200" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-2a2999bb6558401326bf88bda44e9a9c404492c6"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>RORUS (Cyprianus) van Mechelen, beroemd musicus in 1565 te Parma, in den ouderdom van 49 jaren, overleden.    Zie Foppens, Bibl. Belg., T. I, p. 224; Jöcker.</raw>
+  <text>
+    <wf id="w1" length="5" offset="0" para="1" sent="1">RORUS</wf>
+    <wf id="w2" length="1" offset="6" para="1" sent="1">(</wf>
+    <wf id="w3" length="9" offset="7" para="1" sent="1">Cyprianus</wf>
+    <wf id="w4" length="1" offset="16" para="1" sent="1">)</wf>
+    <wf id="w5" length="3" offset="18" para="1" sent="1">van</wf>
+    <wf id="w6" length="8" offset="22" para="1" sent="1">Mechelen</wf>
+    <wf id="w7" length="1" offset="30" para="1" sent="1">,</wf>
+    <wf id="w8" length="7" offset="32" para="1" sent="1">beroemd</wf>
+    <wf id="w9" length="7" offset="40" para="1" sent="1">musicus</wf>
+    <wf id="w10" length="2" offset="48" para="1" sent="1">in</wf>
+    <wf id="w11" length="4" offset="51" para="1" sent="1">1565</wf>
+    <wf id="w12" length="2" offset="56" para="1" sent="1">te</wf>
+    <wf id="w13" length="5" offset="59" para="1" sent="1">Parma</wf>
+    <wf id="w14" length="1" offset="64" para="1" sent="1">,</wf>
+    <wf id="w15" length="2" offset="66" para="1" sent="1">in</wf>
+    <wf id="w16" length="3" offset="69" para="1" sent="1">den</wf>
+    <wf id="w17" length="8" offset="73" para="1" sent="1">ouderdom</wf>
+    <wf id="w18" length="3" offset="82" para="1" sent="1">van</wf>
+    <wf id="w19" length="2" offset="86" para="1" sent="1">49</wf>
+    <wf id="w20" length="5" offset="89" para="1" sent="1">jaren</wf>
+    <wf id="w21" length="1" offset="94" para="1" sent="1">,</wf>
+    <wf id="w22" length="9" offset="96" para="1" sent="1">overleden</wf>
+    <wf id="w23" length="1" offset="105" para="1" sent="1">.</wf>
+    <wf id="w24" length="1" offset="108" para="1" sent="1"> </wf>
+    <wf id="w25" length="3" offset="110" para="1" sent="1">Zie</wf>
+    <wf id="w26" length="7" offset="114" para="1" sent="1">Foppens</wf>
+    <wf id="w27" length="1" offset="121" para="1" sent="1">,</wf>
+    <wf id="w28" length="4" offset="123" para="1" sent="1">Bibl</wf>
+    <wf id="w29" length="1" offset="127" para="1" sent="1">.</wf>
+    <wf id="w30" length="5" offset="129" para="1" sent="2">Belg.</wf>
+    <wf id="w31" length="1" offset="134" para="1" sent="2">,</wf>
+    <wf id="w32" length="2" offset="136" para="1" sent="2">T.</wf>
+    <wf id="w33" length="1" offset="139" para="1" sent="2">I</wf>
+    <wf id="w34" length="1" offset="140" para="1" sent="2">,</wf>
+    <wf id="w35" length="2" offset="142" para="1" sent="2">p.</wf>
+    <wf id="w36" length="3" offset="145" para="1" sent="2">224</wf>
+    <wf id="w37" length="1" offset="148" para="1" sent="2">;</wf>
+    <wf id="w38" length="6" offset="150" para="1" sent="2">Jöcker</wf>
+    <wf id="w39" length="1" offset="156" para="1" sent="2">.</wf>
+  </text>
+  <terms>
+    <term id="t_0" lemma="RORUS" morphofeat="N(eigen,ev,basis,zijd,stan)" pos="name" type="open">
+      <span>
+        <!--RORUS-->
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t_1" lemma="(" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--(-->
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t_2" lemma="Cyprianus" morphofeat="N(eigen,ev,basis,onz,stan)" pos="name" type="open">
+      <span>
+        <!--Cyprianus-->
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t_3" lemma=")" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--)-->
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t_4" lemma="van" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--van-->
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t_5" lemma="Mechelen" morphofeat="N(eigen,ev,basis,onz,stan)" pos="name" type="open">
+      <span>
+        <!--Mechelen-->
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t_6" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t_7" lemma="beroemd" morphofeat="WW(vd,vrij,zonder)" pos="adj" type="open">
+      <span>
+        <!--beroemd-->
+        <target id="w8"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_a-9222" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_8" lemma="musicus" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--musicus-->
+        <target id="w9"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-24418" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_9" lemma="in" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--in-->
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t_10" lemma="1565" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--1565-->
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t_11" lemma="te" morphofeat="VZ(versm)" pos="prep" type="close">
+      <span>
+        <!--te-->
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t_12" lemma="Parma" morphofeat="N(eigen,ev,basis,onz,stan)" pos="name" type="open">
+      <span>
+        <!--Parma-->
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t_13" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t_14" lemma="in" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--in-->
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t_15" lemma="de" morphofeat="LID(bep,dat,evmo)" pos="det" type="close">
+      <span>
+        <!--den-->
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t_16" lemma="ouderdom" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--ouderdom-->
+        <target id="w17"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.10106417" reference="d_n-202832" resource="Cornetto"/>
+        <externalRef confidence="0.9774634" reference="r_n-26980" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.21293695" reference="r_n-26979" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_17" lemma="van" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--van-->
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t_18" lemma="49" morphofeat="TW(hoofd,prenom,stan)" pos="num" type="open">
+      <span>
+        <!--49-->
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t_19" lemma="jaar" morphofeat="N(soort,mv,basis)" pos="noun" type="open">
+      <span>
+        <!--jaren-->
+        <target id="w20"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.18601115" reference="d_n-127172" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.020637928" reference="d_n-127173" resource="Cornetto"/>
+        <externalRef confidence="0.900971" reference="r_n-18341" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_20" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t_21" lemma="overleden" morphofeat="WW(vd,vrij,zonder)" pos="adj" type="open">
+      <span>
+        <!--overleden-->
+        <target id="w22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="d_a-203997" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_22" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t_23" lemma=" " morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!-- -->
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t_24" lemma="zien" morphofeat="WW(pv,tgw,ev)" pos="verb" type="open">
+      <span>
+        <!--Zie-->
+        <target id="w25"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.005560732" reference="r_v-10256" resource="Cornetto"/>
+        <externalRef confidence="0.033200312" reference="r_v-10255" resource="Cornetto"/>
+        <externalRef confidence="0.05372915" reference="r_v-10254" resource="Cornetto"/>
+        <externalRef confidence="0.051512167" reference="r_v-10253" resource="Cornetto"/>
+        <externalRef confidence="0.009775601" reference="d_v-344702" resource="Cornetto"/>
+        <externalRef confidence="0.02034862" reference="d_v-420094" resource="Cornetto"/>
+        <externalRef reference="grammatical" resource=""/>
+      </externalReferences>
+    </term>
+    <term id="t_25" lemma="Foppens" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Foppens-->
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t_26" lemma="," morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--,-->
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t_27" lemma="Bibl" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Bibl-->
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t_28" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t_29" lemma="Belg" morphofeat="N(eigen,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--Belg.-->
+        <target id="w30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="d_n-25437" resource="Cornetto"/>
+        <externalRef reference="r_n-6558" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_30" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t_31" lemma="T." morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--T.-->
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t_32" lemma="I" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--I-->
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t_33" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t_34" lemma="pagina" morphofeat="N(soort,mv,basis)" pos="noun" type="open">
+      <span>
+        <!--p.-->
+        <target id="w35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-27356" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_35" lemma="224" morphofeat="TW(hoofd,vrij)" pos="num" type="open">
+      <span>
+        <!--224-->
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t_36" lemma=";" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--;-->
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t_37" lemma="Jöcker" morphofeat="N(eigen,ev,basis,zijd,stan)" pos="name" type="open">
+      <span>
+        <!--Jöcker-->
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t_38" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w39"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <!--- - / - -((,))-->
+    <dep from="t_1" rfunc="-- / --" to="t_3"/>
+    <!--- - / - -((,,)-->
+    <dep from="t_1" rfunc="-- / --" to="t_6"/>
+    <!--- - / - -((,,)-->
+    <dep from="t_1" rfunc="-- / --" to="t_13"/>
+    <!--- - / - -((,,)-->
+    <dep from="t_1" rfunc="-- / --" to="t_20"/>
+    <!--- - / - -((,.)-->
+    <dep from="t_1" rfunc="-- / --" to="t_22"/>
+    <!--- - / - -((,RORUS)-->
+    <dep from="t_1" rfunc="-- / --" to="t_0"/>
+    <!--hd/mod(RORUS,Cyprianus)-->
+    <dep from="t_0" rfunc="hd/mod" to="t_2"/>
+    <!--hd/mod(RORUS,van)-->
+    <dep from="t_0" rfunc="hd/mod" to="t_4"/>
+    <!--hd/obj1(van,Mechelen)-->
+    <dep from="t_4" rfunc="hd/obj1" to="t_5"/>
+    <!--hd/mod(Mechelen,beroemd)-->
+    <dep from="t_5" rfunc="hd/mod" to="t_7"/>
+    <!--dp/dp(RORUS,musicus)-->
+    <dep from="t_0" rfunc="dp/dp" to="t_8"/>
+    <!--hd/mod(musicus,in)-->
+    <dep from="t_8" rfunc="hd/mod" to="t_9"/>
+    <!--hd/obj1(in,1565)-->
+    <dep from="t_9" rfunc="hd/obj1" to="t_10"/>
+    <!--hd/mod(musicus,te)-->
+    <dep from="t_8" rfunc="hd/mod" to="t_11"/>
+    <!--hd/obj1(te,Parma)-->
+    <dep from="t_11" rfunc="hd/obj1" to="t_12"/>
+    <!--hd/mod(musicus,in)-->
+    <dep from="t_8" rfunc="hd/mod" to="t_14"/>
+    <!--hd/obj1(in,ouderdom)-->
+    <dep from="t_14" rfunc="hd/obj1" to="t_16"/>
+    <!--hd/det(ouderdom,den)-->
+    <dep from="t_16" rfunc="hd/det" to="t_15"/>
+    <!--hd/mod(ouderdom,van)-->
+    <dep from="t_16" rfunc="hd/mod" to="t_17"/>
+    <!--hd/obj1(van,jaren)-->
+    <dep from="t_17" rfunc="hd/obj1" to="t_19"/>
+    <!--hd/det(jaren,49)-->
+    <dep from="t_19" rfunc="hd/det" to="t_18"/>
+    <!--hd/mod(jaren,overleden)-->
+    <dep from="t_19" rfunc="hd/mod" to="t_21"/>
+    <!--dp/dp(RORUS, )-->
+    <dep from="t_0" rfunc="dp/dp" to="t_23"/>
+    <!--dp/dp(RORUS,Zie)-->
+    <dep from="t_0" rfunc="dp/dp" to="t_24"/>
+    <!--hd/obj1(Zie,Foppens)-->
+    <dep from="t_24" rfunc="hd/obj1" to="t_25"/>
+    <!--mwp/mwp(Foppens,,)-->
+    <dep from="t_25" rfunc="mwp/mwp" to="t_26"/>
+    <!--mwp/mwp(Foppens,Bibl)-->
+    <dep from="t_25" rfunc="mwp/mwp" to="t_27"/>
+    <!--- - / - -((,.)-->
+    <dep from="t_1" rfunc="-- / --" to="t_28"/>
+    <!--- - / - -(,,,)-->
+    <dep from="t_30" rfunc="-- / --" to="t_33"/>
+    <!--- - / - -(,,;)-->
+    <dep from="t_30" rfunc="-- / --" to="t_36"/>
+    <!--- - / - -(,,Belg.)-->
+    <dep from="t_30" rfunc="-- / --" to="t_29"/>
+    <!--cnj/cnj(Belg.,T.)-->
+    <dep from="t_29" rfunc="cnj/cnj" to="t_31"/>
+    <!--mwp/mwp(T.,I)-->
+    <dep from="t_31" rfunc="mwp/mwp" to="t_32"/>
+    <!--cnj/cnj(Belg.,p.)-->
+    <dep from="t_29" rfunc="cnj/cnj" to="t_34"/>
+    <!--hd/app(p.,224)-->
+    <dep from="t_34" rfunc="hd/app" to="t_35"/>
+    <!--dp/dp(Belg.,Jöcker)-->
+    <dep from="t_29" rfunc="dp/dp" to="t_37"/>
+    <!--- - / - -(,,.)-->
+    <dep from="t_30" rfunc="-- / --" to="t_38"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="PER">
+      <references>
+        <span>
+          <!--RORUS-->
+          <target id="t_0"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="e2" type="LOC">
+      <references>
+        <span>
+          <!--Cyprianus-->
+          <target id="t_2"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.99999964" reference="http://nl.dbpedia.org/resource/Cyprianus" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.99999964" reference="http://dbpedia.org/resource/Cyprian" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="LOC">
+      <references>
+        <span>
+          <!--Mechelen-->
+          <target id="t_5"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.9846133" reference="http://nl.dbpedia.org/resource/Mechelen_(stad)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.9846133" reference="http://dbpedia.org/resource/Mechelen" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="0.014956251" reference="http://nl.dbpedia.org/resource/Heerlijkheid_Mechelen" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.014956251" reference="http://dbpedia.org/resource/Lordship_of_Mechelen" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.6303842E-4" reference="http://nl.dbpedia.org/resource/Arrondissement_Mechelen" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.6303842E-4" reference="http://dbpedia.org/resource/Arrondissement_of_Mechelen" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.5619768E-4" reference="http://nl.dbpedia.org/resource/Aartsbisdom_Mechelen-Brussel" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.5619768E-4" reference="http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Mechelen-Brussels" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="5.7908623E-5" reference="http://nl.dbpedia.org/resource/Kanton_Mechelen" reftype="nl" resource="spotlight_v1"/>
+        <externalRef confidence="1.8294138E-5" reference="http://nl.dbpedia.org/resource/Mechelen_(Nederland)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.8294138E-5" reference="http://dbpedia.org/resource/Mechelen,_Netherlands" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.7345916E-5" reference="http://nl.dbpedia.org/resource/Gerechtelijk_arrondissement_Mechelen" reftype="nl" resource="spotlight_v1"/>
+        <externalRef confidence="1.1383402E-5" reference="http://nl.dbpedia.org/resource/Station_Mechelen" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.1383402E-5" reference="http://dbpedia.org/resource/Mechelen_railway_station" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="6.22362E-6" reference="http://nl.dbpedia.org/resource/Dekenaat_Mechelen" reftype="nl" resource="spotlight_v1"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="ORG">
+      <references>
+        <span>
+          <!--Parma-->
+          <target id="t_12"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.98638743" reference="http://nl.dbpedia.org/resource/Parma_(stad)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.98638743" reference="http://dbpedia.org/resource/Parma" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="0.011082217" reference="http://nl.dbpedia.org/resource/Alexander_Farnese" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.011082217" reference="http://dbpedia.org/resource/Alexander_Farnese,_Duke_of_Parma" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="0.002200981" reference="http://nl.dbpedia.org/resource/Hertogdom_Parma_en_Piacenza" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.002200981" reference="http://dbpedia.org/resource/Duchy_of_Parma" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.7479432E-4" reference="http://nl.dbpedia.org/resource/Parma_FC" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="2.7479432E-4" reference="http://dbpedia.org/resource/Parma_F.C." reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.8760412E-5" reference="http://nl.dbpedia.org/resource/Parma_(provincie)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="4.8760412E-5" reference="http://dbpedia.org/resource/Province_of_Parma" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="5.4039765E-6" reference="http://nl.dbpedia.org/resource/Lijst_van_hertogen_van_Parma" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="5.4039765E-6" reference="http://dbpedia.org/resource/Duke_of_Parma" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.1388324E-7" reference="http://nl.dbpedia.org/resource/Parma_(Ohio)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="4.1388324E-7" reference="http://dbpedia.org/resource/Parma,_Ohio" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="MISC">
+      <references>
+        <span>
+          <!--Zie Foppens-->
+          <target id="t_24"/>
+          <target id="t_25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="e6" type="PER">
+      <references>
+        <span>
+          <!--Bibl-->
+          <target id="t_27"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="e7" type="PER">
+      <references>
+        <span>
+          <!--T. I-->
+          <target id="t_31"/>
+          <target id="t_32"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="e8" type="MISC">
+      <references>
+        <span>
+          <!--Jöcker-->
+          <target id="t_37"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <!--Zie-->
+        <target id="t_24"/>
+      </span>
+    </coref>
+  </coreferences>
+  <constituency>
+    <tree>
+      <t id="ter0">
+        <!--(-->
+        <span>
+          <target id="t_1"/>
+        </span>
+      </t>
+      <t id="ter1">
+        <!--)-->
+        <span>
+          <target id="t_3"/>
+        </span>
+      </t>
+      <t id="ter2">
+        <!--,-->
+        <span>
+          <target id="t_6"/>
+        </span>
+      </t>
+      <t id="ter3">
+        <!--,-->
+        <span>
+          <target id="t_13"/>
+        </span>
+      </t>
+      <t id="ter4">
+        <!--,-->
+        <span>
+          <target id="t_20"/>
+        </span>
+      </t>
+      <t id="ter5">
+        <!--.-->
+        <span>
+          <target id="t_22"/>
+        </span>
+      </t>
+      <t id="ter6">
+        <!--RORUS-->
+        <span>
+          <target id="t_0"/>
+        </span>
+      </t>
+      <t id="ter7">
+        <!--Cyprianus-->
+        <span>
+          <target id="t_2"/>
+        </span>
+      </t>
+      <t id="ter8">
+        <!--van-->
+        <span>
+          <target id="t_4"/>
+        </span>
+      </t>
+      <t id="ter9">
+        <!--Mechelen-->
+        <span>
+          <target id="t_5"/>
+        </span>
+      </t>
+      <t id="ter10">
+        <!--beroemd-->
+        <span>
+          <target id="t_7"/>
+        </span>
+      </t>
+      <t id="ter11">
+        <!--musicus-->
+        <span>
+          <target id="t_8"/>
+        </span>
+      </t>
+      <t id="ter12">
+        <!--in-->
+        <span>
+          <target id="t_9"/>
+        </span>
+      </t>
+      <t id="ter13">
+        <!--1565-->
+        <span>
+          <target id="t_10"/>
+        </span>
+      </t>
+      <t id="ter14">
+        <!--te-->
+        <span>
+          <target id="t_11"/>
+        </span>
+      </t>
+      <t id="ter15">
+        <!--Parma-->
+        <span>
+          <target id="t_12"/>
+        </span>
+      </t>
+      <t id="ter16">
+        <!--in-->
+        <span>
+          <target id="t_14"/>
+        </span>
+      </t>
+      <t id="ter17">
+        <!--den-->
+        <span>
+          <target id="t_15"/>
+        </span>
+      </t>
+      <t id="ter18">
+        <!--ouderdom-->
+        <span>
+          <target id="t_16"/>
+        </span>
+      </t>
+      <t id="ter19">
+        <!--van-->
+        <span>
+          <target id="t_17"/>
+        </span>
+      </t>
+      <t id="ter20">
+        <!--49-->
+        <span>
+          <target id="t_18"/>
+        </span>
+      </t>
+      <t id="ter21">
+        <!--jaren-->
+        <span>
+          <target id="t_19"/>
+        </span>
+      </t>
+      <t id="ter22">
+        <!--overleden-->
+        <span>
+          <target id="t_21"/>
+        </span>
+      </t>
+      <t id="ter23">
+        <!-- -->
+        <span>
+          <target id="t_23"/>
+        </span>
+      </t>
+      <t id="ter24">
+        <!--Zie-->
+        <span>
+          <target id="t_24"/>
+        </span>
+      </t>
+      <t id="ter25">
+        <!--Foppens-->
+        <span>
+          <target id="t_25"/>
+        </span>
+      </t>
+      <t id="ter26">
+        <!--,-->
+        <span>
+          <target id="t_26"/>
+        </span>
+      </t>
+      <t id="ter27">
+        <!--Bibl-->
+        <span>
+          <target id="t_27"/>
+        </span>
+      </t>
+      <t id="ter28">
+        <!--.-->
+        <span>
+          <target id="t_28"/>
+        </span>
+      </t>
+      <nt id="nter0" label="top"/>
+      <nt id="nter1" label="punct"/>
+      <nt id="nter2" label="punct"/>
+      <nt id="nter3" label="punct"/>
+      <nt id="nter4" label="punct"/>
+      <nt id="nter5" label="punct"/>
+      <nt id="nter6" label="punct"/>
+      <nt id="nter7" label="du"/>
+      <nt id="nter8" label="du"/>
+      <nt id="nter9" label="np"/>
+      <nt id="nter10" label="name"/>
+      <nt id="nter11" label="name"/>
+      <nt id="nter12" label="pp"/>
+      <nt id="nter13" label="prep"/>
+      <nt id="nter14" label="np"/>
+      <nt id="nter15" label="name"/>
+      <nt id="nter16" label="adj"/>
+      <nt id="nter17" label="np"/>
+      <nt id="nter18" label="noun"/>
+      <nt id="nter19" label="pp"/>
+      <nt id="nter20" label="prep"/>
+      <nt id="nter21" label="noun"/>
+      <nt id="nter22" label="pp"/>
+      <nt id="nter23" label="prep"/>
+      <nt id="nter24" label="name"/>
+      <nt id="nter25" label="pp"/>
+      <nt id="nter26" label="prep"/>
+      <nt id="nter27" label="np"/>
+      <nt id="nter28" label="det"/>
+      <nt id="nter29" label="noun"/>
+      <nt id="nter30" label="pp"/>
+      <nt id="nter31" label="prep"/>
+      <nt id="nter32" label="np"/>
+      <nt id="nter33" label="num"/>
+      <nt id="nter34" label="noun"/>
+      <nt id="nter35" label="adj"/>
+      <nt id="nter36" label="noun"/>
+      <nt id="nter37" label="sv1"/>
+      <nt id="nter38" label="verb"/>
+      <nt id="nter39" label="mwu"/>
+      <nt id="nter40" label="name"/>
+      <nt id="nter41" label="name"/>
+      <nt id="nter42" label="name"/>
+      <nt id="nter43" label="punct"/>
+      <edge from="nter1" id="tre0" to="nter0"/>
+      <edge from="ter0" id="tre1" to="nter1"/>
+      <edge from="nter2" id="tre2" to="nter0"/>
+      <edge from="ter1" id="tre3" to="nter2"/>
+      <edge from="nter3" id="tre4" to="nter0"/>
+      <edge from="ter2" id="tre5" to="nter3"/>
+      <edge from="nter4" id="tre6" to="nter0"/>
+      <edge from="ter3" id="tre7" to="nter4"/>
+      <edge from="nter5" id="tre8" to="nter0"/>
+      <edge from="ter4" id="tre9" to="nter5"/>
+      <edge from="nter6" id="tre10" to="nter0"/>
+      <edge from="ter5" id="tre11" to="nter6"/>
+      <edge from="nter7" id="tre12" to="nter0"/>
+      <edge from="nter8" id="tre13" to="nter7"/>
+      <edge from="nter9" id="tre14" to="nter8"/>
+      <edge from="nter10" head="yes" id="tre15" to="nter9"/>
+      <edge from="ter6" id="tre16" to="nter10"/>
+      <edge from="nter11" id="tre17" to="nter9"/>
+      <edge from="ter7" id="tre18" to="nter11"/>
+      <edge from="nter12" id="tre19" to="nter9"/>
+      <edge from="nter13" head="yes" id="tre20" to="nter12"/>
+      <edge from="ter8" id="tre21" to="nter13"/>
+      <edge from="nter14" id="tre22" to="nter12"/>
+      <edge from="nter15" head="yes" id="tre23" to="nter14"/>
+      <edge from="ter9" id="tre24" to="nter15"/>
+      <edge from="nter16" id="tre25" to="nter14"/>
+      <edge from="ter10" id="tre26" to="nter16"/>
+      <edge from="nter17" id="tre27" to="nter8"/>
+      <edge from="nter18" head="yes" id="tre28" to="nter17"/>
+      <edge from="ter11" id="tre29" to="nter18"/>
+      <edge from="nter19" id="tre30" to="nter17"/>
+      <edge from="nter20" head="yes" id="tre31" to="nter19"/>
+      <edge from="ter12" id="tre32" to="nter20"/>
+      <edge from="nter21" id="tre33" to="nter19"/>
+      <edge from="ter13" id="tre34" to="nter21"/>
+      <edge from="nter22" id="tre35" to="nter17"/>
+      <edge from="nter23" head="yes" id="tre36" to="nter22"/>
+      <edge from="ter14" id="tre37" to="nter23"/>
+      <edge from="nter24" id="tre38" to="nter22"/>
+      <edge from="ter15" id="tre39" to="nter24"/>
+      <edge from="nter25" id="tre40" to="nter17"/>
+      <edge from="nter26" head="yes" id="tre41" to="nter25"/>
+      <edge from="ter16" id="tre42" to="nter26"/>
+      <edge from="nter27" id="tre43" to="nter25"/>
+      <edge from="nter28" id="tre44" to="nter27"/>
+      <edge from="ter17" id="tre45" to="nter28"/>
+      <edge from="nter29" head="yes" id="tre46" to="nter27"/>
+      <edge from="ter18" id="tre47" to="nter29"/>
+      <edge from="nter30" id="tre48" to="nter27"/>
+      <edge from="nter31" head="yes" id="tre49" to="nter30"/>
+      <edge from="ter19" id="tre50" to="nter31"/>
+      <edge from="nter32" id="tre51" to="nter30"/>
+      <edge from="nter33" id="tre52" to="nter32"/>
+      <edge from="ter20" id="tre53" to="nter33"/>
+      <edge from="nter34" head="yes" id="tre54" to="nter32"/>
+      <edge from="ter21" id="tre55" to="nter34"/>
+      <edge from="nter35" id="tre56" to="nter32"/>
+      <edge from="ter22" id="tre57" to="nter35"/>
+      <edge from="nter36" id="tre58" to="nter7"/>
+      <edge from="ter23" id="tre59" to="nter36"/>
+      <edge from="nter37" id="tre60" to="nter7"/>
+      <edge from="nter38" head="yes" id="tre61" to="nter37"/>
+      <edge from="ter24" id="tre62" to="nter38"/>
+      <edge from="nter39" id="tre63" to="nter37"/>
+      <edge from="nter40" id="tre64" to="nter39"/>
+      <edge from="ter25" id="tre65" to="nter40"/>
+      <edge from="nter41" id="tre66" to="nter39"/>
+      <edge from="ter26" id="tre67" to="nter41"/>
+      <edge from="nter42" id="tre68" to="nter39"/>
+      <edge from="ter27" id="tre69" to="nter42"/>
+      <edge from="nter43" id="tre70" to="nter0"/>
+      <edge from="ter28" id="tre71" to="nter43"/>
+    </tree>
+    <tree>
+      <t id="ter29">
+        <!--,-->
+        <span>
+          <target id="t_30"/>
+        </span>
+      </t>
+      <t id="ter30">
+        <!--,-->
+        <span>
+          <target id="t_33"/>
+        </span>
+      </t>
+      <t id="ter31">
+        <!--;-->
+        <span>
+          <target id="t_36"/>
+        </span>
+      </t>
+      <t id="ter32">
+        <!--Belg.-->
+        <span>
+          <target id="t_29"/>
+        </span>
+      </t>
+      <t id="ter33">
+        <!--T.-->
+        <span>
+          <target id="t_31"/>
+        </span>
+      </t>
+      <t id="ter34">
+        <!--I-->
+        <span>
+          <target id="t_32"/>
+        </span>
+      </t>
+      <t id="ter35">
+        <!--p.-->
+        <span>
+          <target id="t_34"/>
+        </span>
+      </t>
+      <t id="ter36">
+        <!--224-->
+        <span>
+          <target id="t_35"/>
+        </span>
+      </t>
+      <t id="ter37">
+        <!--Jöcker-->
+        <span>
+          <target id="t_37"/>
+        </span>
+      </t>
+      <t id="ter38">
+        <!--.-->
+        <span>
+          <target id="t_38"/>
+        </span>
+      </t>
+      <nt id="nter44" label="top"/>
+      <nt id="nter45" label="punct"/>
+      <nt id="nter46" label="punct"/>
+      <nt id="nter47" label="punct"/>
+      <nt id="nter48" label="du"/>
+      <nt id="nter49" label="conj"/>
+      <nt id="nter50" label="noun"/>
+      <nt id="nter51" label="mwu"/>
+      <nt id="nter52" label="name"/>
+      <nt id="nter53" label="name"/>
+      <nt id="nter54" label="np"/>
+      <nt id="nter55" label="noun"/>
+      <nt id="nter56" label="num"/>
+      <nt id="nter57" label="name"/>
+      <nt id="nter58" label="punct"/>
+      <edge from="nter45" id="tre72" to="nter44"/>
+      <edge from="ter29" id="tre73" to="nter45"/>
+      <edge from="nter46" id="tre74" to="nter44"/>
+      <edge from="ter30" id="tre75" to="nter46"/>
+      <edge from="nter47" id="tre76" to="nter44"/>
+      <edge from="ter31" id="tre77" to="nter47"/>
+      <edge from="nter48" id="tre78" to="nter44"/>
+      <edge from="nter49" id="tre79" to="nter48"/>
+      <edge from="nter50" id="tre80" to="nter49"/>
+      <edge from="ter32" id="tre81" to="nter50"/>
+      <edge from="nter51" id="tre82" to="nter49"/>
+      <edge from="nter52" id="tre83" to="nter51"/>
+      <edge from="ter33" id="tre84" to="nter52"/>
+      <edge from="nter53" id="tre85" to="nter51"/>
+      <edge from="ter34" id="tre86" to="nter53"/>
+      <edge from="nter54" id="tre87" to="nter49"/>
+      <edge from="nter55" head="yes" id="tre88" to="nter54"/>
+      <edge from="ter35" id="tre89" to="nter55"/>
+      <edge from="nter56" id="tre90" to="nter54"/>
+      <edge from="ter36" id="tre91" to="nter56"/>
+      <edge from="nter57" id="tre92" to="nter48"/>
+      <edge from="ter37" id="tre93" to="nter57"/>
+      <edge from="nter58" id="tre94" to="nter44"/>
+      <edge from="ter38" id="tre95" to="nter58"/>
+    </tree>
+  </constituency>
+  <srl>
+    <predicate id="pr1">
+      <!--Zie-->
+      <externalReferences>
+        <externalRef confidence="0.005560732" reference="r_v-10256" resource="Cornetto"/>
+      </externalReferences>
+      <span>
+        <target id="t_24"/>
+      </span>
+      <role id="r1" semRole="Arg1">
+        <!--Foppens , Bibl-->
+        <span>
+          <target head="yes" id="t_25"/>
+          <target id="t_26"/>
+          <target id="t_27"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+  <timeExpressions>
+    <timex3 id="tx1" type="DATE" value="1565">
+      <!--1565-->
+      <span>
+        <target id="w11"/>
+      </span>
+    </timex3>
+    <timex3 id="tx2" type="DURATION" value="P49Y">
+      <!--49 jaren-->
+      <span>
+        <target id="w19"/>
+        <target id="w20"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+</NAF>

@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NAF version="v3" xml:lang="nl">
+  <nafHeader>
+    <fileDesc creationtime="T00:00:00Z" filename="99804359_02.xml"/>
+    <public publicId="99804359_02" uri="biographynet/data/99804359_02.xml"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2015-07-14T17:12:08+0200" endTimestamp="2015-07-14T17:12:09+0200" hostname="kyoto.vu.nl" name="ixa-pipe-tok-nl" version="1.8.0-56f83ce4b61680346f15e5d4e6de6293764f7383"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp beginTimestamp="2015-07-14T17:12:37CEST" endTimestamp="2015-07-14T17:12:37CEST" hostname="kyoto" name="SoNaR-News-trained-SRL" timestamp="2015-07-14T17:12:37CEST" version="1.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2015-07-14T17:12:14CEST" endTimestamp="2015-07-14T17:12:14CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T17:12:14CEST" version="0.1_05sept2014"/>
+      <lp beginTimestamp="2015-07-14T17:12:30CEST" endTimestamp="2015-07-14T17:12:30CEST" hostname="kyoto" name="VUA-DSC-WSD" timestamp="2015-07-14T17:12:30CEST" version="1.2#20jan2015"/>
+      <lp beginTimestamp="2015-07-14T17:12:36+0200" endTimestamp="2015-07-14T17:12:36+0200" hostname="kyoto.vu.nl" name="vua-predicate-matrix-tagger" timestamp="2015-07-14T17:12:36+0200" version="1.0"/>
+      <lp beginTimestamp="2015-07-14T17:12:45+0200" endTimestamp="2015-07-14T17:12:45+0200" hostname="kyoto.vu.nl" name="vua-framenet-srl-tagger" timestamp="2015-07-14T17:12:45+0200" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2015-07-14T17:12:44+0200" endTimestamp="2015-07-14T17:12:44+0200" hostname="kyoto.vu.nl" name="vua-event-coref-intradoc-wn-sim" timestamp="2015-07-14T17:12:44+0200" version="2.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2015-07-14T17:12:14CEST" endTimestamp="2015-07-14T17:12:14CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T17:12:14CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituents">
+      <lp beginTimestamp="2015-07-14T17:12:14CEST" endTimestamp="2015-07-14T17:12:14CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T17:12:14CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2015-07-14T17:12:20+0200" endTimestamp="2015-07-14T17:12:29+0200" hostname="kyoto.vu.nl" name="ixa-pipe-nerc-nl-clusters-conll02" version="1.3.6-9927fdb32d943f0aa9748a656958af99eeb1f5b7"/>
+      <lp beginTimestamp="2015-07-14T17:12:31+0200" endTimestamp="2015-07-14T17:12:32+0200" hostname="kyoto.vu.nl" name="ixa-pipe-ned-nl" version="1.1.1-d35d4df5cb71940bf642bb1a83e2b5b7584010df"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="timeExpressions">
+      <lp beginTimestamp="2015-07-14T17:12:14+0200" endTimestamp="2015-07-14T17:12:17+0200" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-2a2999bb6558401326bf88bda44e9a9c404492c6"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>Boekbinder, ontwerper. Geboren: 12 juni 1880, Amsterdam. Gestorven: 10 maart 1926, Den Haag. Plaats en periode van werkzaamheid: Den Haag, van 1919-07 tot 1919-07 Woonde aan de van den eijndestraat 3.</raw>
+  <text>
+    <wf id="w1" length="10" offset="0" para="1" sent="1">Boekbinder</wf>
+    <wf id="w2" length="1" offset="10" para="1" sent="1">,</wf>
+    <wf id="w3" length="9" offset="12" para="1" sent="1">ontwerper</wf>
+    <wf id="w4" length="1" offset="21" para="1" sent="1">.</wf>
+    <wf id="w5" length="7" offset="23" para="1" sent="2">Geboren</wf>
+    <wf id="w6" length="1" offset="30" para="1" sent="2">:</wf>
+    <wf id="w7" length="2" offset="32" para="1" sent="2">12</wf>
+    <wf id="w8" length="4" offset="35" para="1" sent="2">juni</wf>
+    <wf id="w9" length="4" offset="40" para="1" sent="2">1880</wf>
+    <wf id="w10" length="1" offset="44" para="1" sent="2">,</wf>
+    <wf id="w11" length="9" offset="46" para="1" sent="2">Amsterdam</wf>
+    <wf id="w12" length="1" offset="55" para="1" sent="2">.</wf>
+    <wf id="w13" length="9" offset="57" para="1" sent="3">Gestorven</wf>
+    <wf id="w14" length="1" offset="66" para="1" sent="3">:</wf>
+    <wf id="w15" length="2" offset="68" para="1" sent="3">10</wf>
+    <wf id="w16" length="5" offset="71" para="1" sent="3">maart</wf>
+    <wf id="w17" length="4" offset="77" para="1" sent="3">1926</wf>
+    <wf id="w18" length="1" offset="81" para="1" sent="3">,</wf>
+    <wf id="w19" length="3" offset="83" para="1" sent="3">Den</wf>
+    <wf id="w20" length="4" offset="87" para="1" sent="3">Haag</wf>
+    <wf id="w21" length="1" offset="91" para="1" sent="3">.</wf>
+    <wf id="w22" length="6" offset="93" para="1" sent="4">Plaats</wf>
+    <wf id="w23" length="2" offset="100" para="1" sent="4">en</wf>
+    <wf id="w24" length="7" offset="103" para="1" sent="4">periode</wf>
+    <wf id="w25" length="3" offset="111" para="1" sent="4">van</wf>
+    <wf id="w26" length="12" offset="115" para="1" sent="4">werkzaamheid</wf>
+    <wf id="w27" length="1" offset="127" para="1" sent="4">:</wf>
+    <wf id="w28" length="3" offset="129" para="1" sent="4">Den</wf>
+    <wf id="w29" length="4" offset="133" para="1" sent="4">Haag</wf>
+    <wf id="w30" length="1" offset="137" para="1" sent="4">,</wf>
+    <wf id="w31" length="3" offset="139" para="1" sent="4">van</wf>
+    <wf id="w32" length="7" offset="143" para="1" sent="4">1919-07</wf>
+    <wf id="w33" length="3" offset="151" para="1" sent="4">tot</wf>
+    <wf id="w34" length="7" offset="155" para="1" sent="4">1919-07</wf>
+    <wf id="w35" length="6" offset="163" para="1" sent="4">Woonde</wf>
+    <wf id="w36" length="3" offset="170" para="1" sent="4">aan</wf>
+    <wf id="w37" length="2" offset="174" para="1" sent="4">de</wf>
+    <wf id="w38" length="3" offset="177" para="1" sent="4">van</wf>
+    <wf id="w39" length="3" offset="181" para="1" sent="4">den</wf>
+    <wf id="w40" length="12" offset="185" para="1" sent="4">eijndestraat</wf>
+    <wf id="w41" length="1" offset="198" para="1" sent="4">3</wf>
+    <wf id="w42" length="1" offset="199" para="1" sent="4">.</wf>
+  </text>
+  <terms>
+    <term id="t_0" lemma="Boekbinder" morphofeat="N(eigen,ev,basis,zijd,stan)" pos="name" type="open">
+      <span>
+        <!--Boekbinder-->
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t_1" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t_2" lemma="ontwerper" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--ontwerper-->
+        <target id="w3"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-26283" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_3" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t_4" lemma="geboren" morphofeat="WW(vd,vrij,zonder)" pos="adj" type="open">
+      <span>
+        <!--Geboren-->
+        <target id="w5"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.08779996" reference="c_546682" resource="Cornetto"/>
+        <externalRef confidence="0.23503534" reference="r_a-10817" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_5" lemma=":" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--:-->
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t_6" lemma="12" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--12-->
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t_7" lemma="juni" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--juni-->
+        <target id="w8"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-18643" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_8" lemma="1880" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--1880-->
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t_9" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t_10" lemma="Amsterdam" morphofeat="N(eigen,ev,basis,onz,stan)" pos="name" type="open">
+      <span>
+        <!--Amsterdam-->
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t_11" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t_12" lemma="gestorven" morphofeat="WW(vd,vrij,zonder)" pos="adj" type="open">
+      <span>
+        <!--Gestorven-->
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t_13" lemma=":" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--:-->
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t_14" lemma="10" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--10-->
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t_15" lemma="maart" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--maart-->
+        <target id="w16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-22880" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_16" lemma="1926" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--1926-->
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t_17" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t_18" lemma="Den" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Den-->
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t_19" lemma="Haag" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Haag-->
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t_20" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t_21" lemma="plaats" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--Plaats-->
+        <target id="w22"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.02624737" reference="r_n-28658" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.30075952" reference="r_n-28659" resource="Cornetto"/>
+        <externalRef confidence="0.21082959" reference="d_n-217290" resource="Cornetto"/>
+        <externalRef confidence="0.09762018" reference="r_n-28657" resource="Cornetto"/>
+        <externalRef reference="r_n-28661" resource="Cornetto"/>
+        <externalRef reference="r_n-28660" resource="Cornetto"/>
+        <externalRef reference="d_n-217294" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00940384-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Communication" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Communication;Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:communication" resource="mcr"/>
+            <externalRef reference="mcr:express%2:32:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef reference="d_n-217292" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_22" lemma="en" morphofeat="VG(neven)" pos="vg" type="close">
+      <span>
+        <!--en-->
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t_23" lemma="periode" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--periode-->
+        <target id="w24"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="d_n-214333" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00940384-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Communication" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Communication;Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:communication" resource="mcr"/>
+            <externalRef reference="mcr:express%2:32:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef reference="r_n-28219" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02604760-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:instance" resource="mcr"/>
+            <externalRef reference="mcr:Static;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:03" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_24" lemma="van" morphofeat="VZ(init)" pos="comp" type="open">
+      <span>
+        <!--van-->
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t_25" lemma="werkzaamheid" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--werkzaamheid-->
+        <target id="w26"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.19285056" reference="c_546101" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00109660-v" resource="mcr"/>
+            <externalRef reference="fn:Undergo_change" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Process" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:change%2:30:00" resource="mcr"/>
+            <externalRef reference="fn-pb-role:Cause#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Initial_category#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Entity#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Final_category#2" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Initial_category#3" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Time" resource="fn-role"/>
+            <externalRef reference="fn-role:Final_category" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00109660-v" resource="mcr"/>
+            <externalRef reference="fn:Cause_change" resource="fn"/>
+            <externalRef reference="fn:change.v" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Process" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:change" resource="mcr"/>
+            <externalRef reference="mcr:change%2:30:00" resource="mcr"/>
+            <externalRef reference="fn-pb-role:Agent#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Attribute#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Final_category#2" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Initial_category#3" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Agent" resource="fn-role"/>
+            <externalRef reference="fn-role:Final_category" resource="fn-role"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.83133525" reference="c_546099" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02413480-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:OccupationalRole" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Dynamic;Dynamic;Purpose;social;" resource="mcr"/>
+            <externalRef reference="mcr:social" resource="mcr"/>
+            <externalRef reference="mcr:work%2:41:02" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef reference="c_546102" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00010435-v" resource="mcr"/>
+            <externalRef reference="fn:Conduct" resource="fn"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:psychology" resource="mcr"/>
+            <externalRef reference="mcr:BodyMotion" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Manner;Social;UnboundedEvent;" resource="mcr"/>
+            <externalRef reference="mcr:body" resource="mcr"/>
+            <externalRef reference="mcr:act%2:29:00" resource="mcr"/>
+            <externalRef reference="fn-pb-role:Agent#0" resource="fn-pb-role"/>
+            <externalRef reference="fn-pb-role:Reason#1" resource="fn-pb-role"/>
+            <externalRef reference="fn-role:Agent" resource="fn-role"/>
+            <externalRef reference="fn-role:Manner" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00010435-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:psychology" resource="mcr"/>
+            <externalRef reference="mcr:BodyMotion" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Manner;Social;UnboundedEvent;" resource="mcr"/>
+            <externalRef reference="mcr:body" resource="mcr"/>
+            <externalRef reference="mcr:act%2:29:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_26" lemma=":" morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--:-->
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t_27" lemma="Den" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Den-->
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t_28" lemma="Haag" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Haag-->
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t_29" lemma="," morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--,-->
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t_30" lemma="van" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--van-->
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t_31" lemma="1919-07" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--1919-07-->
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t_32" lemma="tot" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--tot-->
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t_33" lemma="1919-07" morphofeat="TW(hoofd,vrij)" pos="noun" type="open">
+      <span>
+        <!--1919-07-->
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t_34" lemma="wonen" morphofeat="WW(pv,verl,ev)" pos="verb" type="open">
+      <span>
+        <!--Woonde-->
+        <target id="w35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_v-10183" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="ili-30-02649830-v" resource="WordNet"/>
+            <externalRef reference="fn:Cogitation" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:town_planning" resource="mcr"/>
+            <externalRef reference="mcr:inhabits" resource="mcr"/>
+            <externalRef reference="mcr:Location;Relation;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:05" resource="mcr"/>
+            <externalRef reference="fn-role:Time" resource="fn-role"/>
+            <externalRef reference="fn-role:Topic" resource="fn-role"/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="fn:inhabit" resource="fn"/>
+            <externalRef reference="mcr:ili-30-02649830-v" resource="mcr"/>
+            <externalRef reference="fn:Residence" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:town_planning" resource="mcr"/>
+            <externalRef reference="mcr:inhabits" resource="mcr"/>
+            <externalRef reference="mcr:Location;Relation;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:05" resource="mcr"/>
+            <externalRef reference="eso:BeingAtAPlace" resource="eso"/>
+            <externalRef reference="FN_PARTIAL;ESO3" resource=""/>
+          </externalRef>
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-02649830-v" resource="mcr"/>
+            <externalRef reference="fn:Residence" resource="fn"/>
+            <externalRef reference="mcr:0" resource="mcr"/>
+            <externalRef reference="mcr:town_planning" resource="mcr"/>
+            <externalRef reference="mcr:inhabits" resource="mcr"/>
+            <externalRef reference="mcr:Location;Relation;" resource="mcr"/>
+            <externalRef reference="mcr:stative" resource="mcr"/>
+            <externalRef reference="mcr:be%2:42:05" resource="mcr"/>
+            <externalRef reference="eso:BeingAtAPlace" resource="eso"/>
+            <externalRef reference="fn-pb-role:Resident#0" resource="fn-pb-role"/>
+            <externalRef reference="fn:dwell.v" resource="fn"/>
+            <externalRef reference="fn-pb-role:Location#1" resource="fn-pb-role"/>
+            <externalRef reference="fn:live.v" resource="fn"/>
+            <externalRef reference="fn-role:Location" resource="fn-role"/>
+            <externalRef reference="FN_PARTIAL;SYNONYMS;ESO3" resource=""/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_35" lemma="aan" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--aan-->
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t_36" lemma="de" morphofeat="LID(bep,stan,rest)" pos="det" type="close">
+      <span>
+        <!--de-->
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t_37" lemma="van" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--van-->
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t_38" lemma="den" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--den-->
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t_39" lemma="eijndestraat" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--eijndestraat-->
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t_40" lemma="3" morphofeat="TW(hoofd,vrij)" pos="num" type="open">
+      <span>
+        <!--3-->
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t_41" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w42"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <!--- - / - -(,,Boekbinder)-->
+    <dep from="t_1" rfunc="-- / --" to="t_0"/>
+    <!--hd/app(Boekbinder,ontwerper)-->
+    <dep from="t_0" rfunc="hd/app" to="t_2"/>
+    <!--- - / - -(,,.)-->
+    <dep from="t_1" rfunc="-- / --" to="t_3"/>
+    <!--- - / - -(:,,)-->
+    <dep from="t_5" rfunc="-- / --" to="t_9"/>
+    <!--- - / - -(:,Geboren)-->
+    <dep from="t_5" rfunc="-- / --" to="t_4"/>
+    <!--tag/nucl(Geboren,12)-->
+    <dep from="t_4" rfunc="tag/nucl" to="t_6"/>
+    <!--mwp/mwp(12,juni)-->
+    <dep from="t_6" rfunc="mwp/mwp" to="t_7"/>
+    <!--mwp/mwp(12,1880)-->
+    <dep from="t_6" rfunc="mwp/mwp" to="t_8"/>
+    <!--dp/dp(12,Amsterdam)-->
+    <dep from="t_6" rfunc="dp/dp" to="t_10"/>
+    <!--- - / - -(:,.)-->
+    <dep from="t_5" rfunc="-- / --" to="t_11"/>
+    <!--- - / - -(:,,)-->
+    <dep from="t_13" rfunc="-- / --" to="t_17"/>
+    <!--- - / - -(:,Gestorven)-->
+    <dep from="t_13" rfunc="-- / --" to="t_12"/>
+    <!--dp/dp(Gestorven,10)-->
+    <dep from="t_12" rfunc="dp/dp" to="t_14"/>
+    <!--mwp/mwp(10,maart)-->
+    <dep from="t_14" rfunc="mwp/mwp" to="t_15"/>
+    <!--mwp/mwp(10,1926)-->
+    <dep from="t_14" rfunc="mwp/mwp" to="t_16"/>
+    <!--dp/dp(10,Den)-->
+    <dep from="t_14" rfunc="dp/dp" to="t_18"/>
+    <!--mwp/mwp(Den,Haag)-->
+    <dep from="t_18" rfunc="mwp/mwp" to="t_19"/>
+    <!--- - / - -(:,.)-->
+    <dep from="t_13" rfunc="-- / --" to="t_20"/>
+    <!--- - / - -(:,,)-->
+    <dep from="t_26" rfunc="-- / --" to="t_29"/>
+    <!--- - / - -(:,aan)-->
+    <dep from="t_26" rfunc="-- / --" to="t_35"/>
+    <!--- - / - -(:,de)-->
+    <dep from="t_26" rfunc="-- / --" to="t_36"/>
+    <!--- - / - -(:,en)-->
+    <dep from="t_26" rfunc="-- / --" to="t_22"/>
+    <!--crd/cnj(en,Plaats)-->
+    <dep from="t_22" rfunc="crd/cnj" to="t_21"/>
+    <!--crd/cnj(en,periode)-->
+    <dep from="t_22" rfunc="crd/cnj" to="t_23"/>
+    <!--hd/vc(periode,van)-->
+    <dep from="t_23" rfunc="hd/vc" to="t_24"/>
+    <!--cmp/body(van,werkzaamheid)-->
+    <dep from="t_24" rfunc="cmp/body" to="t_25"/>
+    <!--nucl/sat(werkzaamheid,Woonde)-->
+    <dep from="t_25" rfunc="nucl/sat" to="t_34"/>
+    <!--hd/su(Woonde,Den)-->
+    <dep from="t_34" rfunc="hd/su" to="t_27"/>
+    <!--mwp/mwp(Den,Haag)-->
+    <dep from="t_27" rfunc="mwp/mwp" to="t_28"/>
+    <!--hd/mod(Den,van)-->
+    <dep from="t_27" rfunc="hd/mod" to="t_30"/>
+    <!--hd/obj1(van,1919-07)-->
+    <dep from="t_30" rfunc="hd/obj1" to="t_31"/>
+    <!--hd/mod(1919-07,tot)-->
+    <dep from="t_31" rfunc="hd/mod" to="t_32"/>
+    <!--hd/obj1(tot,1919-07)-->
+    <dep from="t_32" rfunc="hd/obj1" to="t_33"/>
+    <!--dp/dp(en,van)-->
+    <dep from="t_22" rfunc="dp/dp" to="t_37"/>
+    <!--hd/obj1(van,den)-->
+    <dep from="t_37" rfunc="hd/obj1" to="t_38"/>
+    <!--mwp/mwp(den,eijndestraat)-->
+    <dep from="t_38" rfunc="mwp/mwp" to="t_39"/>
+    <!--hd/app(den,3)-->
+    <dep from="t_38" rfunc="hd/app" to="t_40"/>
+    <!--- - / - -(:,.)-->
+    <dep from="t_26" rfunc="-- / --" to="t_41"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="LOC">
+      <references>
+        <span>
+          <!--Amsterdam-->
+          <target id="t_10"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.9999536" reference="http://nl.dbpedia.org/resource/Amsterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.9999536" reference="http://dbpedia.org/resource/Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="3.242668E-5" reference="http://nl.dbpedia.org/resource/Amsterdam_(gemeente)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="3.242668E-5" reference="http://dbpedia.org/resource/Government_of_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="7.4822515E-6" reference="http://nl.dbpedia.org/resource/Station_Amsterdam_Centraal" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="7.4822515E-6" reference="http://dbpedia.org/resource/Amsterdam_Centraal_railway_station" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="5.4374627E-6" reference="http://nl.dbpedia.org/resource/Universiteit_van_Amsterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="5.4374627E-6" reference="http://dbpedia.org/resource/University_of_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="5.8216756E-7" reference="http://nl.dbpedia.org/resource/Amsterdamse_tram" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="5.8216756E-7" reference="http://dbpedia.org/resource/Trams_in_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="3.5970905E-7" reference="http://nl.dbpedia.org/resource/Amsterdamsche_Hockey_&amp;_Bandy_Club" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="3.5970905E-7" reference="http://dbpedia.org/resource/Amsterdamsche_Hockey_&amp;_Bandy_Club" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="4.6693735E-8" reference="http://nl.dbpedia.org/resource/Straatprostitutie_in_Amsterdam" reftype="nl" resource="spotlight_v1"/>
+        <externalRef confidence="3.005725E-8" reference="http://nl.dbpedia.org/resource/ABC_Amsterdam" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="3.005725E-8" reference="http://dbpedia.org/resource/ABC_Amsterdam" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.6526066E-9" reference="http://nl.dbpedia.org/resource/Geschiedenis_van_de_prostitutie_in_Amsterdam" reftype="nl" resource="spotlight_v1"/>
+        <externalRef confidence="1.3103519E-9" reference="http://nl.dbpedia.org/resource/Amsterdam_(schip)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.3103519E-9" reference="http://dbpedia.org/resource/Amsterdam_(VOC_ship)" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="LOC">
+      <references>
+        <span>
+          <!--Den Haag-->
+          <target id="t_18"/>
+          <target id="t_19"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.99997437" reference="http://nl.dbpedia.org/resource/Den_Haag" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.99997437" reference="http://dbpedia.org/resource/The_Hague" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.0496458E-5" reference="http://nl.dbpedia.org/resource/Station_Den_Haag_Centraal" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="2.0496458E-5" reference="http://dbpedia.org/resource/Den_Haag_Centraal_railway_station" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.0114135E-6" reference="http://nl.dbpedia.org/resource/Haagse_tram" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="2.0114135E-6" reference="http://dbpedia.org/resource/Trams_in_The_Hague" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.6875503E-6" reference="http://nl.dbpedia.org/resource/Koninklijk_Conservatorium_(Den_Haag)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.6875503E-6" reference="http://dbpedia.org/resource/Royal_Conservatory_of_The_Hague" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.1571852E-6" reference="http://nl.dbpedia.org/resource/Station_Den_Haag_HS" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.1571852E-6" reference="http://dbpedia.org/resource/Den_Haag_Hollands_Spoor_railway_station" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.2908929E-7" reference="http://nl.dbpedia.org/resource/Buitenhof_(Den_Haag)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.2908929E-7" reference="http://dbpedia.org/resource/Buitenhof_(The_Hague)" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="7.096737E-8" reference="http://nl.dbpedia.org/resource/Paleis_Kneuterdijk" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="7.096737E-8" reference="http://dbpedia.org/resource/Kneuterdijk_Palace" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="5.033615E-8" reference="http://nl.dbpedia.org/resource/Binnenhof_(Den_Haag)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="5.033615E-8" reference="http://dbpedia.org/resource/Binnenhof" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.9537366E-8" reference="http://nl.dbpedia.org/resource/De_Uithof_(Den_Haag)" reftype="nl" resource="spotlight_v1"/>
+        <externalRef confidence="2.4991792E-8" reference="http://nl.dbpedia.org/resource/Prostitutie_in_Den_Haag" reftype="nl" resource="spotlight_v1"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="LOC">
+      <references>
+        <span>
+          <!--Den Haag-->
+          <target id="t_27"/>
+          <target id="t_28"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.99997437" reference="http://nl.dbpedia.org/resource/Den_Haag" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.99997437" reference="http://dbpedia.org/resource/The_Hague" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.0496458E-5" reference="http://nl.dbpedia.org/resource/Station_Den_Haag_Centraal" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="2.0496458E-5" reference="http://dbpedia.org/resource/Den_Haag_Centraal_railway_station" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.0114135E-6" reference="http://nl.dbpedia.org/resource/Haagse_tram" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="2.0114135E-6" reference="http://dbpedia.org/resource/Trams_in_The_Hague" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.6875503E-6" reference="http://nl.dbpedia.org/resource/Koninklijk_Conservatorium_(Den_Haag)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.6875503E-6" reference="http://dbpedia.org/resource/Royal_Conservatory_of_The_Hague" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.1571852E-6" reference="http://nl.dbpedia.org/resource/Station_Den_Haag_HS" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.1571852E-6" reference="http://dbpedia.org/resource/Den_Haag_Hollands_Spoor_railway_station" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="1.2908929E-7" reference="http://nl.dbpedia.org/resource/Buitenhof_(Den_Haag)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="1.2908929E-7" reference="http://dbpedia.org/resource/Buitenhof_(The_Hague)" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="7.096737E-8" reference="http://nl.dbpedia.org/resource/Paleis_Kneuterdijk" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="7.096737E-8" reference="http://dbpedia.org/resource/Kneuterdijk_Palace" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="5.033615E-8" reference="http://nl.dbpedia.org/resource/Binnenhof_(Den_Haag)" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="5.033615E-8" reference="http://dbpedia.org/resource/Binnenhof" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+        <externalRef confidence="2.9537366E-8" reference="http://nl.dbpedia.org/resource/De_Uithof_(Den_Haag)" reftype="nl" resource="spotlight_v1"/>
+        <externalRef confidence="2.4991792E-8" reference="http://nl.dbpedia.org/resource/Prostitutie_in_Den_Haag" reftype="nl" resource="spotlight_v1"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <!--Geboren-->
+        <target id="t_4"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <!--Gestorven-->
+        <target id="t_12"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <!--Woonde-->
+        <target id="t_34"/>
+      </span>
+    </coref>
+  </coreferences>
+  <constituency>
+    <tree>
+      <t id="ter0">
+        <!--,-->
+        <span>
+          <target id="t_1"/>
+        </span>
+      </t>
+      <t id="ter1">
+        <!--Boekbinder-->
+        <span>
+          <target id="t_0"/>
+        </span>
+      </t>
+      <t id="ter2">
+        <!--ontwerper-->
+        <span>
+          <target id="t_2"/>
+        </span>
+      </t>
+      <t id="ter3">
+        <!--.-->
+        <span>
+          <target id="t_3"/>
+        </span>
+      </t>
+      <nt id="nter0" label="top"/>
+      <nt id="nter1" label="punct"/>
+      <nt id="nter2" label="np"/>
+      <nt id="nter3" label="name"/>
+      <nt id="nter4" label="noun"/>
+      <nt id="nter5" label="punct"/>
+      <edge from="nter1" id="tre0" to="nter0"/>
+      <edge from="ter0" id="tre1" to="nter1"/>
+      <edge from="nter2" id="tre2" to="nter0"/>
+      <edge from="nter3" head="yes" id="tre3" to="nter2"/>
+      <edge from="ter1" id="tre4" to="nter3"/>
+      <edge from="nter4" id="tre5" to="nter2"/>
+      <edge from="ter2" id="tre6" to="nter4"/>
+      <edge from="nter5" id="tre7" to="nter0"/>
+      <edge from="ter3" id="tre8" to="nter5"/>
+    </tree>
+    <tree>
+      <t id="ter4">
+        <!--:-->
+        <span>
+          <target id="t_5"/>
+        </span>
+      </t>
+      <t id="ter5">
+        <!--,-->
+        <span>
+          <target id="t_9"/>
+        </span>
+      </t>
+      <t id="ter6">
+        <!--Geboren-->
+        <span>
+          <target id="t_4"/>
+        </span>
+      </t>
+      <t id="ter7">
+        <!--12-->
+        <span>
+          <target id="t_6"/>
+        </span>
+      </t>
+      <t id="ter8">
+        <!--juni-->
+        <span>
+          <target id="t_7"/>
+        </span>
+      </t>
+      <t id="ter9">
+        <!--1880-->
+        <span>
+          <target id="t_8"/>
+        </span>
+      </t>
+      <t id="ter10">
+        <!--Amsterdam-->
+        <span>
+          <target id="t_10"/>
+        </span>
+      </t>
+      <t id="ter11">
+        <!--.-->
+        <span>
+          <target id="t_11"/>
+        </span>
+      </t>
+      <nt id="nter6" label="top"/>
+      <nt id="nter7" label="punct"/>
+      <nt id="nter8" label="punct"/>
+      <nt id="nter9" label="du"/>
+      <nt id="nter10" label="adj"/>
+      <nt id="nter11" label="du"/>
+      <nt id="nter12" label="mwu"/>
+      <nt id="nter13" label="noun"/>
+      <nt id="nter14" label="noun"/>
+      <nt id="nter15" label="noun"/>
+      <nt id="nter16" label="name"/>
+      <nt id="nter17" label="punct"/>
+      <edge from="nter7" id="tre9" to="nter6"/>
+      <edge from="ter4" id="tre10" to="nter7"/>
+      <edge from="nter8" id="tre11" to="nter6"/>
+      <edge from="ter5" id="tre12" to="nter8"/>
+      <edge from="nter9" id="tre13" to="nter6"/>
+      <edge from="nter10" id="tre14" to="nter9"/>
+      <edge from="ter6" id="tre15" to="nter10"/>
+      <edge from="nter11" id="tre16" to="nter9"/>
+      <edge from="nter12" id="tre17" to="nter11"/>
+      <edge from="nter13" id="tre18" to="nter12"/>
+      <edge from="ter7" id="tre19" to="nter13"/>
+      <edge from="nter14" id="tre20" to="nter12"/>
+      <edge from="ter8" id="tre21" to="nter14"/>
+      <edge from="nter15" id="tre22" to="nter12"/>
+      <edge from="ter9" id="tre23" to="nter15"/>
+      <edge from="nter16" id="tre24" to="nter11"/>
+      <edge from="ter10" id="tre25" to="nter16"/>
+      <edge from="nter17" id="tre26" to="nter6"/>
+      <edge from="ter11" id="tre27" to="nter17"/>
+    </tree>
+    <tree>
+      <t id="ter12">
+        <!--:-->
+        <span>
+          <target id="t_13"/>
+        </span>
+      </t>
+      <t id="ter13">
+        <!--,-->
+        <span>
+          <target id="t_17"/>
+        </span>
+      </t>
+      <t id="ter14">
+        <!--Gestorven-->
+        <span>
+          <target id="t_12"/>
+        </span>
+      </t>
+      <t id="ter15">
+        <!--10-->
+        <span>
+          <target id="t_14"/>
+        </span>
+      </t>
+      <t id="ter16">
+        <!--maart-->
+        <span>
+          <target id="t_15"/>
+        </span>
+      </t>
+      <t id="ter17">
+        <!--1926-->
+        <span>
+          <target id="t_16"/>
+        </span>
+      </t>
+      <t id="ter18">
+        <!--Den-->
+        <span>
+          <target id="t_18"/>
+        </span>
+      </t>
+      <t id="ter19">
+        <!--Haag-->
+        <span>
+          <target id="t_19"/>
+        </span>
+      </t>
+      <t id="ter20">
+        <!--.-->
+        <span>
+          <target id="t_20"/>
+        </span>
+      </t>
+      <nt id="nter18" label="top"/>
+      <nt id="nter19" label="punct"/>
+      <nt id="nter20" label="punct"/>
+      <nt id="nter21" label="du"/>
+      <nt id="nter22" label="adj"/>
+      <nt id="nter23" label="du"/>
+      <nt id="nter24" label="mwu"/>
+      <nt id="nter25" label="noun"/>
+      <nt id="nter26" label="noun"/>
+      <nt id="nter27" label="noun"/>
+      <nt id="nter28" label="mwu"/>
+      <nt id="nter29" label="name"/>
+      <nt id="nter30" label="name"/>
+      <nt id="nter31" label="punct"/>
+      <edge from="nter19" id="tre28" to="nter18"/>
+      <edge from="ter12" id="tre29" to="nter19"/>
+      <edge from="nter20" id="tre30" to="nter18"/>
+      <edge from="ter13" id="tre31" to="nter20"/>
+      <edge from="nter21" id="tre32" to="nter18"/>
+      <edge from="nter22" id="tre33" to="nter21"/>
+      <edge from="ter14" id="tre34" to="nter22"/>
+      <edge from="nter23" id="tre35" to="nter21"/>
+      <edge from="nter24" id="tre36" to="nter23"/>
+      <edge from="nter25" id="tre37" to="nter24"/>
+      <edge from="ter15" id="tre38" to="nter25"/>
+      <edge from="nter26" id="tre39" to="nter24"/>
+      <edge from="ter16" id="tre40" to="nter26"/>
+      <edge from="nter27" id="tre41" to="nter24"/>
+      <edge from="ter17" id="tre42" to="nter27"/>
+      <edge from="nter28" id="tre43" to="nter23"/>
+      <edge from="nter29" id="tre44" to="nter28"/>
+      <edge from="ter18" id="tre45" to="nter29"/>
+      <edge from="nter30" id="tre46" to="nter28"/>
+      <edge from="ter19" id="tre47" to="nter30"/>
+      <edge from="nter31" id="tre48" to="nter18"/>
+      <edge from="ter20" id="tre49" to="nter31"/>
+    </tree>
+    <tree>
+      <t id="ter21">
+        <!--:-->
+        <span>
+          <target id="t_26"/>
+        </span>
+      </t>
+      <t id="ter22">
+        <!--,-->
+        <span>
+          <target id="t_29"/>
+        </span>
+      </t>
+      <t id="ter23">
+        <!--aan-->
+        <span>
+          <target id="t_35"/>
+        </span>
+      </t>
+      <t id="ter24">
+        <!--de-->
+        <span>
+          <target id="t_36"/>
+        </span>
+      </t>
+      <t id="ter25">
+        <!--Plaats-->
+        <span>
+          <target id="t_21"/>
+        </span>
+      </t>
+      <t id="ter26">
+        <!--en-->
+        <span>
+          <target id="t_22"/>
+        </span>
+      </t>
+      <t id="ter27">
+        <!--periode-->
+        <span>
+          <target id="t_23"/>
+        </span>
+      </t>
+      <t id="ter28">
+        <!--van-->
+        <span>
+          <target id="t_24"/>
+        </span>
+      </t>
+      <t id="ter29">
+        <!--werkzaamheid-->
+        <span>
+          <target id="t_25"/>
+        </span>
+      </t>
+      <t id="ter30">
+        <!--Den-->
+        <span>
+          <target id="t_27"/>
+        </span>
+      </t>
+      <t id="ter31">
+        <!--Haag-->
+        <span>
+          <target id="t_28"/>
+        </span>
+      </t>
+      <t id="ter32">
+        <!--van-->
+        <span>
+          <target id="t_30"/>
+        </span>
+      </t>
+      <t id="ter33">
+        <!--1919-07-->
+        <span>
+          <target id="t_31"/>
+        </span>
+      </t>
+      <t id="ter34">
+        <!--tot-->
+        <span>
+          <target id="t_32"/>
+        </span>
+      </t>
+      <t id="ter35">
+        <!--1919-07-->
+        <span>
+          <target id="t_33"/>
+        </span>
+      </t>
+      <t id="ter36">
+        <!--Woonde-->
+        <span>
+          <target id="t_34"/>
+        </span>
+      </t>
+      <t id="ter37">
+        <!--van-->
+        <span>
+          <target id="t_37"/>
+        </span>
+      </t>
+      <t id="ter38">
+        <!--den-->
+        <span>
+          <target id="t_38"/>
+        </span>
+      </t>
+      <t id="ter39">
+        <!--eijndestraat-->
+        <span>
+          <target id="t_39"/>
+        </span>
+      </t>
+      <t id="ter40">
+        <!--3-->
+        <span>
+          <target id="t_40"/>
+        </span>
+      </t>
+      <t id="ter41">
+        <!--.-->
+        <span>
+          <target id="t_41"/>
+        </span>
+      </t>
+      <nt id="nter32" label="top"/>
+      <nt id="nter33" label="punct"/>
+      <nt id="nter34" label="punct"/>
+      <nt id="nter35" label="prep"/>
+      <nt id="nter36" label="det"/>
+      <nt id="nter37" label="du"/>
+      <nt id="nter38" label="conj"/>
+      <nt id="nter39" label="noun"/>
+      <nt id="nter40" label="vg"/>
+      <nt id="nter41" label="np"/>
+      <nt id="nter42" label="noun"/>
+      <nt id="nter43" label="svan"/>
+      <nt id="nter44" label="comp"/>
+      <nt id="nter45" label="du"/>
+      <nt id="nter46" label="noun"/>
+      <nt id="nter47" label="smain"/>
+      <nt id="nter48" label="np"/>
+      <nt id="nter49" label="mwu"/>
+      <nt id="nter50" label="name"/>
+      <nt id="nter51" label="name"/>
+      <nt id="nter52" label="pp"/>
+      <nt id="nter53" label="prep"/>
+      <nt id="nter54" label="np"/>
+      <nt id="nter55" label="noun"/>
+      <nt id="nter56" label="pp"/>
+      <nt id="nter57" label="prep"/>
+      <nt id="nter58" label="noun"/>
+      <nt id="nter59" label="verb"/>
+      <nt id="nter60" label="pp"/>
+      <nt id="nter61" label="prep"/>
+      <nt id="nter62" label="np"/>
+      <nt id="nter63" label="mwu"/>
+      <nt id="nter64" label="name"/>
+      <nt id="nter65" label="name"/>
+      <nt id="nter66" label="num"/>
+      <nt id="nter67" label="punct"/>
+      <edge from="nter33" id="tre50" to="nter32"/>
+      <edge from="ter21" id="tre51" to="nter33"/>
+      <edge from="nter34" id="tre52" to="nter32"/>
+      <edge from="ter22" id="tre53" to="nter34"/>
+      <edge from="nter35" id="tre54" to="nter32"/>
+      <edge from="ter23" id="tre55" to="nter35"/>
+      <edge from="nter36" id="tre56" to="nter32"/>
+      <edge from="ter24" id="tre57" to="nter36"/>
+      <edge from="nter37" id="tre58" to="nter32"/>
+      <edge from="nter38" id="tre59" to="nter37"/>
+      <edge from="nter39" id="tre60" to="nter38"/>
+      <edge from="ter25" id="tre61" to="nter39"/>
+      <edge from="nter40" id="tre62" to="nter38"/>
+      <edge from="ter26" id="tre63" to="nter40"/>
+      <edge from="nter41" id="tre64" to="nter38"/>
+      <edge from="nter42" head="yes" id="tre65" to="nter41"/>
+      <edge from="ter27" id="tre66" to="nter42"/>
+      <edge from="nter43" id="tre67" to="nter41"/>
+      <edge from="nter44" id="tre68" to="nter43"/>
+      <edge from="ter28" id="tre69" to="nter44"/>
+      <edge from="nter45" id="tre70" to="nter43"/>
+      <edge from="nter46" id="tre71" to="nter45"/>
+      <edge from="ter29" id="tre72" to="nter46"/>
+      <edge from="nter47" id="tre73" to="nter45"/>
+      <edge from="nter48" id="tre74" to="nter47"/>
+      <edge from="nter49" id="tre75" to="nter48"/>
+      <edge from="nter50" id="tre76" to="nter49"/>
+      <edge from="ter30" id="tre77" to="nter50"/>
+      <edge from="nter51" id="tre78" to="nter49"/>
+      <edge from="ter31" id="tre79" to="nter51"/>
+      <edge from="nter52" id="tre80" to="nter48"/>
+      <edge from="nter53" head="yes" id="tre81" to="nter52"/>
+      <edge from="ter32" id="tre82" to="nter53"/>
+      <edge from="nter54" id="tre83" to="nter52"/>
+      <edge from="nter55" head="yes" id="tre84" to="nter54"/>
+      <edge from="ter33" id="tre85" to="nter55"/>
+      <edge from="nter56" id="tre86" to="nter54"/>
+      <edge from="nter57" head="yes" id="tre87" to="nter56"/>
+      <edge from="ter34" id="tre88" to="nter57"/>
+      <edge from="nter58" id="tre89" to="nter56"/>
+      <edge from="ter35" id="tre90" to="nter58"/>
+      <edge from="nter59" head="yes" id="tre91" to="nter47"/>
+      <edge from="ter36" id="tre92" to="nter59"/>
+      <edge from="nter60" id="tre93" to="nter37"/>
+      <edge from="nter61" head="yes" id="tre94" to="nter60"/>
+      <edge from="ter37" id="tre95" to="nter61"/>
+      <edge from="nter62" id="tre96" to="nter60"/>
+      <edge from="nter63" id="tre97" to="nter62"/>
+      <edge from="nter64" id="tre98" to="nter63"/>
+      <edge from="ter38" id="tre99" to="nter64"/>
+      <edge from="nter65" id="tre100" to="nter63"/>
+      <edge from="ter39" id="tre101" to="nter65"/>
+      <edge from="nter66" id="tre102" to="nter62"/>
+      <edge from="ter40" id="tre103" to="nter66"/>
+      <edge from="nter67" id="tre104" to="nter32"/>
+      <edge from="ter41" id="tre105" to="nter67"/>
+    </tree>
+  </constituency>
+  <srl>
+    <predicate id="pr1">
+      <!--Geboren-->
+      <externalReferences>
+        <externalRef confidence="0.08779996" reference="c_546682" resource="Cornetto"/>
+      </externalReferences>
+      <span>
+        <target id="t_4"/>
+      </span>
+      <role id="r1" semRole="Arg2">
+        <!--12 juni 1880 , Amsterdam-->
+        <span>
+          <target head="yes" id="t_6"/>
+          <target id="t_7"/>
+          <target id="t_8"/>
+          <target id="t_9"/>
+          <target id="t_10"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr2">
+      <!--Gestorven-->
+      <span>
+        <target id="t_12"/>
+      </span>
+      <role id="r2" semRole="Arg2">
+        <!--10 maart 1926 , Den Haag-->
+        <span>
+          <target head="yes" id="t_14"/>
+          <target id="t_15"/>
+          <target id="t_16"/>
+          <target id="t_17"/>
+          <target id="t_18"/>
+          <target id="t_19"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr3">
+      <!--Woonde-->
+      <externalReferences>
+        <externalRef reference="r_v-10183" resource="Cornetto"/>
+        <externalRef reference="ili-30-02649830-v" resource="WordNet"/>
+      </externalReferences>
+      <span>
+        <target id="t_34"/>
+      </span>
+      <role id="r3" semRole="Arg0">
+        <!--Den Haag , van 1919-07 tot 1919-07-->
+        <span>
+          <target head="yes" id="t_27"/>
+          <target id="t_28"/>
+          <target id="t_29"/>
+          <target id="t_30"/>
+          <target id="t_31"/>
+          <target id="t_32"/>
+          <target id="t_33"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+  <timeExpressions>
+    <timex3 id="tx1" type="DATE" value="1880-06-12">
+      <!--12 juni 1880-->
+      <span>
+        <target id="w7"/>
+        <target id="w8"/>
+        <target id="w9"/>
+      </span>
+    </timex3>
+    <timex3 id="tx2" type="DATE" value="1926-03-10">
+      <!--10 maart 1926-->
+      <span>
+        <target id="w15"/>
+        <target id="w16"/>
+        <target id="w17"/>
+      </span>
+    </timex3>
+    <timex3 id="tx3" type="DATE" value="1919">
+      <!--1919-07-->
+      <span>
+        <target id="w32"/>
+      </span>
+    </timex3>
+    <timex3 id="tx4" type="DATE" value="1907">
+      <!--1919-07-->
+      <span>
+        <target id="w32"/>
+      </span>
+    </timex3>
+    <timex3 id="tx5" type="DATE" value="1919">
+      <!--1919-07-->
+      <span>
+        <target id="w34"/>
+      </span>
+    </timex3>
+    <timex3 id="tx6" type="DATE" value="1907">
+      <!--1919-07-->
+      <span>
+        <target id="w34"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+</NAF>

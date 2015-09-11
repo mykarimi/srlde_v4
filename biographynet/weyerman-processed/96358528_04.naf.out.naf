@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NAF version="v3" xml:lang="nl">
+  <nafHeader>
+    <fileDesc creationtime="T00:00:00Z" filename="96358528_04.xml"/>
+    <public publicId="96358528_04" uri="biographynet/data/96358528_04.xml"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2015-07-14T23:28:46+0200" endTimestamp="2015-07-14T23:28:46+0200" hostname="kyoto.vu.nl" name="ixa-pipe-tok-nl" version="1.8.0-56f83ce4b61680346f15e5d4e6de6293764f7383"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp beginTimestamp="2015-07-14T23:29:15CEST" endTimestamp="2015-07-14T23:29:15CEST" hostname="kyoto" name="SoNaR-News-trained-SRL" timestamp="2015-07-14T23:29:15CEST" version="1.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2015-07-14T23:28:52CEST" endTimestamp="2015-07-14T23:28:52CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T23:28:52CEST" version="0.1_05sept2014"/>
+      <lp beginTimestamp="2015-07-14T23:29:09CEST" endTimestamp="2015-07-14T23:29:09CEST" hostname="kyoto" name="VUA-DSC-WSD" timestamp="2015-07-14T23:29:09CEST" version="1.2#20jan2015"/>
+      <lp beginTimestamp="2015-07-14T23:29:14+0200" endTimestamp="2015-07-14T23:29:15+0200" hostname="kyoto.vu.nl" name="vua-predicate-matrix-tagger" timestamp="2015-07-14T23:29:14+0200" version="1.0"/>
+      <lp beginTimestamp="2015-07-14T23:29:23+0200" endTimestamp="2015-07-14T23:29:23+0200" hostname="kyoto.vu.nl" name="vua-framenet-srl-tagger" timestamp="2015-07-14T23:29:23+0200" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2015-07-14T23:29:22+0200" endTimestamp="2015-07-14T23:29:22+0200" hostname="kyoto.vu.nl" name="vua-event-coref-intradoc-wn-sim" timestamp="2015-07-14T23:29:22+0200" version="2.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2015-07-14T23:28:52CEST" endTimestamp="2015-07-14T23:28:52CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T23:28:52CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituents">
+      <lp beginTimestamp="2015-07-14T23:28:52CEST" endTimestamp="2015-07-14T23:28:52CEST" hostname="kyoto" name="Morphosyntactic parser based on Alpino" timestamp="2015-07-14T23:28:52CEST" version="0.1_05sept2014"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2015-07-14T23:28:58+0200" endTimestamp="2015-07-14T23:29:07+0200" hostname="kyoto.vu.nl" name="ixa-pipe-nerc-nl-clusters-conll02" version="1.3.6-9927fdb32d943f0aa9748a656958af99eeb1f5b7"/>
+      <lp beginTimestamp="2015-07-14T23:29:10+0200" endTimestamp="2015-07-14T23:29:11+0200" hostname="kyoto.vu.nl" name="ixa-pipe-ned-nl" version="1.1.1-d35d4df5cb71940bf642bb1a83e2b5b7584010df"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="timeExpressions">
+      <lp beginTimestamp="2015-07-14T23:28:52+0200" endTimestamp="2015-07-14T23:28:55+0200" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-2a2999bb6558401326bf88bda44e9a9c404492c6"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>PALAMEDESZ. JUNIOR. Wy gedenken gevalliglyk aan dien Palamedes, dewylons gisteren een stuk wiert getoont van den ouden PalamedesPalamedesz. wiens leeven zy hebben beschreevenin</raw>
+  <text>
+    <wf id="w1" length="10" offset="0" para="1" sent="1">PALAMEDESZ</wf>
+    <wf id="w2" length="1" offset="10" para="1" sent="1">.</wf>
+    <wf id="w3" length="6" offset="12" para="1" sent="2">JUNIOR</wf>
+    <wf id="w4" length="1" offset="18" para="1" sent="2">.</wf>
+    <wf id="w5" length="2" offset="20" para="1" sent="3">Wy</wf>
+    <wf id="w6" length="8" offset="23" para="1" sent="3">gedenken</wf>
+    <wf id="w7" length="11" offset="32" para="1" sent="3">gevalliglyk</wf>
+    <wf id="w8" length="3" offset="44" para="1" sent="3">aan</wf>
+    <wf id="w9" length="4" offset="48" para="1" sent="3">dien</wf>
+    <wf id="w10" length="9" offset="53" para="1" sent="3">Palamedes</wf>
+    <wf id="w11" length="1" offset="62" para="1" sent="3">,</wf>
+    <wf id="w12" length="8" offset="64" para="1" sent="3">dewylons</wf>
+    <wf id="w13" length="8" offset="73" para="1" sent="3">gisteren</wf>
+    <wf id="w14" length="3" offset="82" para="1" sent="3">een</wf>
+    <wf id="w15" length="4" offset="86" para="1" sent="3">stuk</wf>
+    <wf id="w16" length="5" offset="91" para="1" sent="3">wiert</wf>
+    <wf id="w17" length="7" offset="97" para="1" sent="3">getoont</wf>
+    <wf id="w18" length="3" offset="105" para="1" sent="3">van</wf>
+    <wf id="w19" length="3" offset="109" para="1" sent="3">den</wf>
+    <wf id="w20" length="5" offset="113" para="1" sent="3">ouden</wf>
+    <wf id="w21" length="20" offset="119" para="1" sent="3">PalamedesPalamedesz.</wf>
+    <wf id="w22" length="5" offset="140" para="1" sent="3">wiens</wf>
+    <wf id="w23" length="6" offset="146" para="1" sent="3">leeven</wf>
+    <wf id="w24" length="2" offset="153" para="1" sent="3">zy</wf>
+    <wf id="w25" length="6" offset="156" para="1" sent="3">hebben</wf>
+    <wf id="w26" length="13" offset="163" para="1" sent="3">beschreevenin</wf>
+  </text>
+  <terms>
+    <term id="t_0" lemma="PALAMEDESZ" morphofeat="N(eigen,ev,basis,zijd,stan)" pos="name" type="open">
+      <span>
+        <!--PALAMEDESZ-->
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t_1" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t_2" lemma="JUNIOR" morphofeat="N(eigen,ev,basis,zijd,stan)" pos="name" type="open">
+      <span>
+        <!--JUNIOR-->
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t_3" lemma="." morphofeat="LET()" pos="punct" type="open">
+      <span>
+        <!--.-->
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t_4" lemma="wij" morphofeat="VNW(pers,pron,nomin,vol,1,mv)" pos="pron" type="close">
+      <span>
+        <!--Wy-->
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t_5" lemma="gedenken" morphofeat="WW(pv,tgw,mv)" pos="verb" type="open">
+      <span>
+        <!--gedenken-->
+        <target id="w6"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_v-2878" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="ili-30-00611481-v" resource="WordNet"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Communication" resource="mcr"/>
+            <externalRef reference="mcr:Dynamic;Mental;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:commemorate%2:31:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef reference="d_v-87734" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00609683-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:psychology" resource="mcr"/>
+            <externalRef reference="mcr:Remembering" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Mental;UnboundedEvent;" resource="mcr"/>
+            <externalRef reference="mcr:cognition" resource="mcr"/>
+            <externalRef reference="mcr:think_of%2:31:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+      </externalReferences>
+    </term>
+    <term id="t_6" lemma="gevalliglyk" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--gevalliglyk-->
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t_7" lemma="aan" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--aan-->
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t_8" lemma="die" morphofeat="VNW(aanw,det,stan,prenom,zonder,rest)" pos="det" type="close">
+      <span>
+        <!--dien-->
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t_9" lemma="Palamedes" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--Palamedes-->
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t_10" lemma="," morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--,-->
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t_11" lemma="dewylons" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--dewylons-->
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t_12" lemma="gisteren" morphofeat="BW()" pos="adv" type="open">
+      <span>
+        <!--gisteren-->
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t_13" lemma="een" morphofeat="LID(onbep,stan,agr)" pos="det" type="close">
+      <span>
+        <!--een-->
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t_14" lemma="stuk" morphofeat="N(soort,ev,basis,onz,stan)" pos="noun" type="open">
+      <span>
+        <!--stuk-->
+        <target id="w15"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.010330761" reference="r_n-36460" resource="Cornetto"/>
+        <externalRef confidence="0.034706317" reference="r_n-36453" resource="Cornetto"/>
+        <externalRef confidence="0.033756346" reference="r_n-36452" resource="Cornetto"/>
+        <externalRef confidence="0.025559058" reference="r_n-36455" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00940384-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Communication" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Communication;Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:communication" resource="mcr"/>
+            <externalRef reference="mcr:express%2:32:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.017428376" reference="r_n-36454" resource="Cornetto"/>
+        <externalRef confidence="0.029181182" reference="r_n-36457" resource="Cornetto">
+          <externalRef resource="predicate-matrix1.1">
+            <externalRef reference="mcr:ili-30-00940384-v" resource="mcr"/>
+            <externalRef reference="mcr:1" resource="mcr"/>
+            <externalRef reference="mcr:factotum" resource="mcr"/>
+            <externalRef reference="mcr:Communication" resource="mcr"/>
+            <externalRef reference="mcr:Agentive;Communication;Dynamic;" resource="mcr"/>
+            <externalRef reference="mcr:communication" resource="mcr"/>
+            <externalRef reference="mcr:express%2:32:00" resource="mcr"/>
+          </externalRef>
+        </externalRef>
+        <externalRef confidence="0.018426202" reference="r_n-36459" resource="Cornetto"/>
+        <externalRef confidence="0.04356619" reference="r_n-36458" resource="Cornetto"/>
+        <externalRef confidence="0.006835387" reference="d_n-277137" resource="Cornetto"/>
+        <externalRef reference="r_n-36456" resource="Cornetto"/>
+        <externalRef reference="r_n-36461" resource="Cornetto"/>
+        <externalRef reference="d_n-277134" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_15" lemma="wiert" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--wiert-->
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t_16" lemma="getoond" morphofeat="WW(vd,vrij,zonder)" pos="adj" type="open">
+      <span>
+        <!--getoont-->
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t_17" lemma="van" morphofeat="VZ(init)" pos="prep" type="close">
+      <span>
+        <!--van-->
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t_18" lemma="den" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--den-->
+        <target id="w19"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="r_n-10661" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_19" lemma="oud" morphofeat="ADJ(nom,basis,met-e,mv-n)" pos="adj" type="open">
+      <span>
+        <!--ouden-->
+        <target id="w20"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.077874616" reference="r_a-13941" resource="Cornetto"/>
+        <externalRef confidence="0.08389717" reference="r_a-13942" resource="Cornetto"/>
+        <externalRef confidence="0.032662656" reference="r_a-14166" resource="Cornetto"/>
+        <externalRef confidence="0.26699638" reference="r_a-14165" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_20" lemma="PalamedesPalamedesz." morphofeat="N(eigen,ev,basis,zijd,stan)" pos="name" type="open">
+      <span>
+        <!--PalamedesPalamedesz.-->
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t_21" lemma="wiens" morphofeat="VNW(vb,pron,gen,vol,3m,ev)" pos="det" type="close">
+      <span>
+        <!--wiens-->
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t_22" lemma="leeven" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--leeven-->
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t_23" lemma="zy" morphofeat="SPEC(deeleigen)" pos="name" type="open">
+      <span>
+        <!--zy-->
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t_24" lemma="hebben" morphofeat="WW(pv,tgw,mv)" pos="verb" type="open">
+      <span>
+        <!--hebben-->
+        <target id="w25"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="0.018208044" reference="c_545606" resource="Cornetto"/>
+        <externalRef confidence="0.0127139455" reference="c_545607" resource="Cornetto"/>
+        <externalRef confidence="0.004574962" reference="r_v-3128" resource="Cornetto"/>
+        <externalRef confidence="0.01979224" reference="r_v-3129" resource="Cornetto"/>
+        <externalRef confidence="0.28906587" reference="r_v-3125" resource="Cornetto"/>
+        <externalRef confidence="0.049172346" reference="r_v-3126" resource="Cornetto"/>
+        <externalRef reference="r_v-3127" resource="Cornetto"/>
+        <externalRef reference="grammatical" resource=""/>
+      </externalReferences>
+    </term>
+    <term id="t_25" lemma="beschreevenin" morphofeat="N(soort,ev,basis,zijd,stan)" pos="noun" type="open">
+      <span>
+        <!--beschreevenin-->
+        <target id="w26"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <!--- - / - -(PALAMEDESZ,.)-->
+    <dep from="t_0" rfunc="-- / --" to="t_1"/>
+    <!--- - / - -(JUNIOR,.)-->
+    <dep from="t_2" rfunc="-- / --" to="t_3"/>
+    <!--hd/su(gedenken,Wy)-->
+    <dep from="t_5" rfunc="hd/su" to="t_4"/>
+    <!--hd/obj1(gedenken,gevalliglyk)-->
+    <dep from="t_5" rfunc="hd/obj1" to="t_6"/>
+    <!--hd/mod(gevalliglyk,aan)-->
+    <dep from="t_6" rfunc="hd/mod" to="t_7"/>
+    <!--hd/obj1(aan,Palamedes)-->
+    <dep from="t_7" rfunc="hd/obj1" to="t_9"/>
+    <!--mwp/mwp(Palamedes,,)-->
+    <dep from="t_9" rfunc="mwp/mwp" to="t_10"/>
+    <!--mwp/mwp(Palamedes,dewylons)-->
+    <dep from="t_9" rfunc="mwp/mwp" to="t_11"/>
+    <!--hd/det(Palamedes,dien)-->
+    <dep from="t_9" rfunc="hd/det" to="t_8"/>
+    <!--hd/mod(gedenken,gisteren)-->
+    <dep from="t_5" rfunc="hd/mod" to="t_12"/>
+    <!--hd/mod(gedenken,stuk)-->
+    <dep from="t_5" rfunc="hd/mod" to="t_14"/>
+    <!--hd/det(stuk,een)-->
+    <dep from="t_14" rfunc="hd/det" to="t_13"/>
+    <!--dp/dp(gedenken,wiert)-->
+    <dep from="t_5" rfunc="dp/dp" to="t_15"/>
+    <!--hd/mod(wiert,getoont)-->
+    <dep from="t_15" rfunc="hd/mod" to="t_16"/>
+    <!--hd/mod(getoont,van)-->
+    <dep from="t_16" rfunc="hd/mod" to="t_17"/>
+    <!--hd/obj1(van,den)-->
+    <dep from="t_17" rfunc="hd/obj1" to="t_18"/>
+    <!--dp/dp(wiert,ouden)-->
+    <dep from="t_15" rfunc="dp/dp" to="t_19"/>
+    <!--hd/app(ouden,PalamedesPalamedesz.)-->
+    <dep from="t_19" rfunc="hd/app" to="t_20"/>
+    <!--dp/dp(gedenken,leeven)-->
+    <dep from="t_5" rfunc="dp/dp" to="t_22"/>
+    <!--mwp/mwp(leeven,zy)-->
+    <dep from="t_22" rfunc="mwp/mwp" to="t_23"/>
+    <!--hd/det(leeven,wiens)-->
+    <dep from="t_22" rfunc="hd/det" to="t_21"/>
+    <!--whd/body(leeven,hebben)-->
+    <dep from="t_22" rfunc="whd/body" to="t_24"/>
+    <!--hd/su(hebben,leeven)-->
+    <dep from="t_24" rfunc="hd/su" to="t_22"/>
+    <!--hd/obj1(hebben,beschreevenin)-->
+    <dep from="t_24" rfunc="hd/obj1" to="t_25"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="ORG">
+      <references>
+        <span>
+          <!--Palamedes-->
+          <target id="t_9"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef confidence="0.9999948" reference="http://nl.dbpedia.org/resource/Palamedes" reftype="nl" resource="spotlight_v1">
+          <externalRef confidence="0.9999948" reference="http://dbpedia.org/resource/Palamedes" reftype="en" resource="wikipedia-db-nlEn"/>
+        </externalRef>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <!--hebben-->
+        <target id="t_24"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <!--gedenken-->
+        <target id="t_5"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <!--getoont-->
+        <target id="t_16"/>
+      </span>
+    </coref>
+  </coreferences>
+  <constituency>
+    <tree>
+      <t id="ter0">
+        <!--PALAMEDESZ-->
+        <span>
+          <target id="t_0"/>
+        </span>
+      </t>
+      <t id="ter1">
+        <!--.-->
+        <span>
+          <target id="t_1"/>
+        </span>
+      </t>
+      <nt id="nter0" label="top"/>
+      <nt id="nter1" label="name"/>
+      <nt id="nter2" label="punct"/>
+      <edge from="nter1" id="tre0" to="nter0"/>
+      <edge from="ter0" id="tre1" to="nter1"/>
+      <edge from="nter2" id="tre2" to="nter0"/>
+      <edge from="ter1" id="tre3" to="nter2"/>
+    </tree>
+    <tree>
+      <t id="ter2">
+        <!--JUNIOR-->
+        <span>
+          <target id="t_2"/>
+        </span>
+      </t>
+      <t id="ter3">
+        <!--.-->
+        <span>
+          <target id="t_3"/>
+        </span>
+      </t>
+      <nt id="nter3" label="top"/>
+      <nt id="nter4" label="name"/>
+      <nt id="nter5" label="punct"/>
+      <edge from="nter4" id="tre4" to="nter3"/>
+      <edge from="ter2" id="tre5" to="nter4"/>
+      <edge from="nter5" id="tre6" to="nter3"/>
+      <edge from="ter3" id="tre7" to="nter5"/>
+    </tree>
+    <tree>
+      <t id="ter4">
+        <!--Wy-->
+        <span>
+          <target id="t_4"/>
+        </span>
+      </t>
+      <t id="ter5">
+        <!--gedenken-->
+        <span>
+          <target id="t_5"/>
+        </span>
+      </t>
+      <t id="ter6">
+        <!--gevalliglyk-->
+        <span>
+          <target id="t_6"/>
+        </span>
+      </t>
+      <t id="ter7">
+        <!--aan-->
+        <span>
+          <target id="t_7"/>
+        </span>
+      </t>
+      <t id="ter8">
+        <!--dien-->
+        <span>
+          <target id="t_8"/>
+        </span>
+      </t>
+      <t id="ter9">
+        <!--Palamedes-->
+        <span>
+          <target id="t_9"/>
+        </span>
+      </t>
+      <t id="ter10">
+        <!--,-->
+        <span>
+          <target id="t_10"/>
+        </span>
+      </t>
+      <t id="ter11">
+        <!--dewylons-->
+        <span>
+          <target id="t_11"/>
+        </span>
+      </t>
+      <t id="ter12">
+        <!--gisteren-->
+        <span>
+          <target id="t_12"/>
+        </span>
+      </t>
+      <t id="ter13">
+        <!--een-->
+        <span>
+          <target id="t_13"/>
+        </span>
+      </t>
+      <t id="ter14">
+        <!--stuk-->
+        <span>
+          <target id="t_14"/>
+        </span>
+      </t>
+      <t id="ter15">
+        <!--wiert-->
+        <span>
+          <target id="t_15"/>
+        </span>
+      </t>
+      <t id="ter16">
+        <!--getoont-->
+        <span>
+          <target id="t_16"/>
+        </span>
+      </t>
+      <t id="ter17">
+        <!--van-->
+        <span>
+          <target id="t_17"/>
+        </span>
+      </t>
+      <t id="ter18">
+        <!--den-->
+        <span>
+          <target id="t_18"/>
+        </span>
+      </t>
+      <t id="ter19">
+        <!--ouden-->
+        <span>
+          <target id="t_19"/>
+        </span>
+      </t>
+      <t id="ter20">
+        <!--PalamedesPalamedesz.-->
+        <span>
+          <target id="t_20"/>
+        </span>
+      </t>
+      <t id="ter21">
+        <!--wiens-->
+        <span>
+          <target id="t_21"/>
+        </span>
+      </t>
+      <t id="ter22">
+        <!--leeven-->
+        <span>
+          <target id="t_22"/>
+        </span>
+      </t>
+      <t id="ter23">
+        <!--zy-->
+        <span>
+          <target id="t_23"/>
+        </span>
+      </t>
+      <t id="ter24">
+        <!--hebben-->
+        <span>
+          <target id="t_24"/>
+        </span>
+      </t>
+      <t id="ter25">
+        <!--beschreevenin-->
+        <span>
+          <target id="t_25"/>
+        </span>
+      </t>
+      <nt id="nter6" label="top"/>
+      <nt id="nter7" label="du"/>
+      <nt id="nter8" label="smain"/>
+      <nt id="nter9" label="pron"/>
+      <nt id="nter10" label="verb"/>
+      <nt id="nter11" label="np"/>
+      <nt id="nter12" label="noun"/>
+      <nt id="nter13" label="pp"/>
+      <nt id="nter14" label="prep"/>
+      <nt id="nter15" label="np"/>
+      <nt id="nter16" label="det"/>
+      <nt id="nter17" label="mwu"/>
+      <nt id="nter18" label="name"/>
+      <nt id="nter19" label="name"/>
+      <nt id="nter20" label="name"/>
+      <nt id="nter21" label="adv"/>
+      <nt id="nter22" label="np"/>
+      <nt id="nter23" label="det"/>
+      <nt id="nter24" label="noun"/>
+      <nt id="nter25" label="du"/>
+      <nt id="nter26" label="np"/>
+      <nt id="nter27" label="noun"/>
+      <nt id="nter28" label="ppart"/>
+      <nt id="nter29" label="adj"/>
+      <nt id="nter30" label="pp"/>
+      <nt id="nter31" label="prep"/>
+      <nt id="nter32" label="noun"/>
+      <nt id="nter33" label="np"/>
+      <nt id="nter34" label="adj"/>
+      <nt id="nter35" label="name"/>
+      <nt id="nter36" label="whq"/>
+      <nt id="nter37" label="np"/>
+      <nt id="nter38" label="det"/>
+      <nt id="nter39" label="mwu"/>
+      <nt id="nter40" label="name"/>
+      <nt id="nter41" label="name"/>
+      <nt id="nter42" label="sv1"/>
+      <nt id="nter43" label="verb"/>
+      <nt id="nter44" label="noun"/>
+      <edge from="nter7" id="tre8" to="nter6"/>
+      <edge from="nter8" id="tre9" to="nter7"/>
+      <edge from="nter9" id="tre10" to="nter8"/>
+      <edge from="ter4" id="tre11" to="nter9"/>
+      <edge from="nter10" head="yes" id="tre12" to="nter8"/>
+      <edge from="ter5" id="tre13" to="nter10"/>
+      <edge from="nter11" id="tre14" to="nter8"/>
+      <edge from="nter12" head="yes" id="tre15" to="nter11"/>
+      <edge from="ter6" id="tre16" to="nter12"/>
+      <edge from="nter13" id="tre17" to="nter11"/>
+      <edge from="nter14" head="yes" id="tre18" to="nter13"/>
+      <edge from="ter7" id="tre19" to="nter14"/>
+      <edge from="nter15" id="tre20" to="nter13"/>
+      <edge from="nter16" id="tre21" to="nter15"/>
+      <edge from="ter8" id="tre22" to="nter16"/>
+      <edge from="nter17" id="tre23" to="nter15"/>
+      <edge from="nter18" id="tre24" to="nter17"/>
+      <edge from="ter9" id="tre25" to="nter18"/>
+      <edge from="nter19" id="tre26" to="nter17"/>
+      <edge from="ter10" id="tre27" to="nter19"/>
+      <edge from="nter20" id="tre28" to="nter17"/>
+      <edge from="ter11" id="tre29" to="nter20"/>
+      <edge from="nter21" id="tre30" to="nter8"/>
+      <edge from="ter12" id="tre31" to="nter21"/>
+      <edge from="nter22" id="tre32" to="nter8"/>
+      <edge from="nter23" id="tre33" to="nter22"/>
+      <edge from="ter13" id="tre34" to="nter23"/>
+      <edge from="nter24" head="yes" id="tre35" to="nter22"/>
+      <edge from="ter14" id="tre36" to="nter24"/>
+      <edge from="nter25" id="tre37" to="nter7"/>
+      <edge from="nter26" id="tre38" to="nter25"/>
+      <edge from="nter27" head="yes" id="tre39" to="nter26"/>
+      <edge from="ter15" id="tre40" to="nter27"/>
+      <edge from="nter28" id="tre41" to="nter26"/>
+      <edge from="nter29" head="yes" id="tre42" to="nter28"/>
+      <edge from="ter16" id="tre43" to="nter29"/>
+      <edge from="nter30" id="tre44" to="nter28"/>
+      <edge from="nter31" head="yes" id="tre45" to="nter30"/>
+      <edge from="ter17" id="tre46" to="nter31"/>
+      <edge from="nter32" id="tre47" to="nter30"/>
+      <edge from="ter18" id="tre48" to="nter32"/>
+      <edge from="nter33" id="tre49" to="nter25"/>
+      <edge from="nter34" head="yes" id="tre50" to="nter33"/>
+      <edge from="ter19" id="tre51" to="nter34"/>
+      <edge from="nter35" id="tre52" to="nter33"/>
+      <edge from="ter20" id="tre53" to="nter35"/>
+      <edge from="nter36" id="tre54" to="nter7"/>
+      <edge from="nter37" id="tre55" to="nter36"/>
+      <edge from="nter38" id="tre56" to="nter37"/>
+      <edge from="ter21" id="tre57" to="nter38"/>
+      <edge from="nter39" id="tre58" to="nter37"/>
+      <edge from="nter40" id="tre59" to="nter39"/>
+      <edge from="ter22" id="tre60" to="nter40"/>
+      <edge from="nter41" id="tre61" to="nter39"/>
+      <edge from="ter23" id="tre62" to="nter41"/>
+      <edge from="nter42" id="tre63" to="nter36"/>
+      <edge from="nter43" head="yes" id="tre64" to="nter42"/>
+      <edge from="ter24" id="tre65" to="nter43"/>
+      <edge from="nter44" id="tre66" to="nter42"/>
+      <edge from="ter25" id="tre67" to="nter44"/>
+    </tree>
+  </constituency>
+  <srl>
+    <predicate id="pr1">
+      <!--hebben-->
+      <externalReferences>
+        <externalRef confidence="0.018208044" reference="c_545606" resource="Cornetto"/>
+      </externalReferences>
+      <span>
+        <target id="t_24"/>
+      </span>
+      <role id="r1" semRole="Arg1">
+        <!--beschreevenin-->
+        <span>
+          <target head="yes" id="t_25"/>
+        </span>
+      </role>
+      <role id="r3" semRole="Arg0">
+        <!--wiens leeven zy hebben beschreevenin-->
+        <span>
+          <target id="t_21"/>
+          <target head="yes" id="t_22"/>
+          <target id="t_23"/>
+          <target id="t_24"/>
+          <target id="t_25"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr2">
+      <!--gedenken-->
+      <externalReferences>
+        <externalRef reference="r_v-2878" resource="Cornetto"/>
+        <externalRef reference="ili-30-00611481-v" resource="WordNet"/>
+      </externalReferences>
+      <span>
+        <target id="t_5"/>
+      </span>
+      <role id="r2" semRole="Arg1">
+        <!--wiens leeven zy hebben beschreevenin-->
+        <span>
+          <target id="t_21"/>
+          <target head="yes" id="t_22"/>
+          <target id="t_23"/>
+          <target id="t_24"/>
+          <target id="t_25"/>
+        </span>
+      </role>
+      <role id="r4" semRole="ArgM-EXT">
+        <!--een stuk-->
+        <span>
+          <target id="t_13"/>
+          <target head="yes" id="t_14"/>
+        </span>
+      </role>
+      <role id="r5" semRole="ArgM-TMP">
+        <!--gisteren-->
+        <span>
+          <target head="yes" id="t_12"/>
+        </span>
+      </role>
+      <role id="r7" semRole="Arg1">
+        <!--wiert getoont van den ouden PalamedesPalamedesz.-->
+        <span>
+          <target head="yes" id="t_15"/>
+          <target id="t_16"/>
+          <target id="t_17"/>
+          <target id="t_18"/>
+          <target id="t_19"/>
+          <target id="t_20"/>
+        </span>
+      </role>
+      <role id="r8" semRole="Arg1">
+        <!--gevalliglyk aan dien Palamedes , dewylons-->
+        <span>
+          <target head="yes" id="t_6"/>
+          <target id="t_7"/>
+          <target id="t_8"/>
+          <target id="t_9"/>
+          <target id="t_10"/>
+          <target id="t_11"/>
+        </span>
+      </role>
+      <role id="r9" semRole="Arg0">
+        <!--Wy-->
+        <span>
+          <target head="yes" id="t_4"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr3">
+      <!--getoont-->
+      <span>
+        <target id="t_16"/>
+      </span>
+      <role id="r6" semRole="Arg3">
+        <!--van den-->
+        <span>
+          <target head="yes" id="t_17"/>
+          <target id="t_18"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+  <timeExpressions>
+    <timex3 id="tx1" type="DATE" value="2015-07-13">
+      <!--gisteren-->
+      <span>
+        <target id="w13"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+</NAF>
