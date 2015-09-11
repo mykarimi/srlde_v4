@@ -23,13 +23,13 @@ Commands;
 
 1. Download the complete github repository with the follwing command:
 		
-		- git clone https://github.com/mykarimi/srl_de_v4
+		- git clone https://github.com/mykarimi/srlde_v4
 
-2. Go to the folder my_folder/srl_de_v4/new_extraction/
+2. Go to the folder my_folder/srlde_v4/new_extraction/
 
 3. Place the file(s) that you want to proces in the folder input
 
 4. Run the script extract_srl_de_4_trial.py via the terminal with the next command
 
-		- python my_folder/srl_de_v4/new_extraction/extract_srl_de_v4_trial.py
+		- python my_folder/srlde_v4/new_extraction/srld_ext_v4_trial.py
 
