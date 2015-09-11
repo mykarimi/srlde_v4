@@ -1,40 +1,40 @@
-verdiepte,r102,AM-TMP,gedurende een half jaar te Berlijn
-zijn,r4,#,Hij
-was,r56,ArgM-TMP,Na het behalen van de akte ( 1896
-Gehuwd,r9,Arg1,met Daniela Annette de Graaf
-prevaleren,r112,Arg2,boven het hogere belang van de landbouw
-gepubliceerd,r47,Arg0,door H.W.C
-bleef,r114,ArgM-TMP,altijd
-wist,r52,AM-TMP,steeds
-verwerven,r57,Arg1,respect
-duldde,r86,ArgM-NEG,niet
-aanvaarden,r77,AM-TMP,tot leraar in de landhuishoudkunde aan de Rijks Hoogere Land- , Tuin - en Boschbouwschool te Wageningen ( 1906
-miskende,r87,Arg0,hij
-vergen,r31,Arg1,teveel
-was,r24,#,zeer geliefd bij zijn studenten
-maken,r23,Arg1,de theorie
-won,r46,A1,het vertrouwen
-volgde,r44,Arg1,zijn benoeming tot hoogleraar
-vermeld,r32,#,Van de vele commissies en besturen waarin hij zitting had
-volgde,r61,AM-LOC,In het kader van zijn daarop aansluitende studie voor de middelbare akte landbouwkunde
-werd,r73,#,hij
-aansluitende,r40,ArgM-LOC,daarop
-stond,r54,AM-MNR,Met zijn sympathie
-treffen,r78,Arg1,de juiste toon
-behalen,r80,#,het
-had,r50,Arg1,waarin
-geboren,r58,Arg2,Uit dit huwelijk
-overlijden,r55,#,zijn
-stelde,r104,Arg1,hem
-was,r75,#,Koenen
-stelde,r66,ArgM-MNR,Politiek
-studeerde,r82,A3,van 1889-1893
-dienen,r76,Arg1,Van de vele commissies en besturen waarin hij zitting had , dienen vermeld te worden
-muntten,r98,#,uit
-bewerkte,r83,ArgM-MNR,grondig
-gaat,r108,Arg2,onze land- , tuin - en boschbouw
-geschreven,r110,A1,rapporten
-was,r106,#,lid van de Staatscommissie voor den Landbouw , waarvan hij een van de meest gezaghebbende leden werd en waarvoor een aantal grondig bewerkte rapporten door hem werden geschreven
-blijkt,r105,ArgM-ADV,duidelijk
-was,r101,#,blind voor noodzakelijke vernieuwingen
-had,r111,Arg1,vele vrienden
+verdiepte	AM-TMP	gedurende een half jaar te Berlijn
+zijn	#	Hij
+was	ArgM-TMP	Na het behalen van de akte ( 1896
+Gehuwd	Arg1	met Daniela Annette de Graaf
+prevaleren	Arg2	boven het hogere belang van de landbouw
+gepubliceerd	Arg0	door H.W.C
+bleef	ArgM-TMP	altijd
+wist	AM-TMP	steeds
+verwerven	Arg1	respect
+duldde	ArgM-NEG	niet
+aanvaarden	AM-TMP	tot leraar in de landhuishoudkunde aan de Rijks Hoogere Land- , Tuin - en Boschbouwschool te Wageningen ( 1906
+miskende	Arg0	hij
+vergen	Arg1	teveel
+was	#	zeer geliefd bij zijn studenten
+maken	Arg1	de theorie
+won	A1	het vertrouwen
+volgde	Arg1	zijn benoeming tot hoogleraar
+vermeld	#	Van de vele commissies en besturen waarin hij zitting had
+volgde	AM-LOC	In het kader van zijn daarop aansluitende studie voor de middelbare akte landbouwkunde
+werd	#	hij
+aansluitende	ArgM-LOC	daarop
+stond	AM-MNR	Met zijn sympathie
+treffen	Arg1	de juiste toon
+behalen	#	het
+had	Arg1	waarin
+geboren	Arg2	Uit dit huwelijk
+overlijden	#	zijn
+stelde	Arg1	hem
+was	#	Koenen
+stelde	ArgM-MNR	Politiek
+studeerde	A3	van 1889-1893
+dienen	Arg1	Van de vele commissies en besturen waarin hij zitting had , dienen vermeld te worden
+muntten	#	uit
+bewerkte	ArgM-MNR	grondig
+gaat	Arg2	onze land- , tuin - en boschbouw
+geschreven	A1	rapporten
+was	#	lid van de Staatscommissie voor den Landbouw , waarvan hij een van de meest gezaghebbende leden werd en waarvoor een aantal grondig bewerkte rapporten door hem werden geschreven
+blijkt	ArgM-ADV	duidelijk
+was	#	blind voor noodzakelijke vernieuwingen
+had	Arg1	vele vrienden

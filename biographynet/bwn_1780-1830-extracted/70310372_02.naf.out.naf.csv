@@ -1,61 +1,61 @@
-besloot,r6,A1,van acteren zijn beroep te maken
-was,r171,#,de dubbelrol ‘ Flodoardo ' en ‘ Aballino ' in het melodrama Aballino , de groote bandiet  ( 1793 ) van de Duitse toneelschrijver Heinrich Zschokke
-was,r163,#,geen
-was,r96,#,voor rede vatbaar
-wees,r10,AM-LOC,Rond 1803
-verdienden,r154,A0,Beiden
-vertolkte,r170,Arg0,te veel of te weinig
-had,r168,Arg1,Cruys evenals Snoek zitting
-bleek,r65,#,een bekwame generalist
-geschreven,r15,ArgM-TMP,in het najaar 1808
-gaven,r90,ArgM-LOC,op de gebeurtenissen op het toneel
-geprezen,r175,Arg0,door critici
-ging,r40,Arg1,Samuel
-tellen,r22,Arg1,vijf kinderen
-is,r25,ArgM-DIS,Wel
-kwam,r143,#,dat hij over enig talent beschikte
-had,r111,Arg1,De rol van ‘ Aballino
-speelde,r41,ArgM-TMP,Ruim twee jaar lang
-gekleurd,r109,Arg1,zijn nagedachtenis
-opgenomen,r107,ArgM-TMP,Toen na een aantal dagen duidelijk werd dat hij niet meer voor rede vatbaar was
-geboren,r149,Arg1,2 zoons en 5 dochters
-schoten,r66,A1,zijn echtgenote Cornelia Vlaming
-bespeelde,r72,Arg0,dat
-krijgen,r101,Arg1,zeven kinderen
-maakte,r178,Arg1,aan Cruys ' toneelloopbaan
-debuteerde,r151,ArgM-LOC,op de Amsterdamse planken in het treurspel Gaston en Bayard ( 1771 ) van Pierre-Laurent Buirette de Belloy
-stond,r131,A1,Hij
-was,r79,ArgM-TMP,jarenlang
-was,r160,#,Samuel Cruys
-lijkt,r60,Arg0,Het
-werd,r69,#,duidelijk
-maakte,r71,Arg0,Hij
-bereikte,r130,ArgM-NEG,nooit
-beschikte,r81,Arg0,hij
-spelen,r80,#,het
-trad,r120,AM-LOC,in het huwelijk
-moest,r86,#,op zoek naar een ander gezelschap
-vertolken,r87,#,van zogenaamde raisonneurs -  personages die commentaar gaven op de gebeurtenissen op het toneel
-beroemde,r85,ArgM-DIS,zo
-was,r128,ArgM-LOC,bij het ensemble van Ward Bingley , dat de Rotterdamse Schouwburg bespeelde
-Brieven,r91,ArgM-CAU,uit Amsteldam over het Nationaal Tooneel en de Nederlandse Letterkunde  ( Amsterdam 1808 ) 92-96
-maken,r103,Arg1,van acteren
-ging,r177,Arg2,Cruys
-bereden,r100,Arg0,die
-kreeg,r121,Arg1,een toeval
-verruilde,r172,Arg1,Cruys
-was,r114,#,beste rol
-is,r173,ArgM-ADV,Over zijn jongensjaren
-omschreven,r136,ArgM-TMP,Voortaan
-kregen,r129,#,van de titelrol in Vondels Gijsbrecht van Aemstel  ( 1637
-overleden,r124,ArgM-LOC,aldaar
-overleed,r127,ArgM-TMP,na een ziekbed van drie jaar
-doneren,r158,Arg1,een groot deel van de inkomsten uit het voorafgaande zomerseizoen
-uitmaakte,r134,#,waarvan
-promoveerde,r176,Arg0,hij
-geruïneerd,r138,Arg1,zijn stem erdoor
-had,r142,Arg1,engagement
-aangenomen,r147,AM-TMP,in 1784
-Gehuwd,r179,ArgM-TMP,omstreeks 1790
-begon,r159,A1,Cruys
-beschadigde,r164,Arg0,die
+besloot	A1	van acteren zijn beroep te maken
+was	#	de dubbelrol ‘ Flodoardo ' en ‘ Aballino ' in het melodrama Aballino , de groote bandiet  ( 1793 ) van de Duitse toneelschrijver Heinrich Zschokke
+was	#	geen
+was	#	voor rede vatbaar
+wees	AM-LOC	Rond 1803
+verdienden	A0	Beiden
+vertolkte	Arg0	te veel of te weinig
+had	Arg1	Cruys evenals Snoek zitting
+bleek	#	een bekwame generalist
+geschreven	ArgM-TMP	in het najaar 1808
+gaven	ArgM-LOC	op de gebeurtenissen op het toneel
+geprezen	Arg0	door critici
+ging	Arg1	Samuel
+tellen	Arg1	vijf kinderen
+is	ArgM-DIS	Wel
+kwam	#	dat hij over enig talent beschikte
+had	Arg1	De rol van ‘ Aballino
+speelde	ArgM-TMP	Ruim twee jaar lang
+gekleurd	Arg1	zijn nagedachtenis
+opgenomen	ArgM-TMP	Toen na een aantal dagen duidelijk werd dat hij niet meer voor rede vatbaar was
+geboren	Arg1	2 zoons en 5 dochters
+schoten	A1	zijn echtgenote Cornelia Vlaming
+bespeelde	Arg0	dat
+krijgen	Arg1	zeven kinderen
+maakte	Arg1	aan Cruys ' toneelloopbaan
+debuteerde	ArgM-LOC	op de Amsterdamse planken in het treurspel Gaston en Bayard ( 1771 ) van Pierre-Laurent Buirette de Belloy
+stond	A1	Hij
+was	ArgM-TMP	jarenlang
+was	#	Samuel Cruys
+lijkt	Arg0	Het
+werd	#	duidelijk
+maakte	Arg0	Hij
+bereikte	ArgM-NEG	nooit
+beschikte	Arg0	hij
+spelen	#	het
+trad	AM-LOC	in het huwelijk
+moest	#	op zoek naar een ander gezelschap
+vertolken	#	van zogenaamde raisonneurs -  personages die commentaar gaven op de gebeurtenissen op het toneel
+beroemde	ArgM-DIS	zo
+was	ArgM-LOC	bij het ensemble van Ward Bingley , dat de Rotterdamse Schouwburg bespeelde
+Brieven	ArgM-CAU	uit Amsteldam over het Nationaal Tooneel en de Nederlandse Letterkunde  ( Amsterdam 1808 ) 92-96
+maken	Arg1	van acteren
+ging	Arg2	Cruys
+bereden	Arg0	die
+kreeg	Arg1	een toeval
+verruilde	Arg1	Cruys
+was	#	beste rol
+is	ArgM-ADV	Over zijn jongensjaren
+omschreven	ArgM-TMP	Voortaan
+kregen	#	van de titelrol in Vondels Gijsbrecht van Aemstel  ( 1637
+overleden	ArgM-LOC	aldaar
+overleed	ArgM-TMP	na een ziekbed van drie jaar
+doneren	Arg1	een groot deel van de inkomsten uit het voorafgaande zomerseizoen
+uitmaakte	#	waarvan
+promoveerde	Arg0	hij
+geruïneerd	Arg1	zijn stem erdoor
+had	Arg1	engagement
+aangenomen	AM-TMP	in 1784
+Gehuwd	ArgM-TMP	omstreeks 1790
+begon	A1	Cruys
+beschadigde	Arg0	die

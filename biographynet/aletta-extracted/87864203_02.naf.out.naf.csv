@@ -1,21 +1,21 @@
-was,r5,#,alwaar
-werd,r36,ArgM-LOC,bij de Stichting Surinaamse Vrouwen Bijlmermeer ( SVB
-werken,r22,AM-LOC,bij het departement Pelajaran
-wekten,r17,ArgM-DIS,echter
-ontmoetten,r40,ArgM-LOC,waar
-geboren,r20,ArgM-LOC,in Suriname op de koffie - en later cacaoplantage ' La Prevoyance
-ging,r49,ArgM-TMP,Na de Tweede Wereldoorlog
-was,r57,#,de dochter van Edmund Elstak ( onderwijzer ) en Christina Laagland
-keerde,r56,AM-DIR,naar Nederland
-keerde,r45,A0,zij
-vertrok,r59,AM-CAU,Vanwege de economische crisis
-volgde,r54,AM-MNR,later
-werken,r58,AM-LOC,In Nederland
-was,r65,#,Zij
-vertrok,r63,AM-PRD,als toeriste
-vertrok,r68,A0,hij
-geworden,r31,#,onafhankelijk
-uitgereikt,r50,ArgM-PNC,Voor haar activiteiten
-gewerkt,r69,Arg0,Asta
-was,r52,#,Haar vader
-volgde,r60,#,Asta de HBS-b , alwaar zij de enige Surinaamse was
+was	#	alwaar
+werd	ArgM-LOC	bij de Stichting Surinaamse Vrouwen Bijlmermeer ( SVB
+werken	AM-LOC	bij het departement Pelajaran
+wekten	ArgM-DIS	echter
+ontmoetten	ArgM-LOC	waar
+geboren	ArgM-LOC	in Suriname op de koffie - en later cacaoplantage ' La Prevoyance
+ging	ArgM-TMP	Na de Tweede Wereldoorlog
+was	#	de dochter van Edmund Elstak ( onderwijzer ) en Christina Laagland
+keerde	AM-DIR	naar Nederland
+keerde	A0	zij
+vertrok	AM-CAU	Vanwege de economische crisis
+volgde	AM-MNR	later
+werken	AM-LOC	In Nederland
+was	#	Zij
+vertrok	AM-PRD	als toeriste
+vertrok	A0	hij
+geworden	#	onafhankelijk
+uitgereikt	ArgM-PNC	Voor haar activiteiten
+gewerkt	Arg0	Asta
+was	#	Haar vader
+volgde	#	Asta de HBS-b , alwaar zij de enige Surinaamse was

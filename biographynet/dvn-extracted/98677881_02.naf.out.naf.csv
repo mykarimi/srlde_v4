@@ -1,29 +1,29 @@
-veilen,r1,Arg1,de kunst op 5 april 1697
-kreeg,r19,ArgM-TMP,een maand
-was,r16,ArgM-TMP,toen haar moeder overleed en veertien
-was,r47,#,negentien
-groeide,r85,ArgM-TMP,aan de Herengracht ( nr. 478
-bevatten,r88,Arg0,die
-geërfd,r45,ArgM-MNR,met zijn zogenaamde Schilderij-Kamer
-was,r83,#,haar zus
-kwam,r36,#,in bezit van Gerard Bors van Waveren , de zoon uit haar eerste huwelijk.NaslagwerkenWurzbach.LiteratuurG
-verloor,r18,Arg0,ze
-hertrouwde,r27,Arg0,Henriëtte Popta
-verkogt,r66,ArgM-MNR,met derzelver pryze zedert
-bracht,r89,AM-EXT,in totaal
-overleed,r30,Arg0,haar moeder overleed en veertien
-leefde,r51,ArgM-NEG,niet
-getrouwd,r34,Arg1,met een broer van Gerard
-was,r38,Arg0,haar man
-overleed,r41,ArgM-TMP,spoedig
-trouwde,r90,Arg0,Henriëtte Popta
-getekend,r53,A1,Het korte leven van Henriëtte Popta
-overlijden,r54,#,haar
-liet,r80,AM-LOC,aan haar tweede echtgenoot , die de kunst op 5 april 1697 liet veilen
-trouwde,r67,AM-TMP,nadat haar zus , getrouwd met een broer van Gerard , in het kraambed was gestorven
-is,r86,#,Het huis geheel links
-overleed,r63,Arg0,die
-geboren,r82,ArgM-CAU,uit ( 2 ) 1 zoon die jong overleed
-telde,r76,#,Lucas van Leyden , Philip Wouwerman , Jan van Goyen en Karel du Jardin
-bewoond,r75,Arg1,dat
-lysten,r74,#,van verscheyden nog in wezen zynde cabinetten deel 1  ( Den Haag 1752 ) 40-42
+veilen	Arg1	de kunst op 5 april 1697
+kreeg	ArgM-TMP	een maand
+was	ArgM-TMP	toen haar moeder overleed en veertien
+was	#	negentien
+groeide	ArgM-TMP	aan de Herengracht ( nr. 478
+bevatten	Arg0	die
+geërfd	ArgM-MNR	met zijn zogenaamde Schilderij-Kamer
+was	#	haar zus
+kwam	#	in bezit van Gerard Bors van Waveren , de zoon uit haar eerste huwelijk.NaslagwerkenWurzbach.LiteratuurG
+verloor	Arg0	ze
+hertrouwde	Arg0	Henriëtte Popta
+verkogt	ArgM-MNR	met derzelver pryze zedert
+bracht	AM-EXT	in totaal
+overleed	Arg0	haar moeder overleed en veertien
+leefde	ArgM-NEG	niet
+getrouwd	Arg1	met een broer van Gerard
+was	Arg0	haar man
+overleed	ArgM-TMP	spoedig
+trouwde	Arg0	Henriëtte Popta
+getekend	A1	Het korte leven van Henriëtte Popta
+overlijden	#	haar
+liet	AM-LOC	aan haar tweede echtgenoot , die de kunst op 5 april 1697 liet veilen
+trouwde	AM-TMP	nadat haar zus , getrouwd met een broer van Gerard , in het kraambed was gestorven
+is	#	Het huis geheel links
+overleed	Arg0	die
+geboren	ArgM-CAU	uit ( 2 ) 1 zoon die jong overleed
+telde	#	Lucas van Leyden , Philip Wouwerman , Jan van Goyen en Karel du Jardin
+bewoond	Arg1	dat
+lysten	#	van verscheyden nog in wezen zynde cabinetten deel 1  ( Den Haag 1752 ) 40-42

@@ -1,71 +1,71 @@
-verplaatste,r173,#,waardoor
-bracht,r7,Arg0,hij
-bracht,r185,ArgM-ADV,uiteindelijk
-wierp,r166,ArgM-LOC,Daarbij
-leven,r9,#,lang
-trouwde,r133,AM-TMP,in 1769
-was,r15,#,David Ricardo
-was,r210,#,Zo ongelukkig was hij dat hij van zijn familie was gescheiden
-was,r38,ArgM-DIS,Ook
-bracht,r215,ArgM-LOC,onder andere
-geboren,r217,ArgM-TMP,op 18 april 1872
-doen,r177,#,op
-gestuurd,r203,Arg2,naar Holland
-duren,r113,Arg2,nog tien jaar
-terugkeerden,r107,AM-LOC,waar
-vertrok,r101,A1,De vader van David Ricardo , Abraham Ricardo
-geboren,r40,ArgM-TMP,in 1699
-duren,r56,Arg1,Het
-bezocht,r163,Arg1,de Talmud Toraschool bezocht waar hij zich voorbereidde op zijn bar mitswa
-had,r36,#,David Ricardo
-hield,r204,#,er
-zou,r149,Arg1,niet meer lang te leven te hebben
-publiceren,r39,Arg1,zijn hoofdwerk " Principles of Political Economy and Taxation
-was,r42,#,van zijn familie was gescheiden
-stuurde,r186,AM-CAU,Daarom
-bleef,r96,Arg1,Ricardo
-stellen,r78,Arg3,voor het Engelse parlement
-bezocht,r187,ArgM-DIS,Ook
-hebben,r100,Arg1,lang te leven
-aanzette,r132,A0,die
-teruggetrokken,r212,A0,hij
-geboren,r54,Arg1,veel kinderen
-legde,r111,ArgM-MNR,Met dit werk en de erin gehanteerde methode
-voorbereidde,r156,ArgM-LOC,waar
-gestimuleerd,r135,ArgM-MNR,zich verkiesbaar te stellen voor het Engelse parlement
-trouwde,r84,A2,met de Quaker Priscilla Ann Wilkinson
-nam,r179,A1,kennis van Adam Smiths " Wealth of Nations " waardoor zijn interesse zich verplaatste naar de economie
-was,r67,#,Het
-deed,r86,A0,Hij
-Teruggekeerd,r73,ArgM-LOC,in Londen
-overleed,r76,ArgM-TMP,in 1823
-geboren,r198,ArgM-LOC,te Londen
-leren,r80,Arg1,Nederlands , Frans en Spaans
-was,r221,#,al in geen dertig jaar meer was geweest
-ontwikkelde,r207,AM-REC,zich
-assisteerde,r125,Arg1,zijn vader op de Londense effectenbeurs
-was,r106,ArgM-LOC,Daarin
-gaf,r138,Arg1,van een grote sociale bewogenheid
-aangekochte,r103,ArgM-TMP,in 1814
-begeleid,r192,ArgM-CAU,door zijn vrouw en twee jongste dochters
-gingen,r151,Arg4,onder andere naar Amsterdam , waar zij openlijk tot het jodendom terugkeerden
-opdeed,r120,A1,alleen kennis van het Nederlands
-ontving,r147,A0,Hij
-was,r168,#,die
-toetrad,r127,Arg1,tot het Lagerhuis
-is,r218,#,daar min of meer bij toeval gebleven
-was,r130,#,Het
-zeggen,r134,#,eigen
-waren,r162,#,zijn voorouders , vermoedelijk
-was,r158,#,Het
-richtte,r172,ArgM-TMP,Aanvankelijk
-leidde,r170,Arg1,Zijn huwelijk met een niet-joodse vrouw
-terugtrok,r200,AM-ADV,definitief
-gehanteerde,r178,ArgM-PRD,erin
-overleed,r208,Arg0,hij
-Gedwongen,r183,ArgM-CAU,door de omstandigheden
-schreef,r213,AM-TMP,om in 1817 zijn hoofdwerk " Principles of Political Economy and Taxation " te publiceren
-beschikte,r216,ArgM-LOC,reeds na enkele jaren
-publiceerde,r222,ArgM-LOC,in de " Morning Chronicle
-ontwikkelen,r206,AM-REC,zich
-logeerde,r211,Arg0,Hij
+verplaatste	#	waardoor
+bracht	Arg0	hij
+bracht	ArgM-ADV	uiteindelijk
+wierp	ArgM-LOC	Daarbij
+leven	#	lang
+trouwde	AM-TMP	in 1769
+was	#	David Ricardo
+was	#	Zo ongelukkig was hij dat hij van zijn familie was gescheiden
+was	ArgM-DIS	Ook
+bracht	ArgM-LOC	onder andere
+geboren	ArgM-TMP	op 18 april 1872
+doen	#	op
+gestuurd	Arg2	naar Holland
+duren	Arg2	nog tien jaar
+terugkeerden	AM-LOC	waar
+vertrok	A1	De vader van David Ricardo , Abraham Ricardo
+geboren	ArgM-TMP	in 1699
+duren	Arg1	Het
+bezocht	Arg1	de Talmud Toraschool bezocht waar hij zich voorbereidde op zijn bar mitswa
+had	#	David Ricardo
+hield	#	er
+zou	Arg1	niet meer lang te leven te hebben
+publiceren	Arg1	zijn hoofdwerk " Principles of Political Economy and Taxation
+was	#	van zijn familie was gescheiden
+stuurde	AM-CAU	Daarom
+bleef	Arg1	Ricardo
+stellen	Arg3	voor het Engelse parlement
+bezocht	ArgM-DIS	Ook
+hebben	Arg1	lang te leven
+aanzette	A0	die
+teruggetrokken	A0	hij
+geboren	Arg1	veel kinderen
+legde	ArgM-MNR	Met dit werk en de erin gehanteerde methode
+voorbereidde	ArgM-LOC	waar
+gestimuleerd	ArgM-MNR	zich verkiesbaar te stellen voor het Engelse parlement
+trouwde	A2	met de Quaker Priscilla Ann Wilkinson
+nam	A1	kennis van Adam Smiths " Wealth of Nations " waardoor zijn interesse zich verplaatste naar de economie
+was	#	Het
+deed	A0	Hij
+Teruggekeerd	ArgM-LOC	in Londen
+overleed	ArgM-TMP	in 1823
+geboren	ArgM-LOC	te Londen
+leren	Arg1	Nederlands , Frans en Spaans
+was	#	al in geen dertig jaar meer was geweest
+ontwikkelde	AM-REC	zich
+assisteerde	Arg1	zijn vader op de Londense effectenbeurs
+was	ArgM-LOC	Daarin
+gaf	Arg1	van een grote sociale bewogenheid
+aangekochte	ArgM-TMP	in 1814
+begeleid	ArgM-CAU	door zijn vrouw en twee jongste dochters
+gingen	Arg4	onder andere naar Amsterdam , waar zij openlijk tot het jodendom terugkeerden
+opdeed	A1	alleen kennis van het Nederlands
+ontving	A0	Hij
+was	#	die
+toetrad	Arg1	tot het Lagerhuis
+is	#	daar min of meer bij toeval gebleven
+was	#	Het
+zeggen	#	eigen
+waren	#	zijn voorouders , vermoedelijk
+was	#	Het
+richtte	ArgM-TMP	Aanvankelijk
+leidde	Arg1	Zijn huwelijk met een niet-joodse vrouw
+terugtrok	AM-ADV	definitief
+gehanteerde	ArgM-PRD	erin
+overleed	Arg0	hij
+Gedwongen	ArgM-CAU	door de omstandigheden
+schreef	AM-TMP	om in 1817 zijn hoofdwerk " Principles of Political Economy and Taxation " te publiceren
+beschikte	ArgM-LOC	reeds na enkele jaren
+publiceerde	ArgM-LOC	in de " Morning Chronicle
+ontwikkelen	AM-REC	zich
+logeerde	Arg0	Hij

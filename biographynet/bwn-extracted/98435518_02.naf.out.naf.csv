@@ -1,57 +1,57 @@
-deed,r62,ArgM-TMP,in 1914
-was,r87,ArgM-TMP,Vanaf september 1914
-is,r17,#,een van de belangrijkste wetenschapshistorici van ons land is geweest
-zijn,r55,ArgM-LOC,bij de Correspondance du P. Marin Mersenne
-gebaseerd,r18,Arg1,ses antécédents et ses explications ( 1936
-uitgeven,r148,Arg1,de 1604 à 1634 in vier kloeke delen
-stond,r147,#,in contact stond met P. Gassendi
-gebaseerd,r113,ArgM-TMP,voornamelijk
-geïnspireerd,r11,Arg0,die
-bijdragen,r10,Arg1,over tal van Hollandse en Zeeuwse geleerden , als Martinus Hortensius en personen uit de geslachten Metius en Lansberg
-deed,r149,Arg1,zijn doctoraal examen in 1913
-beschrijven,r33,#,het
-rechtvaardigen,r16,Arg1,een integrale uitgave ervan
-bleek,r105,#,Isaac Beeckman ( 1588-1637 ) , die de jonge Descartes had geïnspireerd en in contact stond met P. Gassendi , M. Mersenne en vele andere Hollandse , Franse en Engelse geleerden
-zijn,r145,ArgM-TMP,Ook in dit werk
-is,r91,#,een onontbeerlijke bron voor de geschiedenis van het cartésianisme en van de cultuur in het zeventiende-eeuwse Nederland
-begon,r24,A0,De Waard
-gepubliceerd,r25,Arg1,de aantekeningen
-verschenen,r26,#,van zijn hand
-voortgezet,r30,Arg1,de publikatie
-trof,r65,ArgM-MNR,met de weinig zeggende titel : ' Locu communi
-werd,r122,#,Hij
-werd,r82,#,internationale d' histoire des sciences te Parijs ( 1947 ) en zijn lidmaatschap van de redactiecommissie van 1947 tot 1957 van de Archives internationales de l' histoire des sciences
-kwam,r67,ArgM-TMP,om een integrale uitgave ervan te rechtvaardigen
-dacht,r150,ArgM-TMP,eertijds
-betreffend,r43,Arg1,vooral de zeventiende eeuw
-zijn,r47,#,het wetenschappelijk aantekeningenboek te zijn van de rector aan de Illustre School in Dordrecht
-toont,r118,Arg0,Het gehele wetenschapshistorische werk van deze bescheiden leraar
-zette,r56,AM-LOC,waarbij
-geboren,r73,Arg1,2 zoons
-studeerde,r115,AM-TMP,na het gymnasium te Middelburg
-genoot,r127,Arg1,een grote reputatie
-verscheen,r80,Arg1,De Waards Supplément aux tomes I-IV
-was,r84,#,een gehele of gedeeltelijke uitgave
-verwierf,r139,Arg0,hij
-waren,r136,Arg1,de Oeuvres
-verzorgen,r75,#,het
-erkend,r76,Arg1,zijn wetenschappelijke verdiensten
-geprofiteerd,r102,Arg0,hij
-gaan,r103,ArgM-LOC,na
-gehonoreerd,r141,Arg1,Een voorstel aan de Hollandsche Maatschappij der Wetenschappen te Haarlem voor subsidie
-ingezien,r134,AM-LOC,in De Gids
-verschenen,r98,Arg1,die
-behaalde,r117,ArgM-LOC,waar
-probeerde,r137,Arg1,de aantekeningen gepubliceerd te krijgen
-voerde,r97,Arg2,met tal van vooraanstaande tijdgenoten
-Gehuwd,r121,Arg1,met Helena Christina Schwarz
-ontdekte,r110,Arg0,Hij
-was,r109,ArgM-NEG,niet
-was,r112,#,die
-aansporen,r143,Arg2,van E.J
-benoemde,r144,Arg0,De Maatschappij
-transcriberen,r130,Arg1,de tekst
-bevat,r133,Arg0,Dit onvoltooide levenswerk van De Waard
-voorzien,r131,#,van een uitvoerige inleiding
-was,r142,#,het journaal
-zeggende,r146,ArgM-EXT,weinig
+deed	ArgM-TMP	in 1914
+was	ArgM-TMP	Vanaf september 1914
+is	#	een van de belangrijkste wetenschapshistorici van ons land is geweest
+zijn	ArgM-LOC	bij de Correspondance du P. Marin Mersenne
+gebaseerd	Arg1	ses antécédents et ses explications ( 1936
+uitgeven	Arg1	de 1604 à 1634 in vier kloeke delen
+stond	#	in contact stond met P. Gassendi
+gebaseerd	ArgM-TMP	voornamelijk
+geïnspireerd	Arg0	die
+bijdragen	Arg1	over tal van Hollandse en Zeeuwse geleerden , als Martinus Hortensius en personen uit de geslachten Metius en Lansberg
+deed	Arg1	zijn doctoraal examen in 1913
+beschrijven	#	het
+rechtvaardigen	Arg1	een integrale uitgave ervan
+bleek	#	Isaac Beeckman ( 1588-1637 ) , die de jonge Descartes had geïnspireerd en in contact stond met P. Gassendi , M. Mersenne en vele andere Hollandse , Franse en Engelse geleerden
+zijn	ArgM-TMP	Ook in dit werk
+is	#	een onontbeerlijke bron voor de geschiedenis van het cartésianisme en van de cultuur in het zeventiende-eeuwse Nederland
+begon	A0	De Waard
+gepubliceerd	Arg1	de aantekeningen
+verschenen	#	van zijn hand
+voortgezet	Arg1	de publikatie
+trof	ArgM-MNR	met de weinig zeggende titel : ' Locu communi
+werd	#	Hij
+werd	#	internationale d' histoire des sciences te Parijs ( 1947 ) en zijn lidmaatschap van de redactiecommissie van 1947 tot 1957 van de Archives internationales de l' histoire des sciences
+kwam	ArgM-TMP	om een integrale uitgave ervan te rechtvaardigen
+dacht	ArgM-TMP	eertijds
+betreffend	Arg1	vooral de zeventiende eeuw
+zijn	#	het wetenschappelijk aantekeningenboek te zijn van de rector aan de Illustre School in Dordrecht
+toont	Arg0	Het gehele wetenschapshistorische werk van deze bescheiden leraar
+zette	AM-LOC	waarbij
+geboren	Arg1	2 zoons
+studeerde	AM-TMP	na het gymnasium te Middelburg
+genoot	Arg1	een grote reputatie
+verscheen	Arg1	De Waards Supplément aux tomes I-IV
+was	#	een gehele of gedeeltelijke uitgave
+verwierf	Arg0	hij
+waren	Arg1	de Oeuvres
+verzorgen	#	het
+erkend	Arg1	zijn wetenschappelijke verdiensten
+geprofiteerd	Arg0	hij
+gaan	ArgM-LOC	na
+gehonoreerd	Arg1	Een voorstel aan de Hollandsche Maatschappij der Wetenschappen te Haarlem voor subsidie
+ingezien	AM-LOC	in De Gids
+verschenen	Arg1	die
+behaalde	ArgM-LOC	waar
+probeerde	Arg1	de aantekeningen gepubliceerd te krijgen
+voerde	Arg2	met tal van vooraanstaande tijdgenoten
+Gehuwd	Arg1	met Helena Christina Schwarz
+ontdekte	Arg0	Hij
+was	ArgM-NEG	niet
+was	#	die
+aansporen	Arg2	van E.J
+benoemde	Arg0	De Maatschappij
+transcriberen	Arg1	de tekst
+bevat	Arg0	Dit onvoltooide levenswerk van De Waard
+voorzien	#	van een uitvoerige inleiding
+was	#	het journaal
+zeggende	ArgM-EXT	weinig

@@ -1,40 +1,40 @@
-was,r22,#,Kusomoto Sonogi , ook wel Otaki genoemd
-was,r13,#,haar vader in 1859
-ingetrokken,r16,AM-LOC,in 1855
-zijn,r97,#,bekend
-dateren,r109,ArgM-TMP,toen de eerste schepen van de Vereenigde Oost-Indische Compagnie ( VOC ) in Japan arriveerden
-mochten,r99,ArgM-NEG,niet
-was,r15,#,De vader van Oine
-uitwerkte,r40,Arg0,hij
-schrijven,r98,AM-TMP,vele jaren
-lag,r79,ArgM-PNC,voor het vasteland van de havenstad Nagasaki
-arriveerden,r56,Arg1,in Japan
-verlaten,r103,AM-TMP,Toen haar vader op 22 oktober 1829 werd beschuldigd van spionage en ' voor eeuwig ' uit Japan werd verbannen
-registreren,r52,ArgM-REC,zich
-gestuurd,r112,A1,Hij
-geboren,r91,ArgM-TMP,op Deshima
-stierf,r27,A0,Zij
-verlaten,r30,A1,het land
-beschuldigd,r102,Arg1,haar vader op 22 oktober 1829 werd beschuldigd van spionage
-ontmoette,r48,Arg1,een dochter uit de familie Kusomoto
-was,r75,#,Zij
-genoemd,r43,ArgM-DIS,wel
-is,r63,ArgM-CAU,door zijn etnologische , botanische , zoölogische en medische werk in Japan
-gemaakt,r47,ArgM-TMP,voor de Nederlanders en de Chinezen , die elk een handelspost in Nagasaki kregen toegewezen
-geboren,r51,Arg1,Oine
-bezoeken,r54,#,als arts
-geboren,r58,ArgM-TMP,thans
-verbannen,r81,Arg2,uit Japan
-was,r108,ArgM-TMP,Toen haar vader in 1859 weer naar Japan was gereisd ( de verbanning was in 1855 ingetrokken
-volgde,r67,ArgM-LOC,in de voetsporen van haar vader
-is,r90,ArgM-TMP,uitgevoerd in inlegwerk op het deksel van een lakdoosje
-beroemd,r68,ArgM-ADV,zeer
-waren,r88,#,verboden
-komen,r100,ArgM-LOC,te weten
-deed,r92,Arg0,Von Siebold
-verzamelde,r106,AM-DIS,Ook
-samenwonen,r105,Arg1,met Philipp
-was,r107,Arg1,de verbanning
-werd,r93,#,Zij
-toegewezen,r86,Arg1,een handelspost in Nagasaki
-was,r87,#,de handelspost of factorij van Nederland
+was	#	Kusomoto Sonogi , ook wel Otaki genoemd
+was	#	haar vader in 1859
+ingetrokken	AM-LOC	in 1855
+zijn	#	bekend
+dateren	ArgM-TMP	toen de eerste schepen van de Vereenigde Oost-Indische Compagnie ( VOC ) in Japan arriveerden
+mochten	ArgM-NEG	niet
+was	#	De vader van Oine
+uitwerkte	Arg0	hij
+schrijven	AM-TMP	vele jaren
+lag	ArgM-PNC	voor het vasteland van de havenstad Nagasaki
+arriveerden	Arg1	in Japan
+verlaten	AM-TMP	Toen haar vader op 22 oktober 1829 werd beschuldigd van spionage en ' voor eeuwig ' uit Japan werd verbannen
+registreren	ArgM-REC	zich
+gestuurd	A1	Hij
+geboren	ArgM-TMP	op Deshima
+stierf	A0	Zij
+verlaten	A1	het land
+beschuldigd	Arg1	haar vader op 22 oktober 1829 werd beschuldigd van spionage
+ontmoette	Arg1	een dochter uit de familie Kusomoto
+was	#	Zij
+genoemd	ArgM-DIS	wel
+is	ArgM-CAU	door zijn etnologische , botanische , zoölogische en medische werk in Japan
+gemaakt	ArgM-TMP	voor de Nederlanders en de Chinezen , die elk een handelspost in Nagasaki kregen toegewezen
+geboren	Arg1	Oine
+bezoeken	#	als arts
+geboren	ArgM-TMP	thans
+verbannen	Arg2	uit Japan
+was	ArgM-TMP	Toen haar vader in 1859 weer naar Japan was gereisd ( de verbanning was in 1855 ingetrokken
+volgde	ArgM-LOC	in de voetsporen van haar vader
+is	ArgM-TMP	uitgevoerd in inlegwerk op het deksel van een lakdoosje
+beroemd	ArgM-ADV	zeer
+waren	#	verboden
+komen	ArgM-LOC	te weten
+deed	Arg0	Von Siebold
+verzamelde	AM-DIS	Ook
+samenwonen	Arg1	met Philipp
+was	Arg1	de verbanning
+werd	#	Zij
+toegewezen	Arg1	een handelspost in Nagasaki
+was	#	de handelspost of factorij van Nederland

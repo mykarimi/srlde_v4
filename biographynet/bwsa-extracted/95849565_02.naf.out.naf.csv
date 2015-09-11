@@ -1,52 +1,52 @@
-vernam,r69,ArgM-MNR,hoe sterk de beweging vooruitging
-bleek,r57,ArgM-LOC,bij de geboorte van zijn derde kind
-overleden,r110,ArgM-TMP,geboren te Harderwijk op 26 december 1841 en overleden te Amsterdam op 15 november 1871
-roerde,r141,ArgM-LOC,op een vergadering van sigarenmakers en typografen in Utrecht
-opschrijven,r131,ArgM-LOC,wat hij zou zeggen
-zeggen,r8,ArgM-LOC,wat hij zou zeggen
-werkte,r52,ArgM-LOC,Daar
-bestond,r135,Arg1,zijn broodwinning
-kreeg,r29,Arg0,hij
-was,r33,#,wankel van gezondheid
-ondersteund,r15,#,door een zijner vrienden
-verzwakt,r136,Arg0,Zijn hevige ziekte , bloedspuwing
-vroeg,r121,A0,Hij
-rijmde,r83,ArgM-TMP,in dezelfde dagen
-verwezenlijkt,r39,Arg1,Het plan
-afgedrukt,r55,ArgM-TMP,eerst
-gebracht,r27,Arg0,door een 200-tal leden der Intern. grafwaarts
-trad,r47,AM-TMP,Op 25 april 1866
-maakte,r51,Arg2,hem
-schrijven,r74,A0,hij
-uitdrukken,r37,A2,in woorden
-verklaren,r42,ArgM-CAU,waarom na de dood van zijn vader de weduwe , zelf van Veluwse herkomst , zich met zoons en dochter in de hoofdstad vestigde ( 1863
-zou,r49,Arg0,men
-was,r130,#,de zoon van Evert Luitink ( ook genoemd Martens ) , schipper , en Jacoba Rikkerts ( ook geschreven als Rijkerts
-ontstaan,r139,#,van het ' Vrijheidslied
-Waakt,r54,#,op
-dateert,r70,Arg0,Pierre Degeyters roemrucht geworden compositie
-bracht,r61,Arg0,dat
-was,r63,#,ziekelijk
-verweten,r65,Arg0,men
-aangenomen,r68,A1,Het plan
-is,r102,#,geboren te Harderwijk op 26 december 1841 en overleden te Amsterdam op 15 november 1871
-stamde,r78,Arg2,uit een schippersfamilie , waarschijnlijk beurtvaarders tussen Harderwijk en Amsterdam
-vestigde,r108,ArgM-TMP,na de dood van zijn vader
-behoorde,r122,A1,tot degenen , die tijdens het Derde Nederlandsche Werklieden Kongres te Amsterdam met succes pleitten voor de samenvoeging van de diverse werkliedenweekbladen tot één dagblad
-bezochten,r82,Arg1,hem
-was,r87,ArgM-TMP,Drie maanden later
-aannemen,r91,#,dat Nieuwenhuis ietwat romantiseerde
-geboren,r104,ArgM-TMP,geboren te Harderwijk op 26 december 1841 en overleden te Amsterdam op 15 november 1871
-pleitten,r127,AM-TMP,tijdens het Derde Nederlandsche Werklieden Kongres te Amsterdam
-vooruitging,r99,ArgM-TMP,hoe sterk de beweging vooruitging
-romantiseerde,r133,Arg1,Nieuwenhuis
-geworden,r103,#,roemrucht
-gepubliceerd,r105,ArgM-TMP,Oorspronkelijk
-overleefd,r109,Arg1,Luitink
-geschreven,r116,ArgM-PRD,als Rijkerts
-zweert,r113,A0,bij der vad 'ren
-deed,r128,ArgM-CAU,Wegens ziekte van de vader
-zijt,r119,#,kanalje
-brengen,r142,ArgM-TMP,bijeen
-werd,r132,Arg1,aangenomen maar nooit verwezenlijkt , denkelijk door tegenwerking van B.H
-zijn,r129,#,nationalen
+vernam	ArgM-MNR	hoe sterk de beweging vooruitging
+bleek	ArgM-LOC	bij de geboorte van zijn derde kind
+overleden	ArgM-TMP	geboren te Harderwijk op 26 december 1841 en overleden te Amsterdam op 15 november 1871
+roerde	ArgM-LOC	op een vergadering van sigarenmakers en typografen in Utrecht
+opschrijven	ArgM-LOC	wat hij zou zeggen
+zeggen	ArgM-LOC	wat hij zou zeggen
+werkte	ArgM-LOC	Daar
+bestond	Arg1	zijn broodwinning
+kreeg	Arg0	hij
+was	#	wankel van gezondheid
+ondersteund	#	door een zijner vrienden
+verzwakt	Arg0	Zijn hevige ziekte , bloedspuwing
+vroeg	A0	Hij
+rijmde	ArgM-TMP	in dezelfde dagen
+verwezenlijkt	Arg1	Het plan
+afgedrukt	ArgM-TMP	eerst
+gebracht	Arg0	door een 200-tal leden der Intern. grafwaarts
+trad	AM-TMP	Op 25 april 1866
+maakte	Arg2	hem
+schrijven	A0	hij
+uitdrukken	A2	in woorden
+verklaren	ArgM-CAU	waarom na de dood van zijn vader de weduwe , zelf van Veluwse herkomst , zich met zoons en dochter in de hoofdstad vestigde ( 1863
+zou	Arg0	men
+was	#	de zoon van Evert Luitink ( ook genoemd Martens ) , schipper , en Jacoba Rikkerts ( ook geschreven als Rijkerts
+ontstaan	#	van het ' Vrijheidslied
+Waakt	#	op
+dateert	Arg0	Pierre Degeyters roemrucht geworden compositie
+bracht	Arg0	dat
+was	#	ziekelijk
+verweten	Arg0	men
+aangenomen	A1	Het plan
+is	#	geboren te Harderwijk op 26 december 1841 en overleden te Amsterdam op 15 november 1871
+stamde	Arg2	uit een schippersfamilie , waarschijnlijk beurtvaarders tussen Harderwijk en Amsterdam
+vestigde	ArgM-TMP	na de dood van zijn vader
+behoorde	A1	tot degenen , die tijdens het Derde Nederlandsche Werklieden Kongres te Amsterdam met succes pleitten voor de samenvoeging van de diverse werkliedenweekbladen tot één dagblad
+bezochten	Arg1	hem
+was	ArgM-TMP	Drie maanden later
+aannemen	#	dat Nieuwenhuis ietwat romantiseerde
+geboren	ArgM-TMP	geboren te Harderwijk op 26 december 1841 en overleden te Amsterdam op 15 november 1871
+pleitten	AM-TMP	tijdens het Derde Nederlandsche Werklieden Kongres te Amsterdam
+vooruitging	ArgM-TMP	hoe sterk de beweging vooruitging
+romantiseerde	Arg1	Nieuwenhuis
+geworden	#	roemrucht
+gepubliceerd	ArgM-TMP	Oorspronkelijk
+overleefd	Arg1	Luitink
+geschreven	ArgM-PRD	als Rijkerts
+zweert	A0	bij der vad 'ren
+deed	ArgM-CAU	Wegens ziekte van de vader
+zijt	#	kanalje
+brengen	ArgM-TMP	bijeen
+werd	Arg1	aangenomen maar nooit verwezenlijkt , denkelijk door tegenwerking van B.H
+zijn	#	nationalen

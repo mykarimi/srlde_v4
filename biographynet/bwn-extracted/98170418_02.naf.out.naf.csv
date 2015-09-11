@@ -1,30 +1,30 @@
-is,r87,#,belast is met belasting - en onteigeningszaken
-zeggen,r58,ArgM-DIS,bijna
-voortvloeide,r74,ArgM-DIR,uit een grote zedelijke ernst
-geboren,r89,Arg1,1 dochter
-verleend,r90,ArgM-TMP,In 1969
-vervulde,r93,Arg0,hij
-deed,r64,Arg1,aan de Universiteit van Amsterdam
-geeft,r25,ArgM-ADV,dan
-uitging,r19,#,wie
-verfijnde,r15,ArgM-MNR,sterk
-was,r50,#,Zijn reputatie
-zeilen,r17,#,het
-werd,r75,#,raadsheer-plaatsvervanger in het gerechtshof te Amsterdam
-werd,r86,ArgM-TMP,Op 9 februari 1961
-blijft,r67,Arg1,het aandeel van de vijf leden van een kamer van de Hoge Raad
-vertoont,r78,Arg1,een zo duidelijke ontwikkeling dat men die wel overwegend aan zijn invloed moet toeschrijven
-presideerde,r52,ArgM-DIS,Sedert
-werkte,r31,AM-PRD,als zodanig te Baarn en Bussum
-komt,r85,ArgM-LOC,bij onteigening
-presideerde,r56,Arg0,hij
-samenging,r38,Arg0,wat
-was,r65,Arg1,werkzaam
-had,r49,#,Boltjes eerst lange tijd
-benoemd,r77,Arg1,hij
-deed,r61,Arg1,kandidaats rechtswetenschap
-verbonden,r63,ArgM-TMP,steeds nauw
-bekwaamde,r88,Arg1,hij werd in 1923 kandidaat-notaris en werkte als zodanig te Baarn en Bussum
-was,r92,#,Boltjes
-bereiken,r81,#,van de leeftijdsgrens
-werd,r84,#,kandidaat-notaris
+is	#	belast is met belasting - en onteigeningszaken
+zeggen	ArgM-DIS	bijna
+voortvloeide	ArgM-DIR	uit een grote zedelijke ernst
+geboren	Arg1	1 dochter
+verleend	ArgM-TMP	In 1969
+vervulde	Arg0	hij
+deed	Arg1	aan de Universiteit van Amsterdam
+geeft	ArgM-ADV	dan
+uitging	#	wie
+verfijnde	ArgM-MNR	sterk
+was	#	Zijn reputatie
+zeilen	#	het
+werd	#	raadsheer-plaatsvervanger in het gerechtshof te Amsterdam
+werd	ArgM-TMP	Op 9 februari 1961
+blijft	Arg1	het aandeel van de vijf leden van een kamer van de Hoge Raad
+vertoont	Arg1	een zo duidelijke ontwikkeling dat men die wel overwegend aan zijn invloed moet toeschrijven
+presideerde	ArgM-DIS	Sedert
+werkte	AM-PRD	als zodanig te Baarn en Bussum
+komt	ArgM-LOC	bij onteigening
+presideerde	Arg0	hij
+samenging	Arg0	wat
+was	Arg1	werkzaam
+had	#	Boltjes eerst lange tijd
+benoemd	Arg1	hij
+deed	Arg1	kandidaats rechtswetenschap
+verbonden	ArgM-TMP	steeds nauw
+bekwaamde	Arg1	hij werd in 1923 kandidaat-notaris en werkte als zodanig te Baarn en Bussum
+was	#	Boltjes
+bereiken	#	van de leeftijdsgrens
+werd	#	kandidaat-notaris

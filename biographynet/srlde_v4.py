@@ -16,11 +16,11 @@ from collections import Counter
 sys.path.append('/home/yassine/twtads/KafNafParserPy')
 from KafNafParserMod import *
 
-for files in os.listdir('jhs-processed/'):
-	my_parser = KafNafParser('jhs-processed/'+files) 
+for files in os.listdir('weyerman-processed/'):
+	my_parser = KafNafParser('weyerman-processed/'+files) 
 	
 	filename = files
-	target = open('jhs-extracted/'+filename+'.csv','w')
+	target = open('weyerman-extracted/'+filename+'.csv','w')
 	for predicate in my_parser.get_predicates():
 	    	my_predicates = ''
 	   	for predid in predicate.get_span().get_span_ids():
@@ -38,8 +38,9 @@ for files in os.listdir('jhs-processed/'):
 				for tokid in tokspan:
         				token = my_parser.get_token(tokid)
         				ttext = token.get_text()
+					pos = term.get_pos()
     				my_tokens += ttext + ' '
- 			target_text = "%s,%s,%s,%s\n" % (my_predicates.rstrip(),role.get_id(),role.get_sem_role(),my_tokens.rstrip())
+ 			target_text = "%s\t%s\t%s\n" % (my_predicates.rstrip(),role.get_sem_role(),my_tokens.rstrip())
 		target.write(target_text.encode('utf-8'))	
 	target.close()
 

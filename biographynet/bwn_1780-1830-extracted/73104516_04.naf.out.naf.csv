@@ -1,69 +1,69 @@
-behaald,r4,Arg1,het apothekersexamen
-trad,r178,A2,in het huwelijk
-kwam,r6,Arg1,de economische neergang , die zich juist in die jaren in Meppel deed voelen
-uitmaken,r179,#,deel
-gehouden,r37,ArgM-TMP,voor de kundigste apotheker in deze functie
-oefende,r190,ArgM-DIS,Wel
-Aangepast,r11,ArgM-CAU,Aangepast en aangevuld door de redactie ( 2010
-Gehuwd,r56,Arg1,met Maria Kniphorst ( 1781-1819
-maakten,r40,#,dat in september 1849 met Brocades de laatste mannelijke telg ten grave daalde
-overlijden,r142,#,als provisor
-leverde,r153,A0,Willem Brocades
-afkwamen,r20,A0,die
-diende,r201,ArgM-MNR,namelijk lid van de raad van Meppel
-was,r79,ArgM-DIS,namelijk
-hadden,r198,Arg1,recht op hulp en uitleg
-toenemende,r24,ArgM-MNR,snel
-begon,r27,Arg1,zijn apotheek
-voerde,r120,ArgM-TMP,Toen hij in januari 1841 ontslag vroeg als raadslid
-leiden,r113,AM-MNR,op adequate wijze
-werd,r33,Arg1,Yamanouchi
-bereiden,r63,Arg1,producten bereiden , die hij onder anderen verkocht
-bestond,r107,Arg1,zijn klandizie
-bereiden,r116,#,het
-kwamen,r200,ArgM-DIS,ook
-gemaakt,r45,Arg0,hij
-bereide,r42,ArgM-CAU,uit geneeskundige stoffen
-behaalde,r187,Arg0,hij
-benoemd,r123,ArgM-LOC,daarin
-verkocht,r51,Arg1,die
-geboren,r169,Arg2,Uit dit huwelijk
-verloor,r99,ArgM-TMP,al
-opgenomen,r54,ArgM-LOC,in : Biografisch Woordenboek
-voelen,r55,AM-REC,zich
-kreeg,r174,Arg0,hij
-bleef,r68,#,achter
-zorgen,r121,Arg0,die
-verliet,r101,#,Willems moeder , de dochter van een burgemeester
-gehuwd,r202,Arg1,met Rensjen de Jonge ( 1785-1858
-afgeven,r77,Arg1,geneesmiddelen
-ging,r100,ArgM-LOC,hierbij
-daalde,r88,Arg1,de laatste mannelijke telg
-ging,r90,ArgM-TMP,Al snel
-nam,r157,ArgM-TMP,Nadat Stheeman de zaak weer tot bloei had gebracht
-ging,r204,#,steeds slechter
-zetten,r182,ArgM-ADV,Ondanks de algemene malaise tijdens en na de Franse tijd
-was,r103,#,zeer was achteruitgegaan
-vroeg,r197,AM-TMP,in januari 1841
-was,r135,#,verzekerd
-keerde,r141,AM-DIR,naar haar ouderlijk huis in de Wildemansteeg - de huidige Woldstraat - in het naburige Meppel
-Aangenomen,r118,ArgM-MNR,dat Brocades in die tijd zijn apotheek begon
-gebracht,r126,Arg2,tot bloei
-florerende,r159,ArgM-DIS,zo
-bedienen,r208,#,van de klanten
-kreeg,r155,Arg1,een eigen Provinciale Kommissie voor Geneeskundig Onderzoek en Toevoorzigt
-legde,r137,ArgM-MNR,vast
-maakte,r186,Arg2,steeds moeilijker
-gekwalificeerd,r192,ArgM-LOC,In rapporten van de Provinciale Kommissie voor Geneeskundig Onderzoek en Toevoorzigt in Overijssel over de jaren 1819-1822
-gebruikmaken,r165,Arg2,van de in de apotheek aanwezige bibliotheek
-geboren,r149,Arg1,2 zoons en 3 dochters
-aangevuld,r158,ArgM-CAU,Aangepast en aangevuld door de redactie ( 2010
-trouwde,r162,A1,Brocades
-geschieddde,r167,Arg1,Dit
-overlijden,r189,#,haar
-wist,r199,AM-CAU,Ondanks de algemene malaise tijdens en na de Franse tijd wist Brocades door ondernemingsgeest , vakkennis en nauwgezet beheer zijn zaken voort te zetten
-verstrekte,r206,Arg0,hij
-overlijden,r181,ArgM-LOC,op 38-jarige leeftijd in 1819
-gerekend,r203,AM-CAU,daarom
-woonden,r194,Arg4,bij hem
-verbonden,r207,Arg2,daaraan
+behaald	Arg1	het apothekersexamen
+trad	A2	in het huwelijk
+kwam	Arg1	de economische neergang , die zich juist in die jaren in Meppel deed voelen
+uitmaken	#	deel
+gehouden	ArgM-TMP	voor de kundigste apotheker in deze functie
+oefende	ArgM-DIS	Wel
+Aangepast	ArgM-CAU	Aangepast en aangevuld door de redactie ( 2010
+Gehuwd	Arg1	met Maria Kniphorst ( 1781-1819
+maakten	#	dat in september 1849 met Brocades de laatste mannelijke telg ten grave daalde
+overlijden	#	als provisor
+leverde	A0	Willem Brocades
+afkwamen	A0	die
+diende	ArgM-MNR	namelijk lid van de raad van Meppel
+was	ArgM-DIS	namelijk
+hadden	Arg1	recht op hulp en uitleg
+toenemende	ArgM-MNR	snel
+begon	Arg1	zijn apotheek
+voerde	ArgM-TMP	Toen hij in januari 1841 ontslag vroeg als raadslid
+leiden	AM-MNR	op adequate wijze
+werd	Arg1	Yamanouchi
+bereiden	Arg1	producten bereiden , die hij onder anderen verkocht
+bestond	Arg1	zijn klandizie
+bereiden	#	het
+kwamen	ArgM-DIS	ook
+gemaakt	Arg0	hij
+bereide	ArgM-CAU	uit geneeskundige stoffen
+behaalde	Arg0	hij
+benoemd	ArgM-LOC	daarin
+verkocht	Arg1	die
+geboren	Arg2	Uit dit huwelijk
+verloor	ArgM-TMP	al
+opgenomen	ArgM-LOC	in : Biografisch Woordenboek
+voelen	AM-REC	zich
+kreeg	Arg0	hij
+bleef	#	achter
+zorgen	Arg0	die
+verliet	#	Willems moeder , de dochter van een burgemeester
+gehuwd	Arg1	met Rensjen de Jonge ( 1785-1858
+afgeven	Arg1	geneesmiddelen
+ging	ArgM-LOC	hierbij
+daalde	Arg1	de laatste mannelijke telg
+ging	ArgM-TMP	Al snel
+nam	ArgM-TMP	Nadat Stheeman de zaak weer tot bloei had gebracht
+ging	#	steeds slechter
+zetten	ArgM-ADV	Ondanks de algemene malaise tijdens en na de Franse tijd
+was	#	zeer was achteruitgegaan
+vroeg	AM-TMP	in januari 1841
+was	#	verzekerd
+keerde	AM-DIR	naar haar ouderlijk huis in de Wildemansteeg - de huidige Woldstraat - in het naburige Meppel
+Aangenomen	ArgM-MNR	dat Brocades in die tijd zijn apotheek begon
+gebracht	Arg2	tot bloei
+florerende	ArgM-DIS	zo
+bedienen	#	van de klanten
+kreeg	Arg1	een eigen Provinciale Kommissie voor Geneeskundig Onderzoek en Toevoorzigt
+legde	ArgM-MNR	vast
+maakte	Arg2	steeds moeilijker
+gekwalificeerd	ArgM-LOC	In rapporten van de Provinciale Kommissie voor Geneeskundig Onderzoek en Toevoorzigt in Overijssel over de jaren 1819-1822
+gebruikmaken	Arg2	van de in de apotheek aanwezige bibliotheek
+geboren	Arg1	2 zoons en 3 dochters
+aangevuld	ArgM-CAU	Aangepast en aangevuld door de redactie ( 2010
+trouwde	A1	Brocades
+geschieddde	Arg1	Dit
+overlijden	#	haar
+wist	AM-CAU	Ondanks de algemene malaise tijdens en na de Franse tijd wist Brocades door ondernemingsgeest , vakkennis en nauwgezet beheer zijn zaken voort te zetten
+verstrekte	Arg0	hij
+overlijden	ArgM-LOC	op 38-jarige leeftijd in 1819
+gerekend	AM-CAU	daarom
+woonden	Arg4	bij hem
+verbonden	Arg2	daaraan

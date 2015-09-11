@@ -1,14 +1,14 @@
-gebedenboeken,r1,ArgM-MNR,met name
-inrichten,r26,Arg1,als weeshuis
-kopen,r36,Arg1,een pand aan de Zwanenburgerstraat
-schonk,r30,AM-TMP,om door de wezen te worden gebruikt
-stelde,r11,#,financieel in staat een pand aan de Zwanenburgerstraat aan te kopen en dit als weeshuis te doen inrichten
-stond,r32,Arg1,Simson Mozes de Boer
-kopen,r13,Arg1,een pand aan de Zwanenburgerstraat
-behoorde,r31,AM-CAU,door G.I
-stond,r18,ArgM-LOC,aan de basis van het joodse jongensweeshuis " Megadle Jethomim
-was,r34,#,regent van het weeshuis
-was,r23,ArgM-DIS,Bovendien
-stelde,r38,Arg0,hij
-gebruikt,r25,Arg0,door de wezen
-inrichten,r29,Arg1,dit
+gebedenboeken	ArgM-MNR	met name
+inrichten	Arg1	als weeshuis
+kopen	Arg1	een pand aan de Zwanenburgerstraat
+schonk	AM-TMP	om door de wezen te worden gebruikt
+stelde	#	financieel in staat een pand aan de Zwanenburgerstraat aan te kopen en dit als weeshuis te doen inrichten
+stond	Arg1	Simson Mozes de Boer
+kopen	Arg1	een pand aan de Zwanenburgerstraat
+behoorde	AM-CAU	door G.I
+stond	ArgM-LOC	aan de basis van het joodse jongensweeshuis " Megadle Jethomim
+was	#	regent van het weeshuis
+was	ArgM-DIS	Bovendien
+stelde	Arg0	hij
+gebruikt	Arg0	door de wezen
+inrichten	Arg1	dit

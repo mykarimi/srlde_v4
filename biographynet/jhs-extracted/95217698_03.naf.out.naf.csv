@@ -1,18 +1,18 @@
-schreef,r49,A1,over auteurs als Augusta de Wit , Ina Boudier-Bakker en Margo Scharten-Antink
-publiceerde,r52,ArgM-TMP,De Gids
-publiceerde,r35,ArgM-DIS,Voorts
-opgeleid,r6,ArgM-LOC,in de diamantkloversbranche
-schreef,r38,#,Van Campen
-was,r33,Arg0,Hij
-stierf,r53,AM-LOC,in 1942
-opgeleid,r23,Arg2,tot diamantbewerker
-gaf,r50,ArgM-LOC,in literaire zaken
-strevende,r16,Arg1,naar ontwikkeling
-verschijnt,r43,Arg1,Bikoerim ' , een verzameling novellen over het joodse volksleven
-geboren,r22,Arg1,Michel van Campen
-geboren,r36,ArgM-TMP,op 1 juli 1874
-polemiseerde,r48,Arg0,hij
-schreef,r34,AM-PRD,Als literair criticus
-verschenen,r41,ArgM-LOC,waarin
-was,r44,Arg1,Het boek
-debuteerde,r46,ArgM-TMP,In 1904
+schreef	A1	over auteurs als Augusta de Wit , Ina Boudier-Bakker en Margo Scharten-Antink
+publiceerde	ArgM-TMP	De Gids
+publiceerde	ArgM-DIS	Voorts
+opgeleid	ArgM-LOC	in de diamantkloversbranche
+schreef	#	Van Campen
+was	Arg0	Hij
+stierf	AM-LOC	in 1942
+opgeleid	Arg2	tot diamantbewerker
+gaf	ArgM-LOC	in literaire zaken
+strevende	Arg1	naar ontwikkeling
+verschijnt	Arg1	Bikoerim ' , een verzameling novellen over het joodse volksleven
+geboren	Arg1	Michel van Campen
+geboren	ArgM-TMP	op 1 juli 1874
+polemiseerde	Arg0	hij
+schreef	AM-PRD	Als literair criticus
+verschenen	ArgM-LOC	waarin
+was	Arg1	Het boek
+debuteerde	ArgM-TMP	In 1904

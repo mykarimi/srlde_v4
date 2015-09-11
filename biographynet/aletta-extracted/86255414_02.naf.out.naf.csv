@@ -1,28 +1,28 @@
-richtte,r78,A1,de Neutrale
-ging,r11,ArgM-TMP,in 1912
-begon,r73,Arg1,Josephine Baerveldt-Haver ( geboren als Josephine Sare Rosine Haver
-keerden,r35,AM-MNR,terug
-is,r40,Arg0,Zij
-doorbracht,r21,Arg0,haar echtgenoot militair was
-was,r68,ArgM-LOC,daar
-volgde,r31,AM-CAU,Daarmee
-was,r30,#,voorzitster van de afdeling Amsterdam was geweest van 1906 tot haar dood in 1912
-legde,r81,AM-DIS,echter
-hernam,r32,ArgM-ADV,Terug in Nederland
-werd,r24,#,zij
-vertrok,r57,AM-MNR,met haar echtgenoot
-kreeg,r41,Arg1,twee kinderen
-uitgetreden,r28,ArgM-PRD,samen met andere
-leefde,r75,ArgM-TMP,tot 1912
-vermelden,r76,#,dat haar echtgenoot militair was , en een deel van zijn carrière in Nederlands-Indië doorbracht
-trad,r87,AM-MNR,Vermoedelijk op 27 augustus 1890
-zegde,r62,Arg1,haar lidmaatschap
-was,r51,Arg0,met name haar zus Theodore
-was,r88,Arg0,Haar oudere zus , Theodore Schook-Haver , die leefde van 1856 tot 1912
-was,r53,#,haar echtgenoot militair was
-was,r56,#,voorzitster van het Comité Huldeblijk Wilhelmina Drucker , met wie met name haar zus Theodore nauw had samengewerkt en goed bevriend was geweest
-geboren,r60,#,als Josephine Sare Rosine Haver
-was,r65,#,Zij
-werd,r72,#,waarvan
-samengewerkt,r83,#,met name haar zus Theodore
-resulteerden,r86,ArgM-TMP,in 1939
+richtte	A1	de Neutrale
+ging	ArgM-TMP	in 1912
+begon	Arg1	Josephine Baerveldt-Haver ( geboren als Josephine Sare Rosine Haver
+keerden	AM-MNR	terug
+is	Arg0	Zij
+doorbracht	Arg0	haar echtgenoot militair was
+was	ArgM-LOC	daar
+volgde	AM-CAU	Daarmee
+was	#	voorzitster van de afdeling Amsterdam was geweest van 1906 tot haar dood in 1912
+legde	AM-DIS	echter
+hernam	ArgM-ADV	Terug in Nederland
+werd	#	zij
+vertrok	AM-MNR	met haar echtgenoot
+kreeg	Arg1	twee kinderen
+uitgetreden	ArgM-PRD	samen met andere
+leefde	ArgM-TMP	tot 1912
+vermelden	#	dat haar echtgenoot militair was , en een deel van zijn carrière in Nederlands-Indië doorbracht
+trad	AM-MNR	Vermoedelijk op 27 augustus 1890
+zegde	Arg1	haar lidmaatschap
+was	Arg0	met name haar zus Theodore
+was	Arg0	Haar oudere zus , Theodore Schook-Haver , die leefde van 1856 tot 1912
+was	#	haar echtgenoot militair was
+was	#	voorzitster van het Comité Huldeblijk Wilhelmina Drucker , met wie met name haar zus Theodore nauw had samengewerkt en goed bevriend was geweest
+geboren	#	als Josephine Sare Rosine Haver
+was	#	Zij
+werd	#	waarvan
+samengewerkt	#	met name haar zus Theodore
+resulteerden	ArgM-TMP	in 1939

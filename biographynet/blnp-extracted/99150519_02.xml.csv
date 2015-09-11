@@ -1,13 +1,13 @@
-onderschreef,r34,Arg1,genomen Resolutie tot vrede
-weren,r5,A1,rem. invloeden
-weigerde,r43,AM-LOC,Op advies van zijn zwager G. Vossius , die tijdens zijn regentschap van het Leidse Statencollege zorgvuldig het midden tussen de strijdende partijen hield
-raakte,r44,AM-TMP,in 1615
-verkozen,r28,ArgM-LOC,waar
-hield,r36,AM-TMP,tijdens zijn regentschap van het Leidse Statencollege
-vluchtte,r41,Arg1,naar Frankenthal , waar hij diverse malen tot schepen en burgemeester werd verkozen
-onderschrijven,r40,Arg0,elk lidmaat in de stad met handtekening
-hertrouwde,r19,Arg1,zijn weduwe
-was,r22,#,dat
-huwde,r29,ArgM-TMP,op 19 jan
-verlangde,r42,Arg0,Deze felle contraremonstrant
-trachtte,r39,Arg0,Deze felle contraremonstrant
+onderschreef	Arg1	genomen Resolutie tot vrede
+weren	A1	rem. invloeden
+weigerde	AM-LOC	Op advies van zijn zwager G. Vossius , die tijdens zijn regentschap van het Leidse Statencollege zorgvuldig het midden tussen de strijdende partijen hield
+raakte	AM-TMP	in 1615
+verkozen	ArgM-LOC	waar
+hield	AM-TMP	tijdens zijn regentschap van het Leidse Statencollege
+vluchtte	Arg1	naar Frankenthal , waar hij diverse malen tot schepen en burgemeester werd verkozen
+onderschrijven	Arg0	elk lidmaat in de stad met handtekening
+hertrouwde	Arg1	zijn weduwe
+was	#	dat
+huwde	ArgM-TMP	op 19 jan
+verlangde	Arg0	Deze felle contraremonstrant
+trachtte	Arg0	Deze felle contraremonstrant

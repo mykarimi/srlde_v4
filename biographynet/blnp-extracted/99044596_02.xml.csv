@@ -1,16 +1,16 @@
-volbrengen,r20,Arg1,zijn goddelijk werk
-huwde,r26,ArgM-TMP,op 25 apr
-wees,r23,ArgM-LOC,In Wessel Gansfort
-is,r31,Arg1,dit tijdschrift
-zette,r41,AM-REC,zich
-publiceerde,r34,ArgM-DIS,voorts
-was,r13,#,een aanhanger van de Groninger school
-was,r29,ArgM-TMP,enige jaren
-waarschuwde,r36,A1,voor het opdringend rooms-katholicisme
-wekken,r27,ArgM-PRD,als godsgezant
-waren,r30,#,de wonderen van Jezus
-tonen,r35,#,dat de wonderen van Jezus pedagogische middelen waren
-zijn,r42,#,er twee jaargangen van verschenen
-zijn,r42,#,er twee jaargangen van verschenen
-zijn,r42,#,er twee jaargangen van verschenen
-zijn,r42,#,er twee jaargangen van verschenen
+volbrengen	Arg1	zijn goddelijk werk
+huwde	ArgM-TMP	op 25 apr
+wees	ArgM-LOC	In Wessel Gansfort
+is	Arg1	dit tijdschrift
+zette	AM-REC	zich
+publiceerde	ArgM-DIS	voorts
+was	#	een aanhanger van de Groninger school
+was	ArgM-TMP	enige jaren
+waarschuwde	A1	voor het opdringend rooms-katholicisme
+wekken	ArgM-PRD	als godsgezant
+waren	#	de wonderen van Jezus
+tonen	#	dat de wonderen van Jezus pedagogische middelen waren
+zijn	#	er twee jaargangen van verschenen
+zijn	#	er twee jaargangen van verschenen
+zijn	#	er twee jaargangen van verschenen
+zijn	#	er twee jaargangen van verschenen

@@ -1,69 +1,69 @@
-hield,r38,A0,die
-groeide,r75,ArgM-MNR,Met haar broers en zusters -- halfzuster Helena , een voordochter van haar vader , was in het gezin opgenomen
-overleed,r134,Arg0,Henrica van Duivenvoorde
-woonde,r189,Arg0,Zij
-was,r118,Arg1,halfzuster Helena , een voordochter van haar vader
-roemde,r193,Arg1,Van Lommel , 136
-was,r190,Arg0,een inval in haar huis
-prijst,r18,Arg2,haar
-brachten,r103,#,mee
-zou,r140,Arg1,Rovenius
-woonde,r191,Arg1,in Antwerpen
-bleven,r137,#,De Van Duivenvoorders en Wassenaars
-is,r176,ArgM-PNC,ter nagedachtenis van ‘ de hoogwelgeboren vrouwe Hendrina van Duvenvoorde van Wassenaer
-geboren,r26,Arg1,Henrica van Duivenvoorde
-was,r138,#,Henrica van Duivenvoorde
-ondersteunde,r196,A1,de min of meer ondergronds werkende katholieke ‘ missie ' in de Noordelijke Nederlanden
-is,r154,#,dat haar huis in Utrecht vererfde op haar tantezegster Odilia van Wassenaar-Alkemade
-is,r187,#,waarschijnlijk gedoopt in de huiskapel
-Bijdragen,r59,#,De Van Wassenaer 's
-zijn,r186,Arg1,Rovenius
-was,r41,#,in 1628 was getrouwd met de eveneens katholieke edelman Robert de Cotereau-Westmalle
-was,r86,#,dit
-is,r168,ArgM-LOC,in de zeventiende eeuw
-kreeg,r100,Arg0,Ze
-aangenomen,r49,#,dat in haar Utrechtse huis ( nu de Kathedrale Koorschool ) een schuilkerk was ingericht
-zijn,r130,#,er in 1651 zijn gestorven
-maakten,r60,A0,Knuif en De Jong
-was,r119,#,De epitaaf
-functioneren,r141,#,als katholieke uitvalsbasis
-zou,r88,Arg0,Zij
-komt,r121,AM-DIS,Knuif en De Jong , 387-401
-vernoemd,r63,#,naar haar grootmoeder Henrica van Egmont
-kocht,r120,ArgM-LOC,in de jaren 1609 en 1610 voor haar drie lijfrenten van in totaal 223 gulden per jaar
-was,r68,#,De familie
-overleed,r183,Arg1,Haar zusje Hedwig
-was,r97,Arg1,een schuilkerk
-erfde,r160,Arg0,zij
-trad,r184,A1,het gereformeerde stadsbestuur
-ingewoond,r185,ArgM-DIS,Knuif en De Jong , 56
-woonde,r201,ArgM-LOC,op het Huis te Warmond
-volgde,r199,A1,hem
-vermaakte,r111,A1,een huis en erf in Utrecht en land
-was,r106,ArgM-TMP,in het Nederlands terugvertaald uittreksel in Van der Steur 264-267
-kwam,r87,ArgM-ADV,Waarschijnlijk
-is,r96,Arg1,Dit graf
-vermeld,r112,ArgM-TMP,in de kerkelijke correspondentie van haar tijd
-bestonden,r127,ArgM-LOC,in de Republiek
-zijn,r113,#,Zij
-geboden,r144,Arg1,Petrus onderdak
-zijn,r153,Arg1,zij
-overnam,r133,AM-TMP,begin zeventiende eeuw
-uitgestorven,r102,ArgM-MNR,in mannelijke lijn
-zijn,r122,#,er
-gedaan,r142,Arg1,zij
-geraadpleegd,r114,#,januari 2010
-werkende,r128,#,clandestien
-is,r132,#,er uitgebreid naar is gezocht , onder meer door wichelroedelopers
-waren,r172,#,Haar peters
-gespeeld,r149,Arg1,Welke rol
-werkende,r155,ArgM-CAU,min of meer
-gevonden,r157,#,er
-zal,r170,ArgM-CAU,zijn
-bleef,r195,#,ongehuwd
-gezocht,r171,AM-TMP,Uiteindelijk
-zijn,r192,#,Vanwege haar lichaamsgebrek -- een bochel -- zal Henrica van Duivenvoorde een lastige partij op de huwelijksmarkt zijn geweest
-uitgebracht,r177,ArgM-TMP,in 1640
-kreeg,r182,ArgM-PRD,Als vijftienjarige
-ontkomen,r179,Arg0,De priesters
-werkende,r194,#,clandestien
+hield	A0	die
+groeide	ArgM-MNR	Met haar broers en zusters -- halfzuster Helena , een voordochter van haar vader , was in het gezin opgenomen
+overleed	Arg0	Henrica van Duivenvoorde
+woonde	Arg0	Zij
+was	Arg1	halfzuster Helena , een voordochter van haar vader
+roemde	Arg1	Van Lommel , 136
+was	Arg0	een inval in haar huis
+prijst	Arg2	haar
+brachten	#	mee
+zou	Arg1	Rovenius
+woonde	Arg1	in Antwerpen
+bleven	#	De Van Duivenvoorders en Wassenaars
+is	ArgM-PNC	ter nagedachtenis van ‘ de hoogwelgeboren vrouwe Hendrina van Duvenvoorde van Wassenaer
+geboren	Arg1	Henrica van Duivenvoorde
+was	#	Henrica van Duivenvoorde
+ondersteunde	A1	de min of meer ondergronds werkende katholieke ‘ missie ' in de Noordelijke Nederlanden
+is	#	dat haar huis in Utrecht vererfde op haar tantezegster Odilia van Wassenaar-Alkemade
+is	#	waarschijnlijk gedoopt in de huiskapel
+Bijdragen	#	De Van Wassenaer 's
+zijn	Arg1	Rovenius
+was	#	in 1628 was getrouwd met de eveneens katholieke edelman Robert de Cotereau-Westmalle
+was	#	dit
+is	ArgM-LOC	in de zeventiende eeuw
+kreeg	Arg0	Ze
+aangenomen	#	dat in haar Utrechtse huis ( nu de Kathedrale Koorschool ) een schuilkerk was ingericht
+zijn	#	er in 1651 zijn gestorven
+maakten	A0	Knuif en De Jong
+was	#	De epitaaf
+functioneren	#	als katholieke uitvalsbasis
+zou	Arg0	Zij
+komt	AM-DIS	Knuif en De Jong , 387-401
+vernoemd	#	naar haar grootmoeder Henrica van Egmont
+kocht	ArgM-LOC	in de jaren 1609 en 1610 voor haar drie lijfrenten van in totaal 223 gulden per jaar
+was	#	De familie
+overleed	Arg1	Haar zusje Hedwig
+was	Arg1	een schuilkerk
+erfde	Arg0	zij
+trad	A1	het gereformeerde stadsbestuur
+ingewoond	ArgM-DIS	Knuif en De Jong , 56
+woonde	ArgM-LOC	op het Huis te Warmond
+volgde	A1	hem
+vermaakte	A1	een huis en erf in Utrecht en land
+was	ArgM-TMP	in het Nederlands terugvertaald uittreksel in Van der Steur 264-267
+kwam	ArgM-ADV	Waarschijnlijk
+is	Arg1	Dit graf
+vermeld	ArgM-TMP	in de kerkelijke correspondentie van haar tijd
+bestonden	ArgM-LOC	in de Republiek
+zijn	#	Zij
+geboden	Arg1	Petrus onderdak
+zijn	Arg1	zij
+overnam	AM-TMP	begin zeventiende eeuw
+uitgestorven	ArgM-MNR	in mannelijke lijn
+zijn	#	er
+gedaan	Arg1	zij
+geraadpleegd	#	januari 2010
+werkende	#	clandestien
+is	#	er uitgebreid naar is gezocht , onder meer door wichelroedelopers
+waren	#	Haar peters
+gespeeld	Arg1	Welke rol
+werkende	ArgM-CAU	min of meer
+gevonden	#	er
+zal	ArgM-CAU	zijn
+bleef	#	ongehuwd
+gezocht	AM-TMP	Uiteindelijk
+zijn	#	Vanwege haar lichaamsgebrek -- een bochel -- zal Henrica van Duivenvoorde een lastige partij op de huwelijksmarkt zijn geweest
+uitgebracht	ArgM-TMP	in 1640
+kreeg	ArgM-PRD	Als vijftienjarige
+ontkomen	Arg0	De priesters
+werkende	#	clandestien
