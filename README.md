@@ -31,5 +31,5 @@ Commands;
 
 4. Run the script extract_srl_de_4_trial.py via the terminal with the next command
 
-		- python my_folder/srlde_v4/new_extraction/srld_ext_v4_trial.py
+		- python my_folder/srlde_v4/new_extraction/srld_v4.py
 
