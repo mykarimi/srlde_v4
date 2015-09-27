@@ -25,7 +25,9 @@ Commands;
 		
 		- git clone https://github.com/mykarimi/srlde_v4
 
-2. Go to the folder my_folder/srlde_v4/new_extraction/
+2. Go to the folder 
+
+		- my_folder/srlde_v4/new_extraction/
 
 3. Place the file(s) that you want to proces in the folder input
 
