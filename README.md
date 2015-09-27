@@ -1,9 +1,9 @@
 # Semantic Role Labels & Data Extractor v4.0
 
-Author: M. Yassine Karimi
-Date: July the 14th, 2015
-Project BiographyNet: "Time Will Tell A Different Story" 
-@VU University Amsterdam
+- Author: M. Yassine Karimi
+- Date: July the 14th, 2015
+- Project BiographyNet: "Time Will Tell A Different Story" 
+- @VU University Amsterdam
 
 
 Requirements:
